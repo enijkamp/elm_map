@@ -122,8 +122,8 @@ function [ELM,min_index,AD_inds] = check_membership(config,des_net,gen_net,ELM,.
             ELM.min_IDs(min_index) = max(ELM.min_IDs)+1;
         elseif min_en < max(ELM.min_ens)
             min_index = find(ELM.min_ens==max(ELM.min_ens),1,'first');
-            fprintf('*New min found (ID %d)*\n',min_index);
-            ELM.min_ens(min_index) = prop_min_energy;
+            fprintf('new min found (ID %d)\n',min_index);
+            ELM.min_ens(min_index) = min_en;
             ELM.min_ims(:,:,:,min_index) = min_im;
             ELM.min_z(:,:,:,min_index) = min_z;
             ELM.min_IDs(min_index) = max(ELM.min_IDs)+1;

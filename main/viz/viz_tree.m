@@ -1,4 +1,6 @@
-function [min_viz_ord,viz_mat_x,viz_mat_y] = viz_tree(nodes)
+function [min_viz_ord,viz_mat_x,viz_mat_y] = viz_tree(nodes,min_ims,title_str,prop)
+    if nargin < 3, title_str = ''; end
+    if nargin < 4, prop = 0.125; end
     %nodes = permute_children(nodes);
     min_viz_ord = get_viz_order(nodes);
     viz_mat_x = [];
@@ -27,11 +29,21 @@ function [min_viz_ord,viz_mat_x,viz_mat_y] = viz_tree(nodes)
     for i = 1:length(min_viz_ord)
         min_e = min([min_e,nodes{i}.energy]);
     end
-    en_marg = 1/25*(nodes{end}.energy-min_e);
-    axis([0.5,length(min_viz_ord)+0.5,min_e-en_marg,nodes{end}.energy+en_marg]);
+    en_marg = (nodes{end}.energy-min_e);
+    axis([0,length(min_viz_ord)+1,min_e-en_marg*prop*1.3,nodes{end}.energy+en_marg*prop/3]);
+    xticks(1:length(min_viz_ord));
+    xticklabels(string(1:length(min_viz_ord)));
     xlabel('Minima Index');
     ylabel('Energy');
-    title('0-3 ELM Tree (in Descriptor Space)');
+    title(title_str);  
+    if nargin > 1 
+        for i = 1:size(min_ims,4)
+            imagesc([i-7/16, i+7/16], [min_e-en_marg*(.3*prop), min_e-en_marg*prop], ...
+                            min_ims(:,:,:,min_viz_ord(i)));
+            colormap('Gray');
+        end
+    end
+    set(gca,'dataAspectRatio',[7/8,  min_e-en_marg*.3*prop-(min_e-en_marg*prop), 1]);
     hold off;
 end
 
