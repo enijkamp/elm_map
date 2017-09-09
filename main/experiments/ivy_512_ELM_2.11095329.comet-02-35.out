@@ -1,0 +1,501 @@
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2016 The MathWorks, Inc.
+                   R2016b (9.1.0.441655) 64-bit (glnxa64)
+                             September 7, 2016
+
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+Building with 'g++'.
+MEX completed successfully.
+Building with 'g++'.
+MEX completed successfully.
+Building with 'g++'.
+MEX completed successfully.
+Building with 'g++'.
+MEX completed successfully.
+Building with 'g++'.
+MEX completed successfully.
+Building with 'g++'.
+MEX completed successfully.
+Building with 'g++'.
+MEX completed successfully.
+Building with 'g++'.
+MEX completed successfully.
+Building with 'g++'.
+MEX completed successfully.
+Building with 'g++'.
+MEX completed successfully.
+Building with 'g++'.
+MEX completed successfully.
+Building with 'g++'.
+MEX completed successfully.
+Building with 'g++'.
+MEX completed successfully.
+Building with 'g++'.
+MEX completed successfully.
+Building with 'g++'.
+MEX completed successfully.
+Building with 'g++'.
+MEX completed successfully.
+Building with 'g++'.
+In file included from /home/enijkamp/elm_map0/matconvnet-1.0-beta16/matlab/src/bits/impl/imread_libjpeg.cpp:14:0:
+/home/enijkamp/elm_map0/matconvnet-1.0-beta16/matlab/src/bits/impl/imread_helpers.hpp:35:2: warning: #warning "SSSE3 instruction set not enabled. Using slower image conversion routines." [-Wcpp]
+ #warning "SSSE3 instruction set not enabled. Using slower image conversion routines."
+  ^
+
+MEX completed successfully.
+Building with 'g++'.
+MEX completed successfully.
+Building with 'g++'.
+MEX completed successfully.
+Building with 'g++'.
+MEX completed successfully.
+Building with 'g++'.
+MEX completed successfully.
+Building with 'g++'.
+MEX completed successfully.
+Building with 'g++'.
+MEX completed successfully.
+Building with 'gcc'.
+MEX completed successfully.
+Building with 'gcc'.
+MEX completed successfully.
+Building with 'gcc'.
+MEX completed successfully.
+Building with 'gcc'.
+MEX completed successfully.
+Building with 'gcc'.
+MEX completed successfully.
+Building with 'gcc'.
+MEX completed successfully.
+Starting parallel pool (parpool) using the 'local' profile ... connected to 1 workers.
+
+ELM Step 1 of 1
+----
+Finding local min
+1.45 seconds 
+----
+Checking minimum membership
+AD_checks=1
+new min found (ID 2)
+5.10 seconds 
+----
+
+Total mapping time: 9.42 seconds 
+9.42 seconds per ELM iteration 
+
+
+ELM Step 1 of 1
+----
+Finding local min
+3.32 seconds 
+----
+Checking minimum membership
+AD_checks=2
+successful diffusion to: 1 
+min sorted to basin 1
+basin 1 rep updated 
+6.55 seconds 
+----
+
+Total mapping time: 10.42 seconds 
+10.42 seconds per ELM iteration 
+
+     2
+
+        2500
+
+
+ELM Step 1 of 1
+----
+Finding local min
+2.09 seconds 
+----
+Checking minimum membership
+AD_checks=1
+new min found (ID 2)
+2.80 seconds 
+----
+
+Total mapping time: 7.27 seconds 
+7.27 seconds per ELM iteration 
+
+
+ELM Step 1 of 1
+----
+Finding local min
+2.07 seconds 
+----
+Checking minimum membership
+AD_checks=2
+new min found (ID 3)
+7.41 seconds 
+----
+
+Total mapping time: 10.03 seconds 
+10.03 seconds per ELM iteration 
+
+
+ELM Step 1 of 1
+----
+Finding local min
+1.81 seconds 
+----
+Checking minimum membership
+AD_checks=3
+successful diffusion to: 1 
+min sorted to basin 1
+12.96 seconds 
+----
+
+Total mapping time: 15.32 seconds 
+15.32 seconds per ELM iteration 
+
+     3
+
+   2.3148e+03
+
+
+ELM Step 1 of 1
+----
+Finding local min
+0.77 seconds 
+----
+Checking minimum membership
+AD_checks=1
+successful diffusion to: 1 
+min sorted to basin 1
+5.36 seconds 
+----
+
+Total mapping time: 7.97 seconds 
+7.97 seconds per ELM iteration 
+
+     1
+
+   2.1433e+03
+
+
+ELM Step 1 of 1
+----
+Finding local min
+1.30 seconds 
+----
+Checking minimum membership
+AD_checks=1
+new min found (ID 2)
+4.96 seconds 
+----
+
+Total mapping time: 8.36 seconds 
+8.36 seconds per ELM iteration 
+
+
+ELM Step 1 of 1
+----
+Finding local min
+2.50 seconds 
+----
+Checking minimum membership
+AD_checks=2
+new min found (ID 3)
+10.32 seconds 
+----
+
+Total mapping time: 13.38 seconds 
+13.38 seconds per ELM iteration 
+
+
+ELM Step 1 of 1
+----
+Finding local min
+1.41 seconds 
+----
+Checking minimum membership
+AD_checks=3
+new min found (ID 4)
+14.35 seconds 
+----
+
+Total mapping time: 16.48 seconds 
+16.48 seconds per ELM iteration 
+
+
+ELM Step 1 of 1
+----
+Finding local min
+1.24 seconds 
+----
+Checking minimum membership
+AD_checks=4
+new min found (ID 5)
+16.12 seconds 
+----
+
+Total mapping time: 17.92 seconds 
+17.92 seconds per ELM iteration 
+
+
+ELM Step 1 of 1
+----
+Finding local min
+2.63 seconds 
+----
+Checking minimum membership
+AD_checks=5
+new min found (ID 6)
+21.07 seconds 
+----
+
+Total mapping time: 24.47 seconds 
+24.47 seconds per ELM iteration 
+
+
+ELM Step 1 of 1
+----
+Finding local min
+2.59 seconds 
+----
+Checking minimum membership
+AD_checks=5
+new min found (ID 7)
+20.03 seconds 
+----
+
+Total mapping time: 23.20 seconds 
+23.20 seconds per ELM iteration 
+
+
+ELM Step 1 of 1
+----
+Finding local min
+2.80 seconds 
+----
+Checking minimum membership
+AD_checks=5
+successful diffusion to: 3 
+min sorted to basin 3
+basin 3 rep updated 
+29.79 seconds 
+----
+
+Total mapping time: 33.36 seconds 
+33.36 seconds per ELM iteration 
+
+     7
+
+   1.9846e+03
+
+
+ELM Step 1 of 1
+----
+Finding local min
+2.37 seconds 
+----
+Checking minimum membership
+AD_checks=1
+new min found (ID 2)
+4.86 seconds 
+----
+
+Total mapping time: 10.01 seconds 
+10.01 seconds per ELM iteration 
+
+
+ELM Step 1 of 1
+----
+Finding local min
+1.51 seconds 
+----
+Checking minimum membership
+AD_checks=2
+new min found (ID 3)
+9.42 seconds 
+----
+
+Total mapping time: 11.48 seconds 
+11.48 seconds per ELM iteration 
+
+
+ELM Step 1 of 1
+----
+Finding local min
+3.02 seconds 
+----
+Checking minimum membership
+AD_checks=3
+new min found (ID 4)
+9.85 seconds 
+----
+
+Total mapping time: 13.67 seconds 
+13.67 seconds per ELM iteration 
+
+
+ELM Step 1 of 1
+----
+Finding local min
+1.68 seconds 
+----
+Checking minimum membership
+AD_checks=4
+new min found (ID 5)
+15.77 seconds 
+----
+
+Total mapping time: 18.03 seconds 
+18.03 seconds per ELM iteration 
+
+
+ELM Step 1 of 1
+----
+Finding local min
+0.86 seconds 
+----
+Checking minimum membership
+AD_checks=5
+new min found (ID 6)
+21.51 seconds 
+----
+
+Total mapping time: 23.14 seconds 
+23.14 seconds per ELM iteration 
+
+
+ELM Step 1 of 1
+----
+Finding local min
+3.25 seconds 
+----
+Checking minimum membership
+AD_checks=5
+new min found (ID 7)
+21.06 seconds 
+----
+
+Total mapping time: 25.10 seconds 
+25.10 seconds per ELM iteration 
+
+
+ELM Step 1 of 1
+----
+Finding local min
+2.23 seconds 
+----
+Checking minimum membership
+AD_checks=5
+new min found (ID 8)
+23.93 seconds 
+----
+
+Total mapping time: 26.77 seconds 
+26.77 seconds per ELM iteration 
+
+
+ELM Step 1 of 1
+----
+Finding local min
+2.32 seconds 
+----
+Checking minimum membership
+AD_checks=5
+new min found (ID 9)
+16.27 seconds 
+----
+
+Total mapping time: 19.42 seconds 
+19.42 seconds per ELM iteration 
+
+
+ELM Step 1 of 1
+----
+Finding local min
+1.28 seconds 
+----
+Checking minimum membership
+AD_checks=5
+new min found (ID 10)
+22.70 seconds 
+----
+
+Total mapping time: 24.82 seconds 
+24.82 seconds per ELM iteration 
+
+
+ELM Step 1 of 1
+----
+Finding local min
+2.88 seconds 
+----
+Checking minimum membership
+AD_checks=5
+new min found (ID 11)
+20.36 seconds 
+----
+
+Total mapping time: 23.87 seconds 
+23.87 seconds per ELM iteration 
+
+
+ELM Step 1 of 1
+----
+Finding local min
+1.18 seconds 
+----
+Checking minimum membership
+AD_checks=5
+successful diffusion to: 2 
+min sorted to basin 2
+basin 2 rep updated 
+26.87 seconds 
+----
+
+Total mapping time: 28.88 seconds 
+28.88 seconds per ELM iteration 
+
+    11
+
+   1.8376e+03
+
+
+ELM Step 1 of 1
+----
+Finding local min
+1.55 seconds 
+----
+Checking minimum membership
+AD_checks=1
+new min found (ID 2)
+5.81 seconds 
+----
+
+Total mapping time: 11.28 seconds 
+11.28 seconds per ELM iteration 
+
+
+ELM Step 1 of 1
+----
+Finding local min
+1.16 seconds 
+----
+Checking minimum membership
+AD_checks=2
+new min found (ID 3)
+5.79 seconds 
+----
+
+Total mapping time: 7.50 seconds 
+7.50 seconds per ELM iteration 
+
+
+ELM Step 1 of 1
+----
+Finding local min
+1.26 seconds 
+----
+Checking minimum membership
+AD_checks=3
+slurmstepd: *** JOB 11095329 ON comet-02-35 CANCELLED AT 2017-09-06T10:19:25 ***
