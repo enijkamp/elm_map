@@ -21233,3 +21233,3478 @@ Finding local min
 2.23 seconds 
 ----
 Checking minimum membership
+AD_checks=10
+AD_checks=10
+AD_checks=10
+new min found (ID 699)
+89.80 seconds 
+----
+
+ELM Step 378 of 1000
+----
+Finding local min
+1.73 seconds 
+----
+Checking minimum membership
+AD_checks=10
+successful diffusion to: 519 
+min sorted to basin 519
+80.17 seconds 
+----
+
+ELM Step 379 of 1000
+----
+Finding local min
+1.13 seconds 
+----
+Checking minimum membership
+AD_checks=10
+AD_checks=10
+successful diffusion to: 696 
+min sorted to basin 696
+basin 696 rep updated 
+84.81 seconds 
+----
+
+ELM Step 380 of 1000
+----
+Finding local min
+2.32 seconds 
+----
+Checking minimum membership
+AD_checks=10
+AD_checks=10
+AD_checks=10
+new min found (ID 700)
+93.17 seconds 
+----
+
+ELM Step 381 of 1000
+----
+Finding local min
+1.94 seconds 
+----
+Checking minimum membership
+AD_checks=10
+AD_checks=10
+AD_checks=10
+new min found (ID 701)
+85.13 seconds 
+----
+
+ELM Step 382 of 1000
+----
+Finding local min
+2.05 seconds 
+----
+Checking minimum membership
+AD_checks=10
+successful diffusion to: 224 
+min sorted to basin 224
+78.82 seconds 
+----
+
+ELM Step 383 of 1000
+----
+Finding local min
+2.87 seconds 
+----
+Checking minimum membership
+AD_checks=10
+AD_checks=10
+AD_checks=10
+new min found (ID 702)
+88.20 seconds 
+----
+
+ELM Step 384 of 1000
+----
+Finding local min
+2.44 seconds 
+----
+Checking minimum membership
+AD_checks=10
+successful diffusion to: 82 
+min sorted to basin 82
+basin 82 rep updated 
+77.03 seconds 
+----
+
+ELM Step 385 of 1000
+----
+Finding local min
+2.92 seconds 
+----
+Checking minimum membership
+AD_checks=10
+AD_checks=10
+successful diffusion to: 127 
+min sorted to basin 127
+basin 127 rep updated 
+83.31 seconds 
+----
+
+ELM Step 386 of 1000
+----
+Finding local min
+2.35 seconds 
+----
+Checking minimum membership
+AD_checks=10
+AD_checks=10
+AD_checks=10
+successful diffusion to: 441 
+min sorted to basin 441
+99.98 seconds 
+----
+
+ELM Step 387 of 1000
+----
+Finding local min
+2.35 seconds 
+----
+Checking minimum membership
+AD_checks=10
+AD_checks=10
+AD_checks=10
+new min found (ID 703)
+81.45 seconds 
+----
+
+ELM Step 388 of 1000
+----
+Finding local min
+1.58 seconds 
+----
+Checking minimum membership
+AD_checks=10
+AD_checks=10
+AD_checks=10
+new min found (ID 704)
+90.32 seconds 
+----
+
+ELM Step 389 of 1000
+----
+Finding local min
+1.56 seconds 
+----
+Checking minimum membership
+AD_checks=10
+AD_checks=10
+AD_checks=10
+new min found (ID 705)
+89.20 seconds 
+----
+
+ELM Step 390 of 1000
+----
+Finding local min
+1.59 seconds 
+----
+Checking minimum membership
+AD_checks=10
+AD_checks=10
+AD_checks=10
+new min found (ID 706)
+94.65 seconds 
+----
+
+ELM Step 391 of 1000
+----
+Finding local min
+1.47 seconds 
+----
+Checking minimum membership
+AD_checks=10
+successful diffusion to: 341 
+min sorted to basin 341
+78.61 seconds 
+----
+
+ELM Step 392 of 1000
+----
+Finding local min
+1.89 seconds 
+----
+Checking minimum membership
+AD_checks=10
+AD_checks=10
+AD_checks=10
+new min found (ID 707)
+91.81 seconds 
+----
+
+ELM Step 393 of 1000
+----
+Finding local min
+3.85 seconds 
+----
+Checking minimum membership
+AD_checks=10
+AD_checks=10
+AD_checks=10
+new min found (ID 708)
+89.65 seconds 
+----
+
+ELM Step 394 of 1000
+----
+Finding local min
+1.61 seconds 
+----
+Checking minimum membership
+AD_checks=10
+AD_checks=10
+AD_checks=10
+new min found (ID 709)
+92.49 seconds 
+----
+
+ELM Step 395 of 1000
+----
+Finding local min
+2.01 seconds 
+----
+Checking minimum membership
+AD_checks=10
+successful diffusion to: 274 
+min sorted to basin 274
+79.65 seconds 
+----
+
+ELM Step 396 of 1000
+----
+Finding local min
+0.83 seconds 
+----
+Checking minimum membership
+AD_checks=10
+AD_checks=10
+AD_checks=10
+new min found (ID 710)
+90.02 seconds 
+----
+
+ELM Step 397 of 1000
+----
+Finding local min
+1.38 seconds 
+----
+Checking minimum membership
+AD_checks=10
+AD_checks=10
+AD_checks=10
+new min found (ID 711)
+87.85 seconds 
+----
+
+ELM Step 398 of 1000
+----
+Finding local min
+1.38 seconds 
+----
+Checking minimum membership
+AD_checks=10
+AD_checks=10
+AD_checks=10
+new min found (ID 712)
+86.32 seconds 
+----
+
+ELM Step 399 of 1000
+----
+Finding local min
+1.52 seconds 
+----
+Checking minimum membership
+AD_checks=10
+AD_checks=10
+AD_checks=10
+new min found (ID 713)
+90.47 seconds 
+----
+
+ELM Step 400 of 1000
+----
+Finding local min
+1.86 seconds 
+----
+Checking minimum membership
+AD_checks=10
+AD_checks=10
+AD_checks=10
+new min found (ID 714)
+85.23 seconds 
+----
+
+ELM Step 401 of 1000
+----
+Finding local min
+2.66 seconds 
+----
+Checking minimum membership
+AD_checks=10
+AD_checks=10
+AD_checks=10
+new min found (ID 715)
+93.21 seconds 
+----
+
+ELM Step 402 of 1000
+----
+Finding local min
+2.50 seconds 
+----
+Checking minimum membership
+AD_checks=10
+AD_checks=10
+AD_checks=10
+new min found (ID 716)
+95.18 seconds 
+----
+
+ELM Step 403 of 1000
+----
+Finding local min
+2.19 seconds 
+----
+Checking minimum membership
+AD_checks=10
+AD_checks=10
+successful diffusion to: 307 
+min sorted to basin 307
+91.14 seconds 
+----
+
+ELM Step 404 of 1000
+----
+Finding local min
+3.79 seconds 
+----
+Checking minimum membership
+AD_checks=10
+successful diffusion to: 224 
+min sorted to basin 224
+78.77 seconds 
+----
+
+ELM Step 405 of 1000
+----
+Finding local min
+2.75 seconds 
+----
+Checking minimum membership
+AD_checks=10
+AD_checks=10
+AD_checks=10
+new min found (ID 717)
+96.06 seconds 
+----
+
+ELM Step 406 of 1000
+----
+Finding local min
+1.12 seconds 
+----
+Checking minimum membership
+AD_checks=10
+AD_checks=10
+AD_checks=10
+new min found (ID 718)
+86.99 seconds 
+----
+
+ELM Step 407 of 1000
+----
+Finding local min
+0.63 seconds 
+----
+Checking minimum membership
+AD_checks=10
+AD_checks=10
+AD_checks=10
+new min found (ID 719)
+92.19 seconds 
+----
+
+ELM Step 408 of 1000
+----
+Finding local min
+1.99 seconds 
+----
+Checking minimum membership
+AD_checks=10
+AD_checks=10
+AD_checks=10
+new min found (ID 720)
+87.72 seconds 
+----
+
+ELM Step 409 of 1000
+----
+Finding local min
+2.48 seconds 
+----
+Checking minimum membership
+AD_checks=10
+successful diffusion to: 225 
+min sorted to basin 225
+81.79 seconds 
+----
+
+ELM Step 410 of 1000
+----
+Finding local min
+2.82 seconds 
+----
+Checking minimum membership
+AD_checks=10
+AD_checks=10
+AD_checks=10
+new min found (ID 721)
+99.98 seconds 
+----
+
+ELM Step 411 of 1000
+----
+Finding local min
+2.68 seconds 
+----
+Checking minimum membership
+AD_checks=10
+AD_checks=10
+AD_checks=10
+new min found (ID 722)
+97.49 seconds 
+----
+
+ELM Step 412 of 1000
+----
+Finding local min
+2.31 seconds 
+----
+Checking minimum membership
+AD_checks=10
+successful diffusion to: 17 
+min sorted to basin 17
+82.99 seconds 
+----
+
+ELM Step 413 of 1000
+----
+Finding local min
+2.28 seconds 
+----
+Checking minimum membership
+AD_checks=10
+AD_checks=10
+AD_checks=10
+new min found (ID 723)
+87.66 seconds 
+----
+
+ELM Step 414 of 1000
+----
+Finding local min
+1.10 seconds 
+----
+Checking minimum membership
+AD_checks=10
+successful diffusion to: 17 274 
+min sorted to basin 17
+82.36 seconds 
+----
+
+ELM Step 415 of 1000
+----
+Finding local min
+0.81 seconds 
+----
+Checking minimum membership
+AD_checks=10
+AD_checks=10
+AD_checks=10
+successful diffusion to: 78 
+min sorted to basin 78
+91.75 seconds 
+----
+
+ELM Step 416 of 1000
+----
+Finding local min
+1.66 seconds 
+----
+Checking minimum membership
+AD_checks=10
+AD_checks=10
+AD_checks=10
+new min found (ID 724)
+92.57 seconds 
+----
+
+ELM Step 417 of 1000
+----
+Finding local min
+1.33 seconds 
+----
+Checking minimum membership
+AD_checks=10
+AD_checks=10
+AD_checks=10
+new min found (ID 725)
+92.90 seconds 
+----
+
+ELM Step 418 of 1000
+----
+Finding local min
+1.10 seconds 
+----
+Checking minimum membership
+AD_checks=10
+AD_checks=10
+AD_checks=10
+new min found (ID 726)
+90.66 seconds 
+----
+
+ELM Step 419 of 1000
+----
+Finding local min
+1.33 seconds 
+----
+Checking minimum membership
+AD_checks=10
+AD_checks=10
+AD_checks=10
+new min found (ID 727)
+93.73 seconds 
+----
+
+ELM Step 420 of 1000
+----
+Finding local min
+2.01 seconds 
+----
+Checking minimum membership
+AD_checks=10
+AD_checks=10
+successful diffusion to: 150 
+min sorted to basin 150
+basin 150 rep updated 
+88.70 seconds 
+----
+
+ELM Step 421 of 1000
+----
+Finding local min
+2.14 seconds 
+----
+Checking minimum membership
+AD_checks=10
+AD_checks=10
+AD_checks=10
+new min found (ID 728)
+89.86 seconds 
+----
+
+ELM Step 422 of 1000
+----
+Finding local min
+3.11 seconds 
+----
+Checking minimum membership
+AD_checks=10
+AD_checks=10
+AD_checks=10
+new min found (ID 729)
+91.73 seconds 
+----
+
+ELM Step 423 of 1000
+----
+Finding local min
+2.05 seconds 
+----
+Checking minimum membership
+AD_checks=10
+AD_checks=10
+AD_checks=10
+new min found (ID 730)
+94.49 seconds 
+----
+
+ELM Step 424 of 1000
+----
+Finding local min
+2.65 seconds 
+----
+Checking minimum membership
+AD_checks=10
+successful diffusion to: 274 
+min sorted to basin 274
+86.47 seconds 
+----
+
+ELM Step 425 of 1000
+----
+Finding local min
+1.25 seconds 
+----
+Checking minimum membership
+AD_checks=10
+AD_checks=10
+AD_checks=10
+new min found (ID 731)
+95.42 seconds 
+----
+
+ELM Step 426 of 1000
+----
+Finding local min
+3.49 seconds 
+----
+Checking minimum membership
+AD_checks=10
+AD_checks=10
+AD_checks=10
+new min found (ID 732)
+86.17 seconds 
+----
+
+ELM Step 427 of 1000
+----
+Finding local min
+2.17 seconds 
+----
+Checking minimum membership
+AD_checks=10
+successful diffusion to: 209 249 
+min sorted to basin 209
+82.27 seconds 
+----
+
+ELM Step 428 of 1000
+----
+Finding local min
+2.48 seconds 
+----
+Checking minimum membership
+AD_checks=10
+AD_checks=10
+AD_checks=10
+new min found (ID 733)
+87.48 seconds 
+----
+
+ELM Step 429 of 1000
+----
+Finding local min
+1.50 seconds 
+----
+Checking minimum membership
+AD_checks=10
+AD_checks=10
+AD_checks=10
+new min found (ID 734)
+101.64 seconds 
+----
+
+ELM Step 430 of 1000
+----
+Finding local min
+2.94 seconds 
+----
+Checking minimum membership
+AD_checks=10
+successful diffusion to: 434 
+min sorted to basin 434
+basin 434 rep updated 
+81.71 seconds 
+----
+
+ELM Step 431 of 1000
+----
+Finding local min
+1.92 seconds 
+----
+Checking minimum membership
+AD_checks=10
+AD_checks=10
+AD_checks=10
+new min found (ID 735)
+92.29 seconds 
+----
+
+ELM Step 432 of 1000
+----
+Finding local min
+2.25 seconds 
+----
+Checking minimum membership
+AD_checks=10
+AD_checks=10
+AD_checks=10
+new min found (ID 736)
+99.72 seconds 
+----
+
+ELM Step 433 of 1000
+----
+Finding local min
+1.65 seconds 
+----
+Checking minimum membership
+AD_checks=10
+AD_checks=10
+AD_checks=10
+new min found (ID 737)
+99.07 seconds 
+----
+
+ELM Step 434 of 1000
+----
+Finding local min
+2.07 seconds 
+----
+Checking minimum membership
+AD_checks=10
+AD_checks=10
+AD_checks=10
+new min found (ID 738)
+87.78 seconds 
+----
+
+ELM Step 435 of 1000
+----
+Finding local min
+3.32 seconds 
+----
+Checking minimum membership
+AD_checks=10
+AD_checks=10
+AD_checks=10
+new min found (ID 739)
+92.42 seconds 
+----
+
+ELM Step 436 of 1000
+----
+Finding local min
+2.59 seconds 
+----
+Checking minimum membership
+AD_checks=10
+AD_checks=10
+successful diffusion to: 127 
+min sorted to basin 127
+86.70 seconds 
+----
+
+ELM Step 437 of 1000
+----
+Finding local min
+2.10 seconds 
+----
+Checking minimum membership
+AD_checks=10
+AD_checks=10
+AD_checks=10
+new min found (ID 740)
+90.71 seconds 
+----
+
+ELM Step 438 of 1000
+----
+Finding local min
+1.08 seconds 
+----
+Checking minimum membership
+AD_checks=10
+AD_checks=10
+AD_checks=10
+new min found (ID 741)
+96.43 seconds 
+----
+
+ELM Step 439 of 1000
+----
+Finding local min
+1.89 seconds 
+----
+Checking minimum membership
+AD_checks=10
+AD_checks=10
+AD_checks=10
+successful diffusion to: 328 
+min sorted to basin 328
+96.78 seconds 
+----
+
+ELM Step 440 of 1000
+----
+Finding local min
+2.66 seconds 
+----
+Checking minimum membership
+AD_checks=10
+AD_checks=10
+AD_checks=10
+new min found (ID 742)
+91.56 seconds 
+----
+
+ELM Step 441 of 1000
+----
+Finding local min
+2.47 seconds 
+----
+Checking minimum membership
+AD_checks=10
+AD_checks=10
+AD_checks=10
+new min found (ID 743)
+87.66 seconds 
+----
+
+ELM Step 442 of 1000
+----
+Finding local min
+1.23 seconds 
+----
+Checking minimum membership
+AD_checks=10
+AD_checks=10
+AD_checks=10
+new min found (ID 744)
+92.21 seconds 
+----
+
+ELM Step 443 of 1000
+----
+Finding local min
+2.25 seconds 
+----
+Checking minimum membership
+AD_checks=10
+AD_checks=10
+AD_checks=10
+new min found (ID 745)
+92.87 seconds 
+----
+
+ELM Step 444 of 1000
+----
+Finding local min
+3.20 seconds 
+----
+Checking minimum membership
+AD_checks=10
+AD_checks=10
+AD_checks=10
+new min found (ID 746)
+95.62 seconds 
+----
+
+ELM Step 445 of 1000
+----
+Finding local min
+0.53 seconds 
+----
+Checking minimum membership
+AD_checks=10
+AD_checks=10
+AD_checks=10
+new min found (ID 747)
+93.54 seconds 
+----
+
+ELM Step 446 of 1000
+----
+Finding local min
+3.15 seconds 
+----
+Checking minimum membership
+AD_checks=10
+AD_checks=10
+AD_checks=10
+new min found (ID 748)
+96.70 seconds 
+----
+
+ELM Step 447 of 1000
+----
+Finding local min
+2.67 seconds 
+----
+Checking minimum membership
+AD_checks=10
+AD_checks=10
+AD_checks=10
+successful diffusion to: 440 
+min sorted to basin 440
+basin 440 rep updated 
+93.30 seconds 
+----
+
+ELM Step 448 of 1000
+----
+Finding local min
+3.30 seconds 
+----
+Checking minimum membership
+AD_checks=10
+AD_checks=10
+AD_checks=10
+new min found (ID 749)
+92.00 seconds 
+----
+
+ELM Step 449 of 1000
+----
+Finding local min
+1.67 seconds 
+----
+Checking minimum membership
+AD_checks=10
+AD_checks=10
+AD_checks=10
+new min found (ID 750)
+93.59 seconds 
+----
+
+ELM Step 450 of 1000
+----
+Finding local min
+2.85 seconds 
+----
+Checking minimum membership
+AD_checks=10
+AD_checks=10
+AD_checks=10
+new min found (ID 751)
+96.71 seconds 
+----
+
+ELM Step 451 of 1000
+----
+Finding local min
+1.55 seconds 
+----
+Checking minimum membership
+AD_checks=10
+AD_checks=10
+AD_checks=10
+new min found (ID 752)
+95.38 seconds 
+----
+
+ELM Step 452 of 1000
+----
+Finding local min
+2.56 seconds 
+----
+Checking minimum membership
+AD_checks=10
+AD_checks=10
+AD_checks=10
+new min found (ID 753)
+99.80 seconds 
+----
+
+ELM Step 453 of 1000
+----
+Finding local min
+2.25 seconds 
+----
+Checking minimum membership
+AD_checks=10
+AD_checks=10
+AD_checks=10
+new min found (ID 754)
+94.14 seconds 
+----
+
+ELM Step 454 of 1000
+----
+Finding local min
+2.05 seconds 
+----
+Checking minimum membership
+AD_checks=10
+AD_checks=10
+AD_checks=10
+new min found (ID 755)
+95.31 seconds 
+----
+
+ELM Step 455 of 1000
+----
+Finding local min
+1.73 seconds 
+----
+Checking minimum membership
+AD_checks=10
+AD_checks=10
+AD_checks=10
+new min found (ID 756)
+95.87 seconds 
+----
+
+ELM Step 456 of 1000
+----
+Finding local min
+0.83 seconds 
+----
+Checking minimum membership
+AD_checks=10
+AD_checks=10
+AD_checks=10
+new min found (ID 757)
+91.43 seconds 
+----
+
+ELM Step 457 of 1000
+----
+Finding local min
+1.68 seconds 
+----
+Checking minimum membership
+AD_checks=10
+AD_checks=10
+AD_checks=10
+new min found (ID 758)
+92.50 seconds 
+----
+
+ELM Step 458 of 1000
+----
+Finding local min
+2.15 seconds 
+----
+Checking minimum membership
+AD_checks=10
+AD_checks=10
+AD_checks=10
+new min found (ID 759)
+91.50 seconds 
+----
+
+ELM Step 459 of 1000
+----
+Finding local min
+1.37 seconds 
+----
+Checking minimum membership
+AD_checks=10
+successful diffusion to: 751 
+min sorted to basin 751
+83.96 seconds 
+----
+
+ELM Step 460 of 1000
+----
+Finding local min
+1.75 seconds 
+----
+Checking minimum membership
+AD_checks=10
+AD_checks=10
+AD_checks=10
+new min found (ID 760)
+96.95 seconds 
+----
+
+ELM Step 461 of 1000
+----
+Finding local min
+2.00 seconds 
+----
+Checking minimum membership
+AD_checks=10
+AD_checks=10
+AD_checks=10
+new min found (ID 761)
+94.94 seconds 
+----
+
+ELM Step 462 of 1000
+----
+Finding local min
+1.34 seconds 
+----
+Checking minimum membership
+AD_checks=10
+AD_checks=10
+AD_checks=10
+new min found (ID 762)
+92.14 seconds 
+----
+
+ELM Step 463 of 1000
+----
+Finding local min
+1.41 seconds 
+----
+Checking minimum membership
+AD_checks=10
+AD_checks=10
+AD_checks=10
+new min found (ID 763)
+94.56 seconds 
+----
+
+ELM Step 464 of 1000
+----
+Finding local min
+1.96 seconds 
+----
+Checking minimum membership
+AD_checks=10
+successful diffusion to: 96 
+min sorted to basin 96
+85.97 seconds 
+----
+
+ELM Step 465 of 1000
+----
+Finding local min
+1.94 seconds 
+----
+Checking minimum membership
+AD_checks=10
+AD_checks=10
+successful diffusion to: 396 
+min sorted to basin 396
+basin 396 rep updated 
+92.01 seconds 
+----
+
+ELM Step 466 of 1000
+----
+Finding local min
+1.20 seconds 
+----
+Checking minimum membership
+AD_checks=10
+AD_checks=10
+AD_checks=10
+new min found (ID 764)
+89.91 seconds 
+----
+
+ELM Step 467 of 1000
+----
+Finding local min
+1.28 seconds 
+----
+Checking minimum membership
+AD_checks=10
+AD_checks=10
+AD_checks=10
+successful diffusion to: 690 
+min sorted to basin 690
+basin 690 rep updated 
+97.13 seconds 
+----
+
+ELM Step 468 of 1000
+----
+Finding local min
+1.90 seconds 
+----
+Checking minimum membership
+AD_checks=10
+successful diffusion to: 208 
+min sorted to basin 208
+85.20 seconds 
+----
+
+ELM Step 469 of 1000
+----
+Finding local min
+2.21 seconds 
+----
+Checking minimum membership
+AD_checks=10
+AD_checks=10
+AD_checks=10
+new min found (ID 765)
+88.26 seconds 
+----
+
+ELM Step 470 of 1000
+----
+Finding local min
+1.55 seconds 
+----
+Checking minimum membership
+AD_checks=10
+AD_checks=10
+AD_checks=10
+new min found (ID 766)
+95.76 seconds 
+----
+
+ELM Step 471 of 1000
+----
+Finding local min
+1.00 seconds 
+----
+Checking minimum membership
+AD_checks=10
+AD_checks=10
+AD_checks=10
+new min found (ID 767)
+95.98 seconds 
+----
+
+ELM Step 472 of 1000
+----
+Finding local min
+1.92 seconds 
+----
+Checking minimum membership
+AD_checks=10
+AD_checks=10
+AD_checks=10
+new min found (ID 768)
+97.62 seconds 
+----
+
+ELM Step 473 of 1000
+----
+Finding local min
+1.28 seconds 
+----
+Checking minimum membership
+AD_checks=10
+AD_checks=10
+AD_checks=10
+new min found (ID 769)
+92.65 seconds 
+----
+
+ELM Step 474 of 1000
+----
+Finding local min
+4.31 seconds 
+----
+Checking minimum membership
+AD_checks=10
+successful diffusion to: 274 
+min sorted to basin 274
+84.15 seconds 
+----
+
+ELM Step 475 of 1000
+----
+Finding local min
+2.65 seconds 
+----
+Checking minimum membership
+AD_checks=10
+AD_checks=10
+successful diffusion to: 33 
+min sorted to basin 33
+92.48 seconds 
+----
+
+ELM Step 476 of 1000
+----
+Finding local min
+1.62 seconds 
+----
+Checking minimum membership
+AD_checks=10
+AD_checks=10
+AD_checks=10
+new min found (ID 770)
+99.19 seconds 
+----
+
+ELM Step 477 of 1000
+----
+Finding local min
+1.71 seconds 
+----
+Checking minimum membership
+AD_checks=10
+AD_checks=10
+AD_checks=10
+new min found (ID 771)
+95.48 seconds 
+----
+
+ELM Step 478 of 1000
+----
+Finding local min
+2.51 seconds 
+----
+Checking minimum membership
+AD_checks=10
+AD_checks=10
+AD_checks=10
+new min found (ID 772)
+97.44 seconds 
+----
+
+ELM Step 479 of 1000
+----
+Finding local min
+0.95 seconds 
+----
+Checking minimum membership
+AD_checks=10
+AD_checks=10
+AD_checks=10
+new min found (ID 773)
+96.98 seconds 
+----
+
+ELM Step 480 of 1000
+----
+Finding local min
+1.92 seconds 
+----
+Checking minimum membership
+AD_checks=10
+successful diffusion to: 291 
+min sorted to basin 291
+basin 291 rep updated 
+87.51 seconds 
+----
+
+ELM Step 481 of 1000
+----
+Finding local min
+1.79 seconds 
+----
+Checking minimum membership
+AD_checks=10
+successful diffusion to: 154 
+min sorted to basin 154
+basin 154 rep updated 
+84.74 seconds 
+----
+
+ELM Step 482 of 1000
+----
+Finding local min
+2.25 seconds 
+----
+Checking minimum membership
+AD_checks=10
+successful diffusion to: 200 
+min sorted to basin 200
+87.05 seconds 
+----
+
+ELM Step 483 of 1000
+----
+Finding local min
+1.16 seconds 
+----
+Checking minimum membership
+AD_checks=10
+AD_checks=10
+AD_checks=10
+new min found (ID 774)
+94.18 seconds 
+----
+
+ELM Step 484 of 1000
+----
+Finding local min
+4.40 seconds 
+----
+Checking minimum membership
+AD_checks=10
+AD_checks=10
+AD_checks=10
+new min found (ID 775)
+96.28 seconds 
+----
+
+ELM Step 485 of 1000
+----
+Finding local min
+3.19 seconds 
+----
+Checking minimum membership
+AD_checks=10
+AD_checks=10
+successful diffusion to: 353 648 
+min sorted to basin 353
+95.25 seconds 
+----
+
+ELM Step 486 of 1000
+----
+Finding local min
+1.78 seconds 
+----
+Checking minimum membership
+AD_checks=10
+AD_checks=10
+AD_checks=10
+new min found (ID 776)
+91.29 seconds 
+----
+
+ELM Step 487 of 1000
+----
+Finding local min
+2.81 seconds 
+----
+Checking minimum membership
+AD_checks=10
+AD_checks=10
+AD_checks=10
+new min found (ID 777)
+106.66 seconds 
+----
+
+ELM Step 488 of 1000
+----
+Finding local min
+2.10 seconds 
+----
+Checking minimum membership
+AD_checks=10
+AD_checks=10
+AD_checks=10
+new min found (ID 778)
+105.07 seconds 
+----
+
+ELM Step 489 of 1000
+----
+Finding local min
+1.75 seconds 
+----
+Checking minimum membership
+AD_checks=10
+AD_checks=10
+AD_checks=10
+new min found (ID 779)
+93.12 seconds 
+----
+
+ELM Step 490 of 1000
+----
+Finding local min
+1.97 seconds 
+----
+Checking minimum membership
+AD_checks=10
+AD_checks=10
+AD_checks=10
+new min found (ID 780)
+95.79 seconds 
+----
+
+ELM Step 491 of 1000
+----
+Finding local min
+1.52 seconds 
+----
+Checking minimum membership
+AD_checks=10
+AD_checks=10
+AD_checks=10
+new min found (ID 781)
+93.55 seconds 
+----
+
+ELM Step 492 of 1000
+----
+Finding local min
+1.38 seconds 
+----
+Checking minimum membership
+AD_checks=10
+AD_checks=10
+successful diffusion to: 46 334 
+min sorted to basin 46
+97.34 seconds 
+----
+
+ELM Step 493 of 1000
+----
+Finding local min
+2.08 seconds 
+----
+Checking minimum membership
+AD_checks=10
+AD_checks=10
+AD_checks=10
+new min found (ID 782)
+98.23 seconds 
+----
+
+ELM Step 494 of 1000
+----
+Finding local min
+2.35 seconds 
+----
+Checking minimum membership
+AD_checks=10
+AD_checks=10
+AD_checks=10
+new min found (ID 783)
+91.43 seconds 
+----
+
+ELM Step 495 of 1000
+----
+Finding local min
+1.17 seconds 
+----
+Checking minimum membership
+AD_checks=10
+AD_checks=10
+successful diffusion to: 187 
+min sorted to basin 187
+96.17 seconds 
+----
+
+ELM Step 496 of 1000
+----
+Finding local min
+2.13 seconds 
+----
+Checking minimum membership
+AD_checks=10
+AD_checks=10
+AD_checks=10
+successful diffusion to: 72 
+min sorted to basin 72
+103.20 seconds 
+----
+
+ELM Step 497 of 1000
+----
+Finding local min
+1.22 seconds 
+----
+Checking minimum membership
+AD_checks=10
+AD_checks=10
+AD_checks=10
+successful diffusion to: 400 
+min sorted to basin 400
+100.09 seconds 
+----
+
+ELM Step 498 of 1000
+----
+Finding local min
+2.61 seconds 
+----
+Checking minimum membership
+AD_checks=10
+AD_checks=10
+AD_checks=10
+successful diffusion to: 658 
+min sorted to basin 658
+100.62 seconds 
+----
+
+ELM Step 499 of 1000
+----
+Finding local min
+2.35 seconds 
+----
+Checking minimum membership
+AD_checks=10
+AD_checks=10
+AD_checks=10
+new min found (ID 784)
+97.48 seconds 
+----
+
+ELM Step 500 of 1000
+----
+Finding local min
+1.46 seconds 
+----
+Checking minimum membership
+AD_checks=10
+successful diffusion to: 696 
+min sorted to basin 696
+88.57 seconds 
+----
+
+ELM Step 501 of 1000
+----
+Finding local min
+2.35 seconds 
+----
+Checking minimum membership
+AD_checks=10
+AD_checks=10
+AD_checks=10
+successful diffusion to: 484 
+min sorted to basin 484
+105.71 seconds 
+----
+
+ELM Step 502 of 1000
+----
+Finding local min
+1.75 seconds 
+----
+Checking minimum membership
+AD_checks=10
+AD_checks=10
+AD_checks=10
+new min found (ID 785)
+99.71 seconds 
+----
+
+ELM Step 503 of 1000
+----
+Finding local min
+1.28 seconds 
+----
+Checking minimum membership
+AD_checks=10
+AD_checks=10
+AD_checks=10
+new min found (ID 786)
+97.39 seconds 
+----
+
+ELM Step 504 of 1000
+----
+Finding local min
+1.13 seconds 
+----
+Checking minimum membership
+AD_checks=10
+AD_checks=10
+AD_checks=10
+new min found (ID 787)
+104.92 seconds 
+----
+
+ELM Step 505 of 1000
+----
+Finding local min
+1.21 seconds 
+----
+Checking minimum membership
+AD_checks=10
+AD_checks=10
+AD_checks=10
+new min found (ID 788)
+97.13 seconds 
+----
+
+ELM Step 506 of 1000
+----
+Finding local min
+1.99 seconds 
+----
+Checking minimum membership
+AD_checks=10
+AD_checks=10
+successful diffusion to: 497 
+min sorted to basin 497
+basin 497 rep updated 
+90.35 seconds 
+----
+
+ELM Step 507 of 1000
+----
+Finding local min
+1.51 seconds 
+----
+Checking minimum membership
+AD_checks=10
+AD_checks=10
+AD_checks=10
+new min found (ID 789)
+100.02 seconds 
+----
+
+ELM Step 508 of 1000
+----
+Finding local min
+2.56 seconds 
+----
+Checking minimum membership
+AD_checks=10
+AD_checks=10
+successful diffusion to: 26 597 
+min sorted to basin 597
+96.25 seconds 
+----
+
+ELM Step 509 of 1000
+----
+Finding local min
+1.88 seconds 
+----
+Checking minimum membership
+AD_checks=10
+AD_checks=10
+AD_checks=10
+new min found (ID 790)
+95.41 seconds 
+----
+
+ELM Step 510 of 1000
+----
+Finding local min
+2.21 seconds 
+----
+Checking minimum membership
+AD_checks=10
+AD_checks=10
+AD_checks=10
+new min found (ID 791)
+100.25 seconds 
+----
+
+ELM Step 511 of 1000
+----
+Finding local min
+1.66 seconds 
+----
+Checking minimum membership
+AD_checks=10
+AD_checks=10
+AD_checks=10
+new min found (ID 792)
+101.84 seconds 
+----
+
+ELM Step 512 of 1000
+----
+Finding local min
+1.79 seconds 
+----
+Checking minimum membership
+AD_checks=10
+AD_checks=10
+AD_checks=10
+new min found (ID 793)
+102.97 seconds 
+----
+
+ELM Step 513 of 1000
+----
+Finding local min
+2.79 seconds 
+----
+Checking minimum membership
+AD_checks=10
+AD_checks=10
+AD_checks=10
+new min found (ID 794)
+105.13 seconds 
+----
+
+ELM Step 514 of 1000
+----
+Finding local min
+1.58 seconds 
+----
+Checking minimum membership
+AD_checks=10
+AD_checks=10
+AD_checks=10
+new min found (ID 795)
+95.03 seconds 
+----
+
+ELM Step 515 of 1000
+----
+Finding local min
+1.64 seconds 
+----
+Checking minimum membership
+AD_checks=10
+AD_checks=10
+AD_checks=10
+new min found (ID 796)
+107.22 seconds 
+----
+
+ELM Step 516 of 1000
+----
+Finding local min
+1.33 seconds 
+----
+Checking minimum membership
+AD_checks=10
+AD_checks=10
+AD_checks=10
+new min found (ID 797)
+95.33 seconds 
+----
+
+ELM Step 517 of 1000
+----
+Finding local min
+3.03 seconds 
+----
+Checking minimum membership
+AD_checks=10
+AD_checks=10
+successful diffusion to: 127 
+min sorted to basin 127
+94.69 seconds 
+----
+
+ELM Step 518 of 1000
+----
+Finding local min
+1.68 seconds 
+----
+Checking minimum membership
+AD_checks=10
+AD_checks=10
+AD_checks=10
+new min found (ID 798)
+94.56 seconds 
+----
+
+ELM Step 519 of 1000
+----
+Finding local min
+2.39 seconds 
+----
+Checking minimum membership
+AD_checks=10
+AD_checks=10
+AD_checks=10
+successful diffusion to: 363 
+min sorted to basin 363
+basin 363 rep updated 
+105.73 seconds 
+----
+
+ELM Step 520 of 1000
+----
+Finding local min
+1.01 seconds 
+----
+Checking minimum membership
+AD_checks=10
+AD_checks=10
+AD_checks=10
+new min found (ID 799)
+91.74 seconds 
+----
+
+ELM Step 521 of 1000
+----
+Finding local min
+1.06 seconds 
+----
+Checking minimum membership
+AD_checks=10
+AD_checks=10
+AD_checks=10
+new min found (ID 800)
+95.95 seconds 
+----
+
+ELM Step 522 of 1000
+----
+Finding local min
+2.67 seconds 
+----
+Checking minimum membership
+AD_checks=10
+successful diffusion to: 417 
+min sorted to basin 417
+89.06 seconds 
+----
+
+ELM Step 523 of 1000
+----
+Finding local min
+1.18 seconds 
+----
+Checking minimum membership
+AD_checks=10
+AD_checks=10
+AD_checks=10
+new min found (ID 801)
+97.38 seconds 
+----
+
+ELM Step 524 of 1000
+----
+Finding local min
+1.50 seconds 
+----
+Checking minimum membership
+AD_checks=10
+AD_checks=10
+AD_checks=10
+new min found (ID 802)
+99.71 seconds 
+----
+
+ELM Step 525 of 1000
+----
+Finding local min
+1.08 seconds 
+----
+Checking minimum membership
+AD_checks=10
+AD_checks=10
+AD_checks=10
+new min found (ID 803)
+98.92 seconds 
+----
+
+ELM Step 526 of 1000
+----
+Finding local min
+1.39 seconds 
+----
+Checking minimum membership
+AD_checks=10
+AD_checks=10
+AD_checks=10
+new min found (ID 804)
+97.58 seconds 
+----
+
+ELM Step 527 of 1000
+----
+Finding local min
+1.75 seconds 
+----
+Checking minimum membership
+AD_checks=10
+AD_checks=10
+AD_checks=10
+successful diffusion to: 291 
+min sorted to basin 291
+106.23 seconds 
+----
+
+ELM Step 528 of 1000
+----
+Finding local min
+2.40 seconds 
+----
+Checking minimum membership
+AD_checks=10
+AD_checks=10
+AD_checks=10
+new min found (ID 805)
+97.74 seconds 
+----
+
+ELM Step 529 of 1000
+----
+Finding local min
+1.95 seconds 
+----
+Checking minimum membership
+AD_checks=10
+successful diffusion to: 341 249 
+min sorted to basin 341
+91.24 seconds 
+----
+
+ELM Step 530 of 1000
+----
+Finding local min
+2.45 seconds 
+----
+Checking minimum membership
+AD_checks=10
+successful diffusion to: 161 
+min sorted to basin 161
+88.58 seconds 
+----
+
+ELM Step 531 of 1000
+----
+Finding local min
+2.60 seconds 
+----
+Checking minimum membership
+AD_checks=10
+successful diffusion to: 722 
+min sorted to basin 722
+basin 722 rep updated 
+91.29 seconds 
+----
+
+ELM Step 532 of 1000
+----
+Finding local min
+1.27 seconds 
+----
+Checking minimum membership
+AD_checks=10
+AD_checks=10
+AD_checks=10
+new min found (ID 806)
+94.87 seconds 
+----
+
+ELM Step 533 of 1000
+----
+Finding local min
+1.91 seconds 
+----
+Checking minimum membership
+AD_checks=10
+AD_checks=10
+AD_checks=10
+new min found (ID 807)
+103.45 seconds 
+----
+
+ELM Step 534 of 1000
+----
+Finding local min
+1.70 seconds 
+----
+Checking minimum membership
+AD_checks=10
+AD_checks=10
+AD_checks=10
+new min found (ID 808)
+102.77 seconds 
+----
+
+ELM Step 535 of 1000
+----
+Finding local min
+1.20 seconds 
+----
+Checking minimum membership
+AD_checks=10
+AD_checks=10
+AD_checks=10
+new min found (ID 809)
+108.79 seconds 
+----
+
+ELM Step 536 of 1000
+----
+Finding local min
+3.70 seconds 
+----
+Checking minimum membership
+AD_checks=10
+successful diffusion to: 127 
+min sorted to basin 127
+87.89 seconds 
+----
+
+ELM Step 537 of 1000
+----
+Finding local min
+1.25 seconds 
+----
+Checking minimum membership
+AD_checks=10
+AD_checks=10
+successful diffusion to: 426 
+min sorted to basin 426
+basin 426 rep updated 
+97.99 seconds 
+----
+
+ELM Step 538 of 1000
+----
+Finding local min
+2.30 seconds 
+----
+Checking minimum membership
+AD_checks=10
+AD_checks=10
+AD_checks=10
+new min found (ID 810)
+95.57 seconds 
+----
+
+ELM Step 539 of 1000
+----
+Finding local min
+1.48 seconds 
+----
+Checking minimum membership
+AD_checks=10
+AD_checks=10
+AD_checks=10
+new min found (ID 811)
+106.27 seconds 
+----
+
+ELM Step 540 of 1000
+----
+Finding local min
+2.24 seconds 
+----
+Checking minimum membership
+AD_checks=10
+AD_checks=10
+AD_checks=10
+new min found (ID 812)
+104.05 seconds 
+----
+
+ELM Step 541 of 1000
+----
+Finding local min
+3.44 seconds 
+----
+Checking minimum membership
+AD_checks=10
+AD_checks=10
+AD_checks=10
+new min found (ID 813)
+96.32 seconds 
+----
+
+ELM Step 542 of 1000
+----
+Finding local min
+3.54 seconds 
+----
+Checking minimum membership
+AD_checks=10
+AD_checks=10
+AD_checks=10
+new min found (ID 814)
+90.96 seconds 
+----
+
+ELM Step 543 of 1000
+----
+Finding local min
+1.27 seconds 
+----
+Checking minimum membership
+AD_checks=10
+AD_checks=10
+AD_checks=10
+new min found (ID 815)
+94.03 seconds 
+----
+
+ELM Step 544 of 1000
+----
+Finding local min
+3.21 seconds 
+----
+Checking minimum membership
+AD_checks=10
+AD_checks=10
+AD_checks=10
+new min found (ID 816)
+96.99 seconds 
+----
+
+ELM Step 545 of 1000
+----
+Finding local min
+1.76 seconds 
+----
+Checking minimum membership
+AD_checks=10
+AD_checks=10
+AD_checks=10
+new min found (ID 817)
+96.70 seconds 
+----
+
+ELM Step 546 of 1000
+----
+Finding local min
+1.11 seconds 
+----
+Checking minimum membership
+AD_checks=10
+successful diffusion to: 202 
+min sorted to basin 202
+87.81 seconds 
+----
+
+ELM Step 547 of 1000
+----
+Finding local min
+2.15 seconds 
+----
+Checking minimum membership
+AD_checks=10
+AD_checks=10
+AD_checks=10
+new min found (ID 818)
+92.79 seconds 
+----
+
+ELM Step 548 of 1000
+----
+Finding local min
+2.87 seconds 
+----
+Checking minimum membership
+AD_checks=10
+AD_checks=10
+AD_checks=10
+new min found (ID 819)
+98.53 seconds 
+----
+
+ELM Step 549 of 1000
+----
+Finding local min
+4.13 seconds 
+----
+Checking minimum membership
+AD_checks=10
+AD_checks=10
+AD_checks=10
+new min found (ID 820)
+98.13 seconds 
+----
+
+ELM Step 550 of 1000
+----
+Finding local min
+1.31 seconds 
+----
+Checking minimum membership
+AD_checks=10
+AD_checks=10
+AD_checks=10
+new min found (ID 821)
+96.12 seconds 
+----
+
+ELM Step 551 of 1000
+----
+Finding local min
+2.76 seconds 
+----
+Checking minimum membership
+AD_checks=10
+AD_checks=10
+AD_checks=10
+new min found (ID 822)
+101.58 seconds 
+----
+
+ELM Step 552 of 1000
+----
+Finding local min
+2.79 seconds 
+----
+Checking minimum membership
+AD_checks=10
+AD_checks=10
+AD_checks=10
+new min found (ID 823)
+106.51 seconds 
+----
+
+ELM Step 553 of 1000
+----
+Finding local min
+1.14 seconds 
+----
+Checking minimum membership
+AD_checks=10
+AD_checks=10
+AD_checks=10
+new min found (ID 824)
+97.68 seconds 
+----
+
+ELM Step 554 of 1000
+----
+Finding local min
+1.30 seconds 
+----
+Checking minimum membership
+AD_checks=10
+AD_checks=10
+AD_checks=10
+new min found (ID 825)
+94.29 seconds 
+----
+
+ELM Step 555 of 1000
+----
+Finding local min
+1.89 seconds 
+----
+Checking minimum membership
+AD_checks=10
+AD_checks=10
+AD_checks=10
+new min found (ID 826)
+105.98 seconds 
+----
+
+ELM Step 556 of 1000
+----
+Finding local min
+1.38 seconds 
+----
+Checking minimum membership
+AD_checks=10
+AD_checks=10
+AD_checks=10
+new min found (ID 827)
+95.97 seconds 
+----
+
+ELM Step 557 of 1000
+----
+Finding local min
+1.82 seconds 
+----
+Checking minimum membership
+AD_checks=10
+AD_checks=10
+AD_checks=10
+new min found (ID 828)
+96.35 seconds 
+----
+
+ELM Step 558 of 1000
+----
+Finding local min
+3.06 seconds 
+----
+Checking minimum membership
+AD_checks=10
+AD_checks=10
+AD_checks=10
+new min found (ID 829)
+104.80 seconds 
+----
+
+ELM Step 559 of 1000
+----
+Finding local min
+2.17 seconds 
+----
+Checking minimum membership
+AD_checks=10
+AD_checks=10
+AD_checks=10
+successful diffusion to: 637 
+min sorted to basin 637
+107.33 seconds 
+----
+
+ELM Step 560 of 1000
+----
+Finding local min
+2.27 seconds 
+----
+Checking minimum membership
+AD_checks=10
+AD_checks=10
+AD_checks=10
+new min found (ID 830)
+101.99 seconds 
+----
+
+ELM Step 561 of 1000
+----
+Finding local min
+2.03 seconds 
+----
+Checking minimum membership
+AD_checks=10
+successful diffusion to: 94 
+min sorted to basin 94
+92.83 seconds 
+----
+
+ELM Step 562 of 1000
+----
+Finding local min
+1.85 seconds 
+----
+Checking minimum membership
+AD_checks=10
+AD_checks=10
+AD_checks=10
+new min found (ID 831)
+102.02 seconds 
+----
+
+ELM Step 563 of 1000
+----
+Finding local min
+1.05 seconds 
+----
+Checking minimum membership
+AD_checks=10
+AD_checks=10
+AD_checks=10
+new min found (ID 832)
+107.85 seconds 
+----
+
+ELM Step 564 of 1000
+----
+Finding local min
+1.45 seconds 
+----
+Checking minimum membership
+AD_checks=10
+AD_checks=10
+successful diffusion to: 645 
+min sorted to basin 645
+101.75 seconds 
+----
+
+ELM Step 565 of 1000
+----
+Finding local min
+2.07 seconds 
+----
+Checking minimum membership
+AD_checks=10
+AD_checks=10
+AD_checks=10
+new min found (ID 833)
+98.91 seconds 
+----
+
+ELM Step 566 of 1000
+----
+Finding local min
+1.08 seconds 
+----
+Checking minimum membership
+AD_checks=10
+AD_checks=10
+AD_checks=10
+new min found (ID 834)
+102.71 seconds 
+----
+
+ELM Step 567 of 1000
+----
+Finding local min
+1.27 seconds 
+----
+Checking minimum membership
+AD_checks=10
+AD_checks=10
+AD_checks=10
+new min found (ID 835)
+95.49 seconds 
+----
+
+ELM Step 568 of 1000
+----
+Finding local min
+1.23 seconds 
+----
+Checking minimum membership
+AD_checks=10
+AD_checks=10
+AD_checks=10
+new min found (ID 836)
+101.75 seconds 
+----
+
+ELM Step 569 of 1000
+----
+Finding local min
+1.45 seconds 
+----
+Checking minimum membership
+AD_checks=10
+AD_checks=10
+AD_checks=10
+new min found (ID 837)
+101.89 seconds 
+----
+
+ELM Step 570 of 1000
+----
+Finding local min
+3.93 seconds 
+----
+Checking minimum membership
+AD_checks=10
+successful diffusion to: 637 
+min sorted to basin 637
+94.18 seconds 
+----
+
+ELM Step 571 of 1000
+----
+Finding local min
+1.21 seconds 
+----
+Checking minimum membership
+AD_checks=10
+AD_checks=10
+AD_checks=10
+new min found (ID 838)
+100.38 seconds 
+----
+
+ELM Step 572 of 1000
+----
+Finding local min
+1.47 seconds 
+----
+Checking minimum membership
+AD_checks=10
+AD_checks=10
+AD_checks=10
+new min found (ID 839)
+101.26 seconds 
+----
+
+ELM Step 573 of 1000
+----
+Finding local min
+1.92 seconds 
+----
+Checking minimum membership
+AD_checks=10
+AD_checks=10
+AD_checks=10
+new min found (ID 840)
+100.41 seconds 
+----
+
+ELM Step 574 of 1000
+----
+Finding local min
+2.94 seconds 
+----
+Checking minimum membership
+AD_checks=10
+AD_checks=10
+AD_checks=10
+new min found (ID 841)
+102.70 seconds 
+----
+
+ELM Step 575 of 1000
+----
+Finding local min
+1.48 seconds 
+----
+Checking minimum membership
+AD_checks=10
+AD_checks=10
+AD_checks=10
+new min found (ID 842)
+109.68 seconds 
+----
+
+ELM Step 576 of 1000
+----
+Finding local min
+1.59 seconds 
+----
+Checking minimum membership
+AD_checks=10
+AD_checks=10
+successful diffusion to: 363 
+min sorted to basin 363
+103.05 seconds 
+----
+
+ELM Step 577 of 1000
+----
+Finding local min
+4.92 seconds 
+----
+Checking minimum membership
+AD_checks=10
+AD_checks=10
+AD_checks=10
+new min found (ID 843)
+100.31 seconds 
+----
+
+ELM Step 578 of 1000
+----
+Finding local min
+1.17 seconds 
+----
+Checking minimum membership
+AD_checks=10
+AD_checks=10
+AD_checks=10
+new min found (ID 844)
+95.38 seconds 
+----
+
+ELM Step 579 of 1000
+----
+Finding local min
+1.86 seconds 
+----
+Checking minimum membership
+AD_checks=10
+successful diffusion to: 122 
+min sorted to basin 122
+93.51 seconds 
+----
+
+ELM Step 580 of 1000
+----
+Finding local min
+3.36 seconds 
+----
+Checking minimum membership
+AD_checks=10
+AD_checks=10
+AD_checks=10
+new min found (ID 845)
+99.66 seconds 
+----
+
+ELM Step 581 of 1000
+----
+Finding local min
+2.18 seconds 
+----
+Checking minimum membership
+AD_checks=10
+AD_checks=10
+AD_checks=10
+new min found (ID 846)
+111.41 seconds 
+----
+
+ELM Step 582 of 1000
+----
+Finding local min
+2.17 seconds 
+----
+Checking minimum membership
+AD_checks=10
+successful diffusion to: 489 
+min sorted to basin 489
+basin 489 rep updated 
+93.63 seconds 
+----
+
+ELM Step 583 of 1000
+----
+Finding local min
+2.09 seconds 
+----
+Checking minimum membership
+AD_checks=10
+successful diffusion to: 341 
+min sorted to basin 341
+92.54 seconds 
+----
+
+ELM Step 584 of 1000
+----
+Finding local min
+2.62 seconds 
+----
+Checking minimum membership
+AD_checks=10
+AD_checks=10
+AD_checks=10
+new min found (ID 847)
+100.85 seconds 
+----
+
+ELM Step 585 of 1000
+----
+Finding local min
+2.43 seconds 
+----
+Checking minimum membership
+AD_checks=10
+AD_checks=10
+AD_checks=10
+new min found (ID 848)
+103.48 seconds 
+----
+
+ELM Step 586 of 1000
+----
+Finding local min
+1.91 seconds 
+----
+Checking minimum membership
+AD_checks=10
+AD_checks=10
+AD_checks=10
+new min found (ID 849)
+101.31 seconds 
+----
+
+ELM Step 587 of 1000
+----
+Finding local min
+1.01 seconds 
+----
+Checking minimum membership
+AD_checks=10
+AD_checks=10
+AD_checks=10
+new min found (ID 850)
+105.31 seconds 
+----
+
+ELM Step 588 of 1000
+----
+Finding local min
+2.26 seconds 
+----
+Checking minimum membership
+AD_checks=10
+AD_checks=10
+AD_checks=10
+new min found (ID 851)
+107.25 seconds 
+----
+
+ELM Step 589 of 1000
+----
+Finding local min
+1.43 seconds 
+----
+Checking minimum membership
+AD_checks=10
+successful diffusion to: 363 755 
+min sorted to basin 363
+94.61 seconds 
+----
+
+ELM Step 590 of 1000
+----
+Finding local min
+1.90 seconds 
+----
+Checking minimum membership
+AD_checks=10
+successful diffusion to: 353 
+min sorted to basin 353
+96.16 seconds 
+----
+
+ELM Step 591 of 1000
+----
+Finding local min
+1.16 seconds 
+----
+Checking minimum membership
+AD_checks=10
+AD_checks=10
+AD_checks=10
+new min found (ID 852)
+105.39 seconds 
+----
+
+ELM Step 592 of 1000
+----
+Finding local min
+1.44 seconds 
+----
+Checking minimum membership
+AD_checks=10
+AD_checks=10
+AD_checks=10
+new min found (ID 853)
+104.93 seconds 
+----
+
+ELM Step 593 of 1000
+----
+Finding local min
+1.82 seconds 
+----
+Checking minimum membership
+AD_checks=10
+AD_checks=10
+AD_checks=10
+new min found (ID 854)
+105.17 seconds 
+----
+
+ELM Step 594 of 1000
+----
+Finding local min
+1.38 seconds 
+----
+Checking minimum membership
+AD_checks=10
+successful diffusion to: 746 
+min sorted to basin 746
+92.49 seconds 
+----
+
+ELM Step 595 of 1000
+----
+Finding local min
+2.44 seconds 
+----
+Checking minimum membership
+AD_checks=10
+AD_checks=10
+AD_checks=10
+new min found (ID 855)
+105.40 seconds 
+----
+
+ELM Step 596 of 1000
+----
+Finding local min
+2.97 seconds 
+----
+Checking minimum membership
+AD_checks=10
+AD_checks=10
+successful diffusion to: 221 
+min sorted to basin 221
+basin 221 rep updated 
+99.43 seconds 
+----
+
+ELM Step 597 of 1000
+----
+Finding local min
+1.61 seconds 
+----
+Checking minimum membership
+AD_checks=10
+AD_checks=10
+AD_checks=10
+new min found (ID 856)
+104.34 seconds 
+----
+
+ELM Step 598 of 1000
+----
+Finding local min
+1.87 seconds 
+----
+Checking minimum membership
+AD_checks=10
+AD_checks=10
+AD_checks=10
+new min found (ID 857)
+106.84 seconds 
+----
+
+ELM Step 599 of 1000
+----
+Finding local min
+4.23 seconds 
+----
+Checking minimum membership
+AD_checks=10
+successful diffusion to: 209 372 
+min sorted to basin 209
+basin 209 rep updated 
+93.01 seconds 
+----
+
+ELM Step 600 of 1000
+----
+Finding local min
+1.47 seconds 
+----
+Checking minimum membership
+AD_checks=10
+AD_checks=10
+AD_checks=10
+new min found (ID 858)
+106.87 seconds 
+----
+
+ELM Step 601 of 1000
+----
+Finding local min
+1.96 seconds 
+----
+Checking minimum membership
+AD_checks=10
+AD_checks=10
+AD_checks=10
+new min found (ID 859)
+104.15 seconds 
+----
+
+ELM Step 602 of 1000
+----
+Finding local min
+2.40 seconds 
+----
+Checking minimum membership
+AD_checks=10
+AD_checks=10
+successful diffusion to: 384 
+min sorted to basin 384
+99.41 seconds 
+----
+
+ELM Step 603 of 1000
+----
+Finding local min
+2.91 seconds 
+----
+Checking minimum membership
+AD_checks=10
+successful diffusion to: 26 208 751 
+min sorted to basin 26
+93.86 seconds 
+----
+
+ELM Step 604 of 1000
+----
+Finding local min
+0.74 seconds 
+----
+Checking minimum membership
+AD_checks=10
+successful diffusion to: 637 
+min sorted to basin 637
+97.34 seconds 
+----
+
+ELM Step 605 of 1000
+----
+Finding local min
+3.74 seconds 
+----
+Checking minimum membership
+AD_checks=10
+AD_checks=10
+AD_checks=10
+new min found (ID 860)
+101.77 seconds 
+----
+
+ELM Step 606 of 1000
+----
+Finding local min
+2.52 seconds 
+----
+Checking minimum membership
+AD_checks=10
+AD_checks=10
+AD_checks=10
+new min found (ID 861)
+111.42 seconds 
+----
+
+ELM Step 607 of 1000
+----
+Finding local min
+3.26 seconds 
+----
+Checking minimum membership
+AD_checks=10
+AD_checks=10
+AD_checks=10
+new min found (ID 862)
+103.21 seconds 
+----
+
+ELM Step 608 of 1000
+----
+Finding local min
+1.28 seconds 
+----
+Checking minimum membership
+AD_checks=10
+AD_checks=10
+AD_checks=10
+new min found (ID 863)
+110.50 seconds 
+----
+
+ELM Step 609 of 1000
+----
+Finding local min
+1.65 seconds 
+----
+Checking minimum membership
+AD_checks=10
+AD_checks=10
+AD_checks=10
+new min found (ID 864)
+115.07 seconds 
+----
+
+ELM Step 610 of 1000
+----
+Finding local min
+2.29 seconds 
+----
+Checking minimum membership
+AD_checks=10
+AD_checks=10
+AD_checks=10
+new min found (ID 865)
+104.76 seconds 
+----
+
+ELM Step 611 of 1000
+----
+Finding local min
+2.11 seconds 
+----
+Checking minimum membership
+AD_checks=10
+AD_checks=10
+AD_checks=10
+new min found (ID 866)
+118.11 seconds 
+----
+
+ELM Step 612 of 1000
+----
+Finding local min
+2.63 seconds 
+----
+Checking minimum membership
+AD_checks=10
+AD_checks=10
+AD_checks=10
+new min found (ID 867)
+108.48 seconds 
+----
+
+ELM Step 613 of 1000
+----
+Finding local min
+1.88 seconds 
+----
+Checking minimum membership
+AD_checks=10
+AD_checks=10
+AD_checks=10
+new min found (ID 868)
+105.73 seconds 
+----
+
+ELM Step 614 of 1000
+----
+Finding local min
+1.11 seconds 
+----
+Checking minimum membership
+AD_checks=10
+successful diffusion to: 519 535 
+min sorted to basin 519
+94.88 seconds 
+----
+
+ELM Step 615 of 1000
+----
+Finding local min
+1.75 seconds 
+----
+Checking minimum membership
+AD_checks=10
+AD_checks=10
+AD_checks=10
+new min found (ID 869)
+102.05 seconds 
+----
+
+ELM Step 616 of 1000
+----
+Finding local min
+3.93 seconds 
+----
+Checking minimum membership
+AD_checks=10
+AD_checks=10
+AD_checks=10
+new min found (ID 870)
+104.17 seconds 
+----
+
+ELM Step 617 of 1000
+----
+Finding local min
+2.19 seconds 
+----
+Checking minimum membership
+AD_checks=10
+AD_checks=10
+successful diffusion to: 190 
+min sorted to basin 190
+102.68 seconds 
+----
+
+ELM Step 618 of 1000
+----
+Finding local min
+4.26 seconds 
+----
+Checking minimum membership
+AD_checks=10
+AD_checks=10
+AD_checks=10
+new min found (ID 871)
+102.83 seconds 
+----
+
+ELM Step 619 of 1000
+----
+Finding local min
+1.63 seconds 
+----
+Checking minimum membership
+AD_checks=10
+successful diffusion to: 200 751 
+min sorted to basin 200
+98.84 seconds 
+----
+
+ELM Step 620 of 1000
+----
+Finding local min
+1.75 seconds 
+----
+Checking minimum membership
+AD_checks=10
+AD_checks=10
+successful diffusion to: 716 
+min sorted to basin 716
+100.20 seconds 
+----
+
+ELM Step 621 of 1000
+----
+Finding local min
+2.24 seconds 
+----
+Checking minimum membership
+AD_checks=10
+AD_checks=10
+AD_checks=10
+new min found (ID 872)
+109.26 seconds 
+----
+
+ELM Step 622 of 1000
+----
+Finding local min
+3.62 seconds 
+----
+Checking minimum membership
+AD_checks=10
+AD_checks=10
+AD_checks=10
+new min found (ID 873)
+104.91 seconds 
+----
+
+ELM Step 623 of 1000
+----
+Finding local min
+1.66 seconds 
+----
+Checking minimum membership
+AD_checks=10
+AD_checks=10
+AD_checks=10
+new min found (ID 874)
+110.08 seconds 
+----
+
+ELM Step 624 of 1000
+----
+Finding local min
+1.85 seconds 
+----
+Checking minimum membership
+AD_checks=10
+AD_checks=10
+AD_checks=10
+new min found (ID 875)
+113.75 seconds 
+----
+
+ELM Step 625 of 1000
+----
+Finding local min
+2.18 seconds 
+----
+Checking minimum membership
+AD_checks=10
+AD_checks=10
+AD_checks=10
+new min found (ID 876)
+106.41 seconds 
+----
+
+ELM Step 626 of 1000
+----
+Finding local min
+1.82 seconds 
+----
+Checking minimum membership
+AD_checks=10
+AD_checks=10
+successful diffusion to: 335 
+min sorted to basin 335
+102.95 seconds 
+----
+
+ELM Step 627 of 1000
+----
+Finding local min
+2.34 seconds 
+----
+Checking minimum membership
+AD_checks=10
+AD_checks=10
+AD_checks=10
+new min found (ID 877)
+113.97 seconds 
+----
+
+ELM Step 628 of 1000
+----
+Finding local min
+1.98 seconds 
+----
+Checking minimum membership
+AD_checks=10
+successful diffusion to: 760 
+min sorted to basin 760
+97.27 seconds 
+----
+
+ELM Step 629 of 1000
+----
+Finding local min
+1.23 seconds 
+----
+Checking minimum membership
+AD_checks=10
+AD_checks=10
+AD_checks=10
+new min found (ID 878)
+100.56 seconds 
+----
+
+ELM Step 630 of 1000
+----
+Finding local min
+1.22 seconds 
+----
+Checking minimum membership
+AD_checks=10
+AD_checks=10
+AD_checks=10
+new min found (ID 879)
+112.77 seconds 
+----
+
+ELM Step 631 of 1000
+----
+Finding local min
+1.92 seconds 
+----
+Checking minimum membership
+AD_checks=10
+AD_checks=10
+successful diffusion to: 161 
+min sorted to basin 161
+103.43 seconds 
+----
+
+ELM Step 632 of 1000
+----
+Finding local min
+0.77 seconds 
+----
+Checking minimum membership
+AD_checks=10
+AD_checks=10
+successful diffusion to: 652 
+min sorted to basin 652
+102.48 seconds 
+----
+
+ELM Step 633 of 1000
+----
+Finding local min
+0.95 seconds 
+----
+Checking minimum membership
+AD_checks=10
+AD_checks=10
+successful diffusion to: 281 
+min sorted to basin 281
+101.74 seconds 
+----
+
+ELM Step 634 of 1000
+----
+Finding local min
+2.98 seconds 
+----
+Checking minimum membership
+AD_checks=10
+AD_checks=10
+AD_checks=10
+new min found (ID 880)
+106.50 seconds 
+----
+
+ELM Step 635 of 1000
+----
+Finding local min
+0.91 seconds 
+----
+Checking minimum membership
+AD_checks=10
+AD_checks=10
+AD_checks=10
+new min found (ID 881)
+115.54 seconds 
+----
+
+ELM Step 636 of 1000
+----
+Finding local min
+3.79 seconds 
+----
+Checking minimum membership
+AD_checks=10
+AD_checks=10
+AD_checks=10
+new min found (ID 882)
+107.83 seconds 
+----
+
+ELM Step 637 of 1000
+----
+Finding local min
+2.61 seconds 
+----
+Checking minimum membership
+AD_checks=10
+AD_checks=10
+AD_checks=10
+new min found (ID 883)
+102.65 seconds 
+----
+
+ELM Step 638 of 1000
+----
+Finding local min
+1.29 seconds 
+----
+Checking minimum membership
+AD_checks=10
+AD_checks=10
+AD_checks=10
+new min found (ID 884)
+109.74 seconds 
+----
+
+ELM Step 639 of 1000
+----
+Finding local min
+2.12 seconds 
+----
+Checking minimum membership
+AD_checks=10
+AD_checks=10
+AD_checks=10
+new min found (ID 885)
+113.44 seconds 
+----
+
+ELM Step 640 of 1000
+----
+Finding local min
+1.45 seconds 
+----
+Checking minimum membership
+AD_checks=10
+AD_checks=10
+AD_checks=10
+new min found (ID 886)
+103.14 seconds 
+----
+
+ELM Step 641 of 1000
+----
+Finding local min
+2.17 seconds 
+----
+Checking minimum membership
+AD_checks=10
+successful diffusion to: 187 
+min sorted to basin 187
+basin 187 rep updated 
+99.09 seconds 
+----
+
+ELM Step 642 of 1000
+----
+Finding local min
+1.35 seconds 
+----
+Checking minimum membership
+AD_checks=10
+AD_checks=10
+AD_checks=10
+successful diffusion to: 208 
+min sorted to basin 208
+111.18 seconds 
+----
+
+ELM Step 643 of 1000
+----
+Finding local min
+1.55 seconds 
+----
+Checking minimum membership
+AD_checks=10
+AD_checks=10
+successful diffusion to: 217 706 
+min sorted to basin 706
+107.81 seconds 
+----
+
+ELM Step 644 of 1000
+----
+Finding local min
+2.15 seconds 
+----
+Checking minimum membership
+AD_checks=10
+AD_checks=10
+AD_checks=10
+new min found (ID 887)
+110.03 seconds 
+----
+
+ELM Step 645 of 1000
+----
+Finding local min
+1.79 seconds 
+----
+Checking minimum membership
+slurmstepd: *** JOB 11125594 ON comet-10-09 CANCELLED AT 2017-09-10T04:51:44 ***
