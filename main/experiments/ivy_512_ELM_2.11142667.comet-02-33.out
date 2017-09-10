@@ -12390,3 +12390,4 @@ Total mapping time: 4864.80 seconds
 
 Elapsed time is 4864.799018 seconds.
 ### (2) exp 1 -> consolidate ###
+slurmstepd: *** JOB 11142667 ON comet-02-33 CANCELLED AT 2017-09-10T05:04:38 ***
