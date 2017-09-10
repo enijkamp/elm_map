@@ -35,7 +35,6 @@ function [ELM_out,sorted_inds] = consolidate_minima(ELM)
     
     %%%%%%%%%%%%%%%%%%%%%PARALLEL%%%%%%%%%
     consolidate_minima_par = size(pair_ij,1);
-    disp(['consolidate_minima -> par = ' num2str(consolidate_minima_par)]);
     tocs = zeros(consolidate_minima_par, 1);
     tstart_parfor = tic;
     
@@ -72,7 +71,7 @@ function [ELM_out,sorted_inds] = consolidate_minima(ELM)
         sorted_inds_par{ind} = sorted_inds;
     end
     toc_parfor = toc(tstart_parfor);
-    disp(['consolidate_minima -> parfor toc = ' num2str(toc_parfor) ', max toc = ' num2str(max(tocs))]);
+    disp(['consolidate_minima -> par = ' num2str(consolidate_minima_par) ', parfor toc = ' num2str(toc_parfor) ', max toc = ' num2str(max(tocs))]);
     
     sorted_inds = [];
     for ind = 1:size(pair_ij,1)

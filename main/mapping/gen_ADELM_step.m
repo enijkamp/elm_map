@@ -45,10 +45,11 @@ function AD_order = get_AD_order(config,des_net,gen_net,min_z_mat,min_z,...
         
         %%%%%%%% PARALLEL %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
         get_AD_order_par = length(barrier1D);
-        disp(['get_AD_order -> par = ' num2str(get_AD_order_par)]);
         tocs = zeros(get_AD_order_par, 1);
         tstart_parfor = tic;
         parfor i = 1:length(barrier1D)   
+            vl_setupnn();
+            
             tstart = tic;
             
             barrier1D(i) = max(get_gen_inter_ens(config,des_net,gen_net, ...
@@ -58,7 +59,7 @@ function AD_order = get_AD_order(config,des_net,gen_net,min_z_mat,min_z,...
             tocs(i) = toc(tstart);
         end
         toc_parfor = toc(tstart_parfor);
-        disp(['AD_order -> parfor toc = ' num2str(toc_parfor) ', max toc = ' num2str(max(tocs))]);
+        disp(['get_AD_order -> par = ' num2str(get_AD_order_par) ', parfor toc = ' num2str(toc_parfor) ', max toc = ' num2str(max(tocs))]);
         %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
         
         [~,AD_order] = sort(barrier1D);
@@ -101,7 +102,6 @@ function [ELM,min_index,AD_inds] = check_membership(config,des_net,gen_net,ELM,.
         
         %%%%%%%%%%%%%%%%%%%%PARALLEL%%%%%%%%%%%%%%%%%%
         gen_AD_par = min(config.max_AD_checks,length(AD_order));
-        disp(['check_membership -> par = ' num2str(gen_AD_par)]);
         tocs = zeros(gen_AD_par, 1);
         tstart_parfor = tic;
         parfor i = 1:min(config.max_AD_checks,length(AD_order))
@@ -118,7 +118,7 @@ function [ELM,min_index,AD_inds] = check_membership(config,des_net,gen_net,ELM,.
             tocs(i) = toc(tstart);
         end
         toc_parfor = toc(tstart_parfor);
-        disp(['check_membership -> parfor toc = ' num2str(toc_parfor) ', max toc = ' num2str(max(tocs))]);
+        disp(['check_membership -> par = ' num2str(gen_AD_par) ', parfor toc = ' num2str(toc_parfor) ', max toc = ' num2str(max(tocs))]);
         %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
         
         %check if successful diffusion quota for membership is reached
