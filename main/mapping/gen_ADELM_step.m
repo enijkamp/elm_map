@@ -44,11 +44,21 @@ function AD_order = get_AD_order(config,des_net,gen_net,min_z_mat,min_z,...
         %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
         
         %%%%%%%% PARALLEL %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-        parfor i = 1:length(barrier1D)          
+        get_AD_order_par = length(barrier1D);
+        disp(['get_AD_order -> par = ' num2str(get_AD_order_par)]);
+        tocs = zeros(get_gen_inter_ens_par, 1);
+        tstart_parfor = tic;
+        parfor i = 1:length(barrier1D)   
+            tstart = tic;
+            
             barrier1D(i) = max(get_gen_inter_ens(config,des_net,gen_net, ...
                 single(min_z_mat(:,:,:,i)),min_z)); % ...
                   %- max([min_en,min_ens(i)]);
+                  
+            tocs(i) = toc(tstart);
         end
+        toc_parfor = toc(tstart_parfor);
+        disp(['AD_order -> parfor toc = ' num2str(toc_parfor) ', max toc = ' num2str(max(tocs))]);
         %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
         
         [~,AD_order] = sort(barrier1D);
@@ -90,17 +100,25 @@ function [ELM,min_index,AD_inds] = check_membership(config,des_net,gen_net,ELM,.
         %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
         
         %%%%%%%%%%%%%%%%%%%%PARALLEL%%%%%%%%%%%%%%%%%%
-        AD_checks = min(config.max_AD_checks,length(AD_order));
-        disp(['AD_checks=' num2str(AD_checks)]);
-        parfor i = 1:AD_checks
+        gen_AD_par = min(config.max_AD_checks,length(AD_order));
+        disp(['check_membership -> par = ' num2str(gen_AD_par)]);
+        tocs = zeros(gen_AD_par, 1);
+        tstart_parfor = tic;
+        parfor i = 1:min(config.max_AD_checks,length(AD_order))
             vl_setupnn();
-            AD_index = AD_order(i);
 
             % AD diffusion between new and previously found minima
+            tstart = tic;
+            
+            AD_index = AD_order(i);
             [AD_out1,AD_out2] = gen_AD(config,des_net,gen_net,min_z,ELM.min_z(:,:,:,AD_index));
             AD_mem(i,:) = [AD_out1.mem,AD_out2.mem];
             AD_bars(i) = min([max(AD_out1.ens),max(AD_out2.ens)]);
+            
+            tocs(i) = toc(tstart);
         end
+        toc_parfor = toc(tstart_parfor);
+        disp(['check_membership -> parfor toc = ' num2str(toc_parfor) ', max toc = ' num2str(max(tocs))]);
         %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
         
         %check if successful diffusion quota for membership is reached
