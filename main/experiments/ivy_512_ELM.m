@@ -1,4 +1,4 @@
-function [] = ivy_512_ELM_2()
+function [] = ivy_512_ELM()
 
 rng(123);
 
@@ -11,7 +11,7 @@ exp_time = tic;
 %%%%%use the coop net 512_7 %%%%%%%
 %set up config
 file_str = 'ivy/512/';
-config = gen_ADELM_config('ivy/512/');
+config = gen_ADELM_config(file_str);
 %refsig %%%%IMPORTANT: sqrt(0.3) for 512_7%%%%
 config.refsig = sqrt(0.3);
 %ELM params

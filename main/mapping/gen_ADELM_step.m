@@ -34,13 +34,23 @@ function AD_order = get_AD_order(config,des_net,gen_net,min_z_mat,min_z,...
                                                         min_ens,min_en)
     if strcmp(config.AD_heuristic,'1D_bar')
         barrier1D = flintmax*ones(1,size(min_z_mat,4));
+        
+        %%%%%%%% PARALLELIZE %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%         for i = 1:length(barrier1D)          
+%             barrier1D(i) = max(get_gen_inter_ens(config,des_net,gen_net, ...
+%                 single(min_z_mat(:,:,:,i)),min_z)); % ...
+%                   %- max([min_en,min_ens(i)]);
+%         end
+        %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+        
         %%%%%%%% PARALLEL %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-        for i = 1:length(barrier1D)          
+        parfor i = 1:length(barrier1D)          
             barrier1D(i) = max(get_gen_inter_ens(config,des_net,gen_net, ...
                 single(min_z_mat(:,:,:,i)),min_z)); % ...
                   %- max([min_en,min_ens(i)]);
         end
         %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+        
         [~,AD_order] = sort(barrier1D);
     elseif strcmp(config.AD_heuristic,'dist')
         dists = flintmax*ones(1,size(min_z_mat,4));
@@ -68,12 +78,26 @@ function [ELM,min_index,AD_inds] = check_membership(config,des_net,gen_net,ELM,.
     for rep = 1:config.AD_reps
         
         %%%%%%%%%%%%%%%%%%%%PARALLELIZE%%%%%%%%%%%%
-        for i = 1:min(config.max_AD_checks,length(AD_order)) 
+%         for i = 1:min(config.max_AD_checks,length(AD_order)) 
+%             AD_index = AD_order(i);
+%             
+%             % AD diffusion between new and previously found minima
+%             [AD_out1,AD_out2]=gen_AD(config,des_net,gen_net,min_z,...
+%                         ELM.min_z(:,:,:,AD_index));
+%             AD_mem(i,:) = [AD_out1.mem,AD_out2.mem];
+%             AD_bars(i) = min([max(AD_out1.ens),max(AD_out2.ens)]);
+%         end
+        %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+        
+        %%%%%%%%%%%%%%%%%%%%PARALLEL%%%%%%%%%%%%%%%%%%
+        AD_checks = min(config.max_AD_checks,length(AD_order));
+        disp(['AD_checks=' num2str(AD_checks)]);
+        parfor i = 1:AD_checks
+            vl_setupnn();
             AD_index = AD_order(i);
-            
+
             % AD diffusion between new and previously found minima
-            [AD_out1,AD_out2]=gen_AD(config,des_net,gen_net,min_z,...
-                        ELM.min_z(:,:,:,AD_index));
+            [AD_out1,AD_out2] = gen_AD(config,des_net,gen_net,min_z,ELM.min_z(:,:,:,AD_index));
             AD_mem(i,:) = [AD_out1.mem,AD_out2.mem];
             AD_bars(i) = min([max(AD_out1.ens),max(AD_out2.ens)]);
         end
