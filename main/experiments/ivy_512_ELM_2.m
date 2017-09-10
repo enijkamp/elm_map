@@ -39,9 +39,9 @@ alpha_init = [config.alpha,config.alpha];
 %run experiment
 no_workers = 24;
 
-pool = gcp('nocreate'); % added (en)
-delete(pool); % added (en)
-pool = parpool(no_workers); % added (en)
+pool = gcp('nocreate');
+delete(pool);
+pool = parpool(no_workers, 'IdleTimeout', Inf);
 
 parfor i = 1:no_workers
     vl_setupnn();
@@ -49,7 +49,7 @@ end
 
 run_ELM_experiment(config,num_exps,alpha_init);
 
-delete(pool); % added (en)
+delete(pool);
 
 exp_time = toc(exp_time);
 fprintf('Total Experiment Time: %4d hours %4.2f minutes \n',...
