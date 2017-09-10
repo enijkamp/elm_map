@@ -40,7 +40,7 @@ function [ELM_out,sorted_inds] = consolidate_minima(ELM)
     
     sorted_inds_par = {}; % changed (en)
     parfor ind = 1:size(pair_ij,1)
-        vl_setupnn();
+        %vl_setupnn();
         sorted_inds = [];
         
         tstart = tic;

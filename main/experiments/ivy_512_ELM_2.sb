@@ -1,5 +1,5 @@
 #!/bin/bash
-#SBATCH --job-name="512_ELM_2"
+#SBATCH --job-name="512_M_2"
 #SBATCH --output="ivy_512_ELM_2.%j.%N.out"
 #SBATCH --partition=compute
 #SBATCH --nodes=1

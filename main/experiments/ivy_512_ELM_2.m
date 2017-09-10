@@ -37,9 +37,15 @@ num_exps = 10;
 alpha_init = [config.alpha,config.alpha];
 
 %run experiment
+no_workers = 24;
+
 pool = gcp('nocreate'); % added (en)
 delete(pool); % added (en)
-pool = parpool(24); % added (en)
+pool = parpool(no_workers); % added (en)
+
+parfor i = 1:no_workers
+    vl_setupnn();
+end
 
 run_ELM_experiment(config,num_exps,alpha_init);
 

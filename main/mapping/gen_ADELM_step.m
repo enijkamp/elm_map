@@ -48,7 +48,7 @@ function AD_order = get_AD_order(config,des_net,gen_net,min_z_mat,min_z,...
         tocs = zeros(get_AD_order_par, 1);
         tstart_parfor = tic;
         parfor i = 1:length(barrier1D)   
-            vl_setupnn();
+            %vl_setupnn();
             
             tstart = tic;
             
@@ -105,7 +105,7 @@ function [ELM,min_index,AD_inds] = check_membership(config,des_net,gen_net,ELM,.
         tocs = zeros(gen_AD_par, 1);
         tstart_parfor = tic;
         parfor i = 1:min(config.max_AD_checks,length(AD_order))
-            vl_setupnn();
+            %vl_setupnn();
 
             % AD diffusion between new and previously found minima
             tstart = tic;
