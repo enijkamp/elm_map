@@ -7168,3 +7168,1968 @@ Finding local min
 ----
 Checking minimum membership
 get_AD_order -> par = 34, parfor toc = 0.46684, max toc = 0.091147
+check_membership -> par = 5, parfor toc = 3.5974, max toc = 3.4068
+new min found (ID 35)
+4.06 seconds 
+----
+
+ELM Step 35 of 500
+----
+Finding local min
+2.37 seconds 
+----
+Checking minimum membership
+get_AD_order -> par = 35, parfor toc = 0.4549, max toc = 0.090553
+check_membership -> par = 5, parfor toc = 3.5035, max toc = 3.3001
+new min found (ID 36)
+3.96 seconds 
+----
+
+ELM Step 36 of 500
+----
+Finding local min
+1.36 seconds 
+----
+Checking minimum membership
+get_AD_order -> par = 36, parfor toc = 0.4757, max toc = 0.095844
+check_membership -> par = 5, parfor toc = 4.0459, max toc = 3.8276
+new min found (ID 37)
+4.52 seconds 
+----
+
+ELM Step 37 of 500
+----
+Finding local min
+1.96 seconds 
+----
+Checking minimum membership
+get_AD_order -> par = 37, parfor toc = 0.44365, max toc = 0.097027
+check_membership -> par = 5, parfor toc = 3.2291, max toc = 3.0248
+new min found (ID 38)
+3.67 seconds 
+----
+
+ELM Step 38 of 500
+----
+Finding local min
+1.86 seconds 
+----
+Checking minimum membership
+get_AD_order -> par = 38, parfor toc = 0.45204, max toc = 0.097743
+check_membership -> par = 5, parfor toc = 3.554, max toc = 3.3618
+new min found (ID 39)
+4.01 seconds 
+----
+
+ELM Step 39 of 500
+----
+Finding local min
+2.60 seconds 
+----
+Checking minimum membership
+get_AD_order -> par = 39, parfor toc = 0.45135, max toc = 0.087715
+check_membership -> par = 5, parfor toc = 4.008, max toc = 3.8133
+new min found (ID 40)
+4.46 seconds 
+----
+
+ELM Step 40 of 500
+----
+Finding local min
+1.44 seconds 
+----
+Checking minimum membership
+get_AD_order -> par = 40, parfor toc = 0.47289, max toc = 0.093302
+check_membership -> par = 5, parfor toc = 5.7194, max toc = 5.5113
+new min found (ID 41)
+6.19 seconds 
+----
+
+ELM Step 41 of 500
+----
+Finding local min
+2.21 seconds 
+----
+Checking minimum membership
+get_AD_order -> par = 41, parfor toc = 0.47162, max toc = 0.096287
+check_membership -> par = 5, parfor toc = 4.1183, max toc = 3.9137
+new min found (ID 42)
+4.59 seconds 
+----
+
+ELM Step 42 of 500
+----
+Finding local min
+1.46 seconds 
+----
+Checking minimum membership
+get_AD_order -> par = 42, parfor toc = 0.47942, max toc = 0.1012
+check_membership -> par = 5, parfor toc = 3.7526, max toc = 3.5484
+new min found (ID 43)
+4.23 seconds 
+----
+
+ELM Step 43 of 500
+----
+Finding local min
+0.97 seconds 
+----
+Checking minimum membership
+get_AD_order -> par = 43, parfor toc = 0.45279, max toc = 0.09217
+check_membership -> par = 5, parfor toc = 5.5587, max toc = 5.3356
+new min found (ID 44)
+6.01 seconds 
+----
+
+ELM Step 44 of 500
+----
+Finding local min
+1.80 seconds 
+----
+Checking minimum membership
+get_AD_order -> par = 44, parfor toc = 0.4683, max toc = 0.095598
+check_membership -> par = 5, parfor toc = 2.5762, max toc = 2.371
+new min found (ID 45)
+3.05 seconds 
+----
+
+ELM Step 45 of 500
+----
+Finding local min
+1.14 seconds 
+----
+Checking minimum membership
+get_AD_order -> par = 45, parfor toc = 0.4851, max toc = 0.10483
+check_membership -> par = 5, parfor toc = 4.6542, max toc = 4.4334
+new min found (ID 46)
+5.14 seconds 
+----
+
+ELM Step 46 of 500
+----
+Finding local min
+2.84 seconds 
+----
+Checking minimum membership
+get_AD_order -> par = 46, parfor toc = 0.49327, max toc = 0.093024
+check_membership -> par = 5, parfor toc = 3.0597, max toc = 2.8706
+new min found (ID 47)
+3.55 seconds 
+----
+
+ELM Step 47 of 500
+----
+Finding local min
+1.64 seconds 
+----
+Checking minimum membership
+get_AD_order -> par = 47, parfor toc = 0.48764, max toc = 0.096672
+check_membership -> par = 5, parfor toc = 4.6524, max toc = 4.4312
+new min found (ID 48)
+5.14 seconds 
+----
+
+ELM Step 48 of 500
+----
+Finding local min
+1.39 seconds 
+----
+Checking minimum membership
+get_AD_order -> par = 48, parfor toc = 0.48241, max toc = 0.095974
+check_membership -> par = 5, parfor toc = 4.5544, max toc = 4.3434
+successful diffusion to: 45 
+min sorted to basin 45
+5.04 seconds 
+----
+
+ELM Step 49 of 500
+----
+Finding local min
+1.74 seconds 
+----
+Checking minimum membership
+get_AD_order -> par = 48, parfor toc = 0.48824, max toc = 0.096274
+check_membership -> par = 5, parfor toc = 4.7435, max toc = 4.5387
+new min found (ID 49)
+5.23 seconds 
+----
+
+ELM Step 50 of 500
+----
+Finding local min
+2.12 seconds 
+----
+Checking minimum membership
+get_AD_order -> par = 49, parfor toc = 0.48038, max toc = 0.10383
+check_membership -> par = 5, parfor toc = 3.4492, max toc = 3.2439
+new min found (ID 50)
+3.93 seconds 
+----
+
+ELM Step 51 of 500
+----
+Finding local min
+1.32 seconds 
+----
+Checking minimum membership
+get_AD_order -> par = 50, parfor toc = 0.51175, max toc = 0.097035
+check_membership -> par = 5, parfor toc = 4.1629, max toc = 3.9377
+new min found (ID 51)
+4.68 seconds 
+----
+
+ELM Step 52 of 500
+----
+Finding local min
+3.09 seconds 
+----
+Checking minimum membership
+get_AD_order -> par = 51, parfor toc = 0.49634, max toc = 0.10053
+check_membership -> par = 5, parfor toc = 4.8032, max toc = 4.588
+new min found (ID 52)
+5.30 seconds 
+----
+
+ELM Step 53 of 500
+----
+Finding local min
+0.68 seconds 
+----
+Checking minimum membership
+get_AD_order -> par = 52, parfor toc = 0.48847, max toc = 0.099411
+check_membership -> par = 5, parfor toc = 4.1359, max toc = 3.95
+new min found (ID 53)
+4.63 seconds 
+----
+
+ELM Step 54 of 500
+----
+Finding local min
+1.11 seconds 
+----
+Checking minimum membership
+get_AD_order -> par = 53, parfor toc = 0.5089, max toc = 0.094199
+check_membership -> par = 5, parfor toc = 5.4038, max toc = 5.1981
+new min found (ID 54)
+5.91 seconds 
+----
+
+ELM Step 55 of 500
+----
+Finding local min
+2.02 seconds 
+----
+Checking minimum membership
+get_AD_order -> par = 54, parfor toc = 0.52534, max toc = 0.10367
+check_membership -> par = 5, parfor toc = 4.0396, max toc = 3.8465
+new min found (ID 55)
+4.57 seconds 
+----
+
+ELM Step 56 of 500
+----
+Finding local min
+1.17 seconds 
+----
+Checking minimum membership
+get_AD_order -> par = 55, parfor toc = 0.5054, max toc = 0.094684
+check_membership -> par = 5, parfor toc = 4.2574, max toc = 4.063
+new min found (ID 56)
+4.76 seconds 
+----
+
+ELM Step 57 of 500
+----
+Finding local min
+1.36 seconds 
+----
+Checking minimum membership
+get_AD_order -> par = 56, parfor toc = 0.50279, max toc = 0.097905
+check_membership -> par = 5, parfor toc = 2.7181, max toc = 2.5236
+new min found (ID 57)
+3.22 seconds 
+----
+
+ELM Step 58 of 500
+----
+Finding local min
+1.82 seconds 
+----
+Checking minimum membership
+get_AD_order -> par = 57, parfor toc = 0.49829, max toc = 0.09185
+check_membership -> par = 5, parfor toc = 2.9692, max toc = 2.7767
+new min found (ID 58)
+3.47 seconds 
+----
+
+ELM Step 59 of 500
+----
+Finding local min
+1.62 seconds 
+----
+Checking minimum membership
+get_AD_order -> par = 58, parfor toc = 0.54162, max toc = 0.11266
+check_membership -> par = 5, parfor toc = 2.8138, max toc = 2.5885
+new min found (ID 59)
+3.36 seconds 
+----
+
+ELM Step 60 of 500
+----
+Finding local min
+2.43 seconds 
+----
+Checking minimum membership
+get_AD_order -> par = 59, parfor toc = 0.51555, max toc = 0.10524
+check_membership -> par = 5, parfor toc = 6.7787, max toc = 6.554
+new min found (ID 60)
+7.30 seconds 
+----
+
+ELM Step 61 of 500
+----
+Finding local min
+2.72 seconds 
+----
+Checking minimum membership
+get_AD_order -> par = 60, parfor toc = 0.54427, max toc = 0.10548
+check_membership -> par = 5, parfor toc = 3.1113, max toc = 2.8767
+new min found (ID 61)
+3.66 seconds 
+----
+
+ELM Step 62 of 500
+----
+Finding local min
+1.62 seconds 
+----
+Checking minimum membership
+get_AD_order -> par = 61, parfor toc = 0.53831, max toc = 0.11576
+check_membership -> par = 5, parfor toc = 5.7094, max toc = 5.4962
+new min found (ID 62)
+6.25 seconds 
+----
+
+ELM Step 63 of 500
+----
+Finding local min
+1.36 seconds 
+----
+Checking minimum membership
+get_AD_order -> par = 62, parfor toc = 0.54928, max toc = 0.093157
+check_membership -> par = 5, parfor toc = 4.1212, max toc = 3.8966
+new min found (ID 63)
+4.67 seconds 
+----
+
+ELM Step 64 of 500
+----
+Finding local min
+3.73 seconds 
+----
+Checking minimum membership
+get_AD_order -> par = 63, parfor toc = 0.52626, max toc = 0.091204
+check_membership -> par = 5, parfor toc = 3.4584, max toc = 3.2263
+new min found (ID 64)
+3.99 seconds 
+----
+
+ELM Step 65 of 500
+----
+Finding local min
+1.48 seconds 
+----
+Checking minimum membership
+get_AD_order -> par = 64, parfor toc = 0.54071, max toc = 0.10937
+check_membership -> par = 5, parfor toc = 5.2559, max toc = 5.0901
+new min found (ID 65)
+5.80 seconds 
+----
+
+ELM Step 66 of 500
+----
+Finding local min
+2.14 seconds 
+----
+Checking minimum membership
+get_AD_order -> par = 65, parfor toc = 0.55101, max toc = 0.11202
+check_membership -> par = 5, parfor toc = 5.0365, max toc = 4.8319
+new min found (ID 66)
+5.59 seconds 
+----
+
+ELM Step 67 of 500
+----
+Finding local min
+1.17 seconds 
+----
+Checking minimum membership
+get_AD_order -> par = 66, parfor toc = 0.53668, max toc = 0.1067
+check_membership -> par = 5, parfor toc = 5.0384, max toc = 4.8382
+new min found (ID 67)
+5.58 seconds 
+----
+
+ELM Step 68 of 500
+----
+Finding local min
+3.12 seconds 
+----
+Checking minimum membership
+get_AD_order -> par = 67, parfor toc = 0.51893, max toc = 0.094547
+check_membership -> par = 5, parfor toc = 7.8509, max toc = 7.6388
+new min found (ID 68)
+8.37 seconds 
+----
+
+ELM Step 69 of 500
+----
+Finding local min
+1.13 seconds 
+----
+Checking minimum membership
+get_AD_order -> par = 68, parfor toc = 0.56471, max toc = 0.11074
+check_membership -> par = 5, parfor toc = 5.6062, max toc = 5.4024
+new min found (ID 69)
+6.17 seconds 
+----
+
+ELM Step 70 of 500
+----
+Finding local min
+2.61 seconds 
+----
+Checking minimum membership
+get_AD_order -> par = 69, parfor toc = 0.58945, max toc = 0.10597
+check_membership -> par = 5, parfor toc = 5.4706, max toc = 5.2453
+new min found (ID 70)
+6.06 seconds 
+----
+
+ELM Step 71 of 500
+----
+Finding local min
+1.31 seconds 
+----
+Checking minimum membership
+get_AD_order -> par = 70, parfor toc = 0.56984, max toc = 0.099053
+check_membership -> par = 5, parfor toc = 3.7016, max toc = 3.4824
+new min found (ID 71)
+4.27 seconds 
+----
+
+ELM Step 72 of 500
+----
+Finding local min
+2.70 seconds 
+----
+Checking minimum membership
+get_AD_order -> par = 71, parfor toc = 0.5492, max toc = 0.098632
+check_membership -> par = 5, parfor toc = 5.3522, max toc = 5.1798
+new min found (ID 72)
+5.90 seconds 
+----
+
+ELM Step 73 of 500
+----
+Finding local min
+3.25 seconds 
+----
+Checking minimum membership
+get_AD_order -> par = 72, parfor toc = 0.55757, max toc = 0.10204
+check_membership -> par = 5, parfor toc = 2.1751, max toc = 1.9637
+new min found (ID 73)
+2.73 seconds 
+----
+
+ELM Step 74 of 500
+----
+Finding local min
+2.62 seconds 
+----
+Checking minimum membership
+get_AD_order -> par = 73, parfor toc = 0.57083, max toc = 0.10532
+check_membership -> par = 5, parfor toc = 6.3559, max toc = 6.1507
+new min found (ID 74)
+6.93 seconds 
+----
+
+ELM Step 75 of 500
+----
+Finding local min
+3.22 seconds 
+----
+Checking minimum membership
+get_AD_order -> par = 74, parfor toc = 0.57022, max toc = 0.095492
+check_membership -> par = 5, parfor toc = 2.6643, max toc = 2.4674
+new min found (ID 75)
+3.24 seconds 
+----
+
+ELM Step 76 of 500
+----
+Finding local min
+1.99 seconds 
+----
+Checking minimum membership
+get_AD_order -> par = 75, parfor toc = 0.58104, max toc = 0.11248
+check_membership -> par = 5, parfor toc = 1.5907, max toc = 1.3718
+new min found (ID 76)
+2.17 seconds 
+----
+
+ELM Step 77 of 500
+----
+Finding local min
+1.27 seconds 
+----
+Checking minimum membership
+get_AD_order -> par = 76, parfor toc = 0.56704, max toc = 0.098553
+check_membership -> par = 5, parfor toc = 3.0071, max toc = 2.7873
+new min found (ID 77)
+3.58 seconds 
+----
+
+ELM Step 78 of 500
+----
+Finding local min
+2.15 seconds 
+----
+Checking minimum membership
+get_AD_order -> par = 77, parfor toc = 0.59755, max toc = 0.10218
+check_membership -> par = 5, parfor toc = 4.2774, max toc = 4.0434
+new min found (ID 78)
+4.88 seconds 
+----
+
+ELM Step 79 of 500
+----
+Finding local min
+1.67 seconds 
+----
+Checking minimum membership
+get_AD_order -> par = 78, parfor toc = 0.58326, max toc = 0.10838
+check_membership -> par = 5, parfor toc = 4.3186, max toc = 4.126
+new min found (ID 79)
+4.90 seconds 
+----
+
+ELM Step 80 of 500
+----
+Finding local min
+1.05 seconds 
+----
+Checking minimum membership
+get_AD_order -> par = 79, parfor toc = 0.57049, max toc = 0.10115
+check_membership -> par = 5, parfor toc = 4.1369, max toc = 3.9331
+new min found (ID 80)
+4.71 seconds 
+----
+
+ELM Step 81 of 500
+----
+Finding local min
+1.51 seconds 
+----
+Checking minimum membership
+get_AD_order -> par = 80, parfor toc = 0.59365, max toc = 0.096421
+check_membership -> par = 5, parfor toc = 3.5754, max toc = 3.3713
+new min found (ID 81)
+4.17 seconds 
+----
+
+ELM Step 82 of 500
+----
+Finding local min
+1.77 seconds 
+----
+Checking minimum membership
+get_AD_order -> par = 81, parfor toc = 0.58714, max toc = 0.094607
+check_membership -> par = 5, parfor toc = 3.5204, max toc = 3.3122
+new min found (ID 82)
+4.11 seconds 
+----
+
+ELM Step 83 of 500
+----
+Finding local min
+1.91 seconds 
+----
+Checking minimum membership
+get_AD_order -> par = 82, parfor toc = 0.60442, max toc = 0.10458
+check_membership -> par = 5, parfor toc = 4.0189, max toc = 3.8448
+new min found (ID 83)
+4.62 seconds 
+----
+
+ELM Step 84 of 500
+----
+Finding local min
+1.74 seconds 
+----
+Checking minimum membership
+get_AD_order -> par = 83, parfor toc = 0.59218, max toc = 0.109
+check_membership -> par = 5, parfor toc = 4.9301, max toc = 4.7137
+new min found (ID 84)
+5.52 seconds 
+----
+
+ELM Step 85 of 500
+----
+Finding local min
+0.68 seconds 
+----
+Checking minimum membership
+get_AD_order -> par = 84, parfor toc = 0.60046, max toc = 0.10338
+check_membership -> par = 5, parfor toc = 5.5376, max toc = 5.315
+new min found (ID 85)
+6.14 seconds 
+----
+
+ELM Step 86 of 500
+----
+Finding local min
+2.38 seconds 
+----
+Checking minimum membership
+get_AD_order -> par = 85, parfor toc = 0.5995, max toc = 0.096306
+check_membership -> par = 5, parfor toc = 3.2935, max toc = 3.0874
+new min found (ID 86)
+3.89 seconds 
+----
+
+ELM Step 87 of 500
+----
+Finding local min
+1.44 seconds 
+----
+Checking minimum membership
+get_AD_order -> par = 86, parfor toc = 0.59479, max toc = 0.14372
+check_membership -> par = 5, parfor toc = 3.7573, max toc = 3.5254
+new min found (ID 87)
+4.35 seconds 
+----
+
+ELM Step 88 of 500
+----
+Finding local min
+1.47 seconds 
+----
+Checking minimum membership
+get_AD_order -> par = 87, parfor toc = 0.59774, max toc = 0.11457
+check_membership -> par = 5, parfor toc = 2.9243, max toc = 2.7306
+new min found (ID 88)
+3.52 seconds 
+----
+
+ELM Step 89 of 500
+----
+Finding local min
+0.73 seconds 
+----
+Checking minimum membership
+get_AD_order -> par = 88, parfor toc = 0.63248, max toc = 0.096329
+check_membership -> par = 5, parfor toc = 5.2006, max toc = 4.9925
+new min found (ID 89)
+5.83 seconds 
+----
+
+ELM Step 90 of 500
+----
+Finding local min
+1.47 seconds 
+----
+Checking minimum membership
+get_AD_order -> par = 89, parfor toc = 0.60738, max toc = 0.098248
+check_membership -> par = 5, parfor toc = 4.811, max toc = 4.5777
+new min found (ID 90)
+5.42 seconds 
+----
+
+ELM Step 91 of 500
+----
+Finding local min
+0.95 seconds 
+----
+Checking minimum membership
+get_AD_order -> par = 90, parfor toc = 0.62499, max toc = 0.10063
+check_membership -> par = 5, parfor toc = 6.1806, max toc = 5.9872
+new min found (ID 91)
+6.81 seconds 
+----
+
+ELM Step 92 of 500
+----
+Finding local min
+2.54 seconds 
+----
+Checking minimum membership
+get_AD_order -> par = 91, parfor toc = 0.62558, max toc = 0.10226
+check_membership -> par = 5, parfor toc = 2.9624, max toc = 2.7562
+new min found (ID 92)
+3.59 seconds 
+----
+
+ELM Step 93 of 500
+----
+Finding local min
+1.42 seconds 
+----
+Checking minimum membership
+get_AD_order -> par = 92, parfor toc = 0.61988, max toc = 0.11584
+check_membership -> par = 5, parfor toc = 3.9149, max toc = 3.6841
+new min found (ID 93)
+4.54 seconds 
+----
+
+ELM Step 94 of 500
+----
+Finding local min
+2.12 seconds 
+----
+Checking minimum membership
+get_AD_order -> par = 93, parfor toc = 0.61682, max toc = 0.10112
+check_membership -> par = 5, parfor toc = 7.2279, max toc = 6.9979
+new min found (ID 94)
+7.85 seconds 
+----
+
+ELM Step 95 of 500
+----
+Finding local min
+2.12 seconds 
+----
+Checking minimum membership
+get_AD_order -> par = 94, parfor toc = 0.64893, max toc = 0.10774
+check_membership -> par = 5, parfor toc = 3.9339, max toc = 3.7166
+new min found (ID 95)
+4.58 seconds 
+----
+
+ELM Step 96 of 500
+----
+Finding local min
+1.14 seconds 
+----
+Checking minimum membership
+get_AD_order -> par = 95, parfor toc = 0.63971, max toc = 0.098624
+check_membership -> par = 5, parfor toc = 4.0406, max toc = 3.8381
+new min found (ID 96)
+4.68 seconds 
+----
+
+ELM Step 97 of 500
+----
+Finding local min
+1.22 seconds 
+----
+Checking minimum membership
+get_AD_order -> par = 96, parfor toc = 0.65651, max toc = 0.10683
+check_membership -> par = 5, parfor toc = 3.2913, max toc = 3.0646
+new min found (ID 97)
+3.95 seconds 
+----
+
+ELM Step 98 of 500
+----
+Finding local min
+3.92 seconds 
+----
+Checking minimum membership
+get_AD_order -> par = 97, parfor toc = 0.64167, max toc = 0.11826
+check_membership -> par = 5, parfor toc = 8.8841, max toc = 8.6872
+successful diffusion to: 74 
+min sorted to basin 74
+9.53 seconds 
+----
+
+ELM Step 99 of 500
+----
+Finding local min
+1.98 seconds 
+----
+Checking minimum membership
+get_AD_order -> par = 97, parfor toc = 0.6418, max toc = 0.10211
+check_membership -> par = 5, parfor toc = 2.6021, max toc = 2.3807
+new min found (ID 98)
+3.24 seconds 
+----
+
+ELM Step 100 of 500
+----
+Finding local min
+1.48 seconds 
+----
+Checking minimum membership
+get_AD_order -> par = 98, parfor toc = 0.65097, max toc = 0.10174
+check_membership -> par = 5, parfor toc = 4.1423, max toc = 3.9076
+new min found (ID 99)
+4.79 seconds 
+----
+
+ELM Step 101 of 500
+----
+Finding local min
+1.56 seconds 
+----
+Checking minimum membership
+get_AD_order -> par = 99, parfor toc = 0.64054, max toc = 0.097156
+check_membership -> par = 5, parfor toc = 1.7272, max toc = 1.5201
+new min found (ID 100)
+2.37 seconds 
+----
+
+ELM Step 102 of 500
+----
+Finding local min
+1.94 seconds 
+----
+Checking minimum membership
+get_AD_order -> par = 100, parfor toc = 0.65641, max toc = 0.099044
+check_membership -> par = 5, parfor toc = 3.2905, max toc = 3.0804
+new min found (ID 101)
+3.95 seconds 
+----
+
+ELM Step 103 of 500
+----
+Finding local min
+1.85 seconds 
+----
+Checking minimum membership
+get_AD_order -> par = 101, parfor toc = 0.65588, max toc = 0.096357
+check_membership -> par = 5, parfor toc = 5.756, max toc = 5.5334
+new min found (ID 102)
+6.41 seconds 
+----
+
+ELM Step 104 of 500
+----
+Finding local min
+1.25 seconds 
+----
+Checking minimum membership
+get_AD_order -> par = 102, parfor toc = 0.65795, max toc = 0.11399
+check_membership -> par = 5, parfor toc = 3.962, max toc = 3.7509
+successful diffusion to: 95 
+min sorted to basin 95
+basin 95 rep updated 
+4.62 seconds 
+----
+
+ELM Step 105 of 500
+----
+Finding local min
+3.64 seconds 
+----
+Checking minimum membership
+get_AD_order -> par = 102, parfor toc = 0.65849, max toc = 0.10275
+check_membership -> par = 5, parfor toc = 3.4034, max toc = 3.1611
+new min found (ID 103)
+4.06 seconds 
+----
+
+ELM Step 106 of 500
+----
+Finding local min
+3.20 seconds 
+----
+Checking minimum membership
+get_AD_order -> par = 103, parfor toc = 0.67028, max toc = 0.094203
+check_membership -> par = 5, parfor toc = 5.0726, max toc = 4.8586
+new min found (ID 104)
+5.74 seconds 
+----
+
+ELM Step 107 of 500
+----
+Finding local min
+0.95 seconds 
+----
+Checking minimum membership
+get_AD_order -> par = 104, parfor toc = 0.68102, max toc = 0.10837
+check_membership -> par = 5, parfor toc = 4.4687, max toc = 4.2609
+new min found (ID 105)
+5.15 seconds 
+----
+
+ELM Step 108 of 500
+----
+Finding local min
+2.05 seconds 
+----
+Checking minimum membership
+get_AD_order -> par = 105, parfor toc = 0.67328, max toc = 0.10719
+check_membership -> par = 5, parfor toc = 3.2524, max toc = 3.064
+new min found (ID 106)
+3.93 seconds 
+----
+
+ELM Step 109 of 500
+----
+Finding local min
+1.61 seconds 
+----
+Checking minimum membership
+get_AD_order -> par = 106, parfor toc = 0.67745, max toc = 0.10681
+check_membership -> par = 5, parfor toc = 6.0289, max toc = 5.8356
+successful diffusion to: 104 
+min sorted to basin 104
+6.71 seconds 
+----
+
+ELM Step 110 of 500
+----
+Finding local min
+1.32 seconds 
+----
+Checking minimum membership
+get_AD_order -> par = 106, parfor toc = 0.67398, max toc = 0.1041
+check_membership -> par = 5, parfor toc = 5.3408, max toc = 5.105
+new min found (ID 107)
+6.02 seconds 
+----
+
+ELM Step 111 of 500
+----
+Finding local min
+1.98 seconds 
+----
+Checking minimum membership
+get_AD_order -> par = 107, parfor toc = 0.67892, max toc = 0.10012
+check_membership -> par = 5, parfor toc = 7.2423, max toc = 7.0239
+successful diffusion to: 32 
+min sorted to basin 32
+7.92 seconds 
+----
+
+ELM Step 112 of 500
+----
+Finding local min
+1.57 seconds 
+----
+Checking minimum membership
+get_AD_order -> par = 107, parfor toc = 0.66416, max toc = 0.11092
+check_membership -> par = 5, parfor toc = 5.6065, max toc = 5.3835
+new min found (ID 108)
+6.27 seconds 
+----
+
+ELM Step 113 of 500
+----
+Finding local min
+1.19 seconds 
+----
+Checking minimum membership
+get_AD_order -> par = 108, parfor toc = 0.67198, max toc = 0.10264
+check_membership -> par = 5, parfor toc = 4.7069, max toc = 4.4841
+new min found (ID 109)
+5.38 seconds 
+----
+
+ELM Step 114 of 500
+----
+Finding local min
+1.92 seconds 
+----
+Checking minimum membership
+get_AD_order -> par = 109, parfor toc = 0.67829, max toc = 0.098483
+check_membership -> par = 5, parfor toc = 5.617, max toc = 5.403
+new min found (ID 110)
+6.30 seconds 
+----
+
+ELM Step 115 of 500
+----
+Finding local min
+1.67 seconds 
+----
+Checking minimum membership
+get_AD_order -> par = 110, parfor toc = 0.69086, max toc = 0.10917
+check_membership -> par = 5, parfor toc = 5.5191, max toc = 5.2896
+new min found (ID 111)
+6.21 seconds 
+----
+
+ELM Step 116 of 500
+----
+Finding local min
+1.53 seconds 
+----
+Checking minimum membership
+get_AD_order -> par = 111, parfor toc = 0.69454, max toc = 0.10475
+check_membership -> par = 5, parfor toc = 4.1178, max toc = 3.8877
+new min found (ID 112)
+4.81 seconds 
+----
+
+ELM Step 117 of 500
+----
+Finding local min
+0.89 seconds 
+----
+Checking minimum membership
+get_AD_order -> par = 112, parfor toc = 0.68556, max toc = 0.10522
+check_membership -> par = 5, parfor toc = 4.4339, max toc = 4.2291
+successful diffusion to: 19 
+min sorted to basin 19
+basin 19 rep updated 
+5.12 seconds 
+----
+
+ELM Step 118 of 500
+----
+Finding local min
+4.00 seconds 
+----
+Checking minimum membership
+get_AD_order -> par = 112, parfor toc = 0.70717, max toc = 0.10957
+check_membership -> par = 5, parfor toc = 4.7506, max toc = 4.5141
+new min found (ID 113)
+5.46 seconds 
+----
+
+ELM Step 119 of 500
+----
+Finding local min
+3.53 seconds 
+----
+Checking minimum membership
+get_AD_order -> par = 113, parfor toc = 0.69426, max toc = 0.10517
+check_membership -> par = 5, parfor toc = 2.0866, max toc = 1.8721
+new min found (ID 114)
+2.78 seconds 
+----
+
+ELM Step 120 of 500
+----
+Finding local min
+2.93 seconds 
+----
+Checking minimum membership
+get_AD_order -> par = 114, parfor toc = 0.69946, max toc = 0.10102
+check_membership -> par = 5, parfor toc = 4.2713, max toc = 4.03
+new min found (ID 115)
+4.97 seconds 
+----
+
+ELM Step 121 of 500
+----
+Finding local min
+1.61 seconds 
+----
+Checking minimum membership
+get_AD_order -> par = 115, parfor toc = 0.71323, max toc = 0.11152
+check_membership -> par = 5, parfor toc = 5.2727, max toc = 5.0561
+new min found (ID 116)
+5.99 seconds 
+----
+
+ELM Step 122 of 500
+----
+Finding local min
+1.72 seconds 
+----
+Checking minimum membership
+get_AD_order -> par = 116, parfor toc = 0.69623, max toc = 0.10915
+check_membership -> par = 5, parfor toc = 6.25, max toc = 6.0263
+new min found (ID 117)
+6.95 seconds 
+----
+
+ELM Step 123 of 500
+----
+Finding local min
+2.73 seconds 
+----
+Checking minimum membership
+get_AD_order -> par = 117, parfor toc = 0.71389, max toc = 0.10566
+check_membership -> par = 5, parfor toc = 5.083, max toc = 4.8354
+new min found (ID 118)
+5.80 seconds 
+----
+
+ELM Step 124 of 500
+----
+Finding local min
+3.51 seconds 
+----
+Checking minimum membership
+get_AD_order -> par = 118, parfor toc = 0.71729, max toc = 0.098358
+check_membership -> par = 5, parfor toc = 4.5799, max toc = 4.3601
+new min found (ID 119)
+5.30 seconds 
+----
+
+ELM Step 125 of 500
+----
+Finding local min
+1.04 seconds 
+----
+Checking minimum membership
+get_AD_order -> par = 119, parfor toc = 0.71087, max toc = 0.10268
+check_membership -> par = 5, parfor toc = 4.775, max toc = 4.5529
+new min found (ID 120)
+5.49 seconds 
+----
+
+ELM Step 126 of 500
+----
+Finding local min
+1.50 seconds 
+----
+Checking minimum membership
+get_AD_order -> par = 120, parfor toc = 0.72544, max toc = 0.10135
+check_membership -> par = 5, parfor toc = 3.6279, max toc = 3.4487
+new min found (ID 121)
+4.35 seconds 
+----
+
+ELM Step 127 of 500
+----
+Finding local min
+1.82 seconds 
+----
+Checking minimum membership
+get_AD_order -> par = 121, parfor toc = 0.71298, max toc = 0.10054
+check_membership -> par = 5, parfor toc = 6.41, max toc = 6.1737
+new min found (ID 122)
+7.12 seconds 
+----
+
+ELM Step 128 of 500
+----
+Finding local min
+1.45 seconds 
+----
+Checking minimum membership
+get_AD_order -> par = 122, parfor toc = 0.70961, max toc = 0.11207
+check_membership -> par = 5, parfor toc = 1.9069, max toc = 1.6923
+new min found (ID 123)
+2.62 seconds 
+----
+
+ELM Step 129 of 500
+----
+Finding local min
+1.90 seconds 
+----
+Checking minimum membership
+get_AD_order -> par = 123, parfor toc = 0.73027, max toc = 0.12993
+check_membership -> par = 5, parfor toc = 1.7122, max toc = 1.4925
+new min found (ID 124)
+2.44 seconds 
+----
+
+ELM Step 130 of 500
+----
+Finding local min
+2.76 seconds 
+----
+Checking minimum membership
+get_AD_order -> par = 124, parfor toc = 0.71765, max toc = 0.1008
+check_membership -> par = 5, parfor toc = 1.965, max toc = 1.7332
+new min found (ID 125)
+2.68 seconds 
+----
+
+ELM Step 131 of 500
+----
+Finding local min
+0.87 seconds 
+----
+Checking minimum membership
+get_AD_order -> par = 125, parfor toc = 0.73798, max toc = 0.10943
+check_membership -> par = 5, parfor toc = 2.2641, max toc = 2.0308
+new min found (ID 126)
+3.00 seconds 
+----
+
+ELM Step 132 of 500
+----
+Finding local min
+1.09 seconds 
+----
+Checking minimum membership
+get_AD_order -> par = 126, parfor toc = 0.74619, max toc = 0.12148
+check_membership -> par = 5, parfor toc = 4.2169, max toc = 4
+new min found (ID 127)
+4.97 seconds 
+----
+
+ELM Step 133 of 500
+----
+Finding local min
+1.94 seconds 
+----
+Checking minimum membership
+get_AD_order -> par = 127, parfor toc = 0.74768, max toc = 0.11178
+check_membership -> par = 5, parfor toc = 2.7658, max toc = 2.5395
+new min found (ID 128)
+3.51 seconds 
+----
+
+ELM Step 134 of 500
+----
+Finding local min
+1.77 seconds 
+----
+Checking minimum membership
+get_AD_order -> par = 128, parfor toc = 0.75243, max toc = 0.10156
+check_membership -> par = 5, parfor toc = 4.2343, max toc = 3.9876
+new min found (ID 129)
+4.99 seconds 
+----
+
+ELM Step 135 of 500
+----
+Finding local min
+1.91 seconds 
+----
+Checking minimum membership
+get_AD_order -> par = 129, parfor toc = 0.74712, max toc = 0.1089
+check_membership -> par = 5, parfor toc = 5.1132, max toc = 4.9117
+new min found (ID 130)
+5.86 seconds 
+----
+
+ELM Step 136 of 500
+----
+Finding local min
+0.92 seconds 
+----
+Checking minimum membership
+get_AD_order -> par = 130, parfor toc = 0.75339, max toc = 0.10484
+check_membership -> par = 5, parfor toc = 2.6886, max toc = 2.4845
+new min found (ID 131)
+3.44 seconds 
+----
+
+ELM Step 137 of 500
+----
+Finding local min
+1.65 seconds 
+----
+Checking minimum membership
+get_AD_order -> par = 131, parfor toc = 0.76428, max toc = 0.11271
+check_membership -> par = 5, parfor toc = 5.4021, max toc = 5.1729
+new min found (ID 132)
+6.17 seconds 
+----
+
+ELM Step 138 of 500
+----
+Finding local min
+1.17 seconds 
+----
+Checking minimum membership
+get_AD_order -> par = 132, parfor toc = 0.75868, max toc = 0.10854
+check_membership -> par = 5, parfor toc = 3.8761, max toc = 3.6434
+new min found (ID 133)
+4.64 seconds 
+----
+
+ELM Step 139 of 500
+----
+Finding local min
+2.71 seconds 
+----
+Checking minimum membership
+get_AD_order -> par = 133, parfor toc = 0.76007, max toc = 0.09831
+check_membership -> par = 5, parfor toc = 7.6327, max toc = 7.4203
+new min found (ID 134)
+8.39 seconds 
+----
+
+ELM Step 140 of 500
+----
+Finding local min
+3.67 seconds 
+----
+Checking minimum membership
+get_AD_order -> par = 134, parfor toc = 0.76645, max toc = 0.1045
+check_membership -> par = 5, parfor toc = 3.3251, max toc = 3.0802
+new min found (ID 135)
+4.09 seconds 
+----
+
+ELM Step 141 of 500
+----
+Finding local min
+2.74 seconds 
+----
+Checking minimum membership
+get_AD_order -> par = 135, parfor toc = 0.78139, max toc = 0.11031
+check_membership -> par = 5, parfor toc = 4.7823, max toc = 4.5743
+new min found (ID 136)
+5.56 seconds 
+----
+
+ELM Step 142 of 500
+----
+Finding local min
+1.74 seconds 
+----
+Checking minimum membership
+get_AD_order -> par = 136, parfor toc = 0.78507, max toc = 0.12201
+check_membership -> par = 5, parfor toc = 2.3834, max toc = 2.1682
+new min found (ID 137)
+3.17 seconds 
+----
+
+ELM Step 143 of 500
+----
+Finding local min
+1.37 seconds 
+----
+Checking minimum membership
+get_AD_order -> par = 137, parfor toc = 0.77897, max toc = 0.098253
+check_membership -> par = 5, parfor toc = 5.6098, max toc = 5.3883
+new min found (ID 138)
+6.39 seconds 
+----
+
+ELM Step 144 of 500
+----
+Finding local min
+1.16 seconds 
+----
+Checking minimum membership
+get_AD_order -> par = 138, parfor toc = 0.7868, max toc = 0.10344
+check_membership -> par = 5, parfor toc = 2.8266, max toc = 2.6062
+new min found (ID 139)
+3.62 seconds 
+----
+
+ELM Step 145 of 500
+----
+Finding local min
+2.48 seconds 
+----
+Checking minimum membership
+get_AD_order -> par = 139, parfor toc = 0.78961, max toc = 0.12276
+check_membership -> par = 5, parfor toc = 4.925, max toc = 4.6985
+new min found (ID 140)
+5.72 seconds 
+----
+
+ELM Step 146 of 500
+----
+Finding local min
+2.99 seconds 
+----
+Checking minimum membership
+get_AD_order -> par = 140, parfor toc = 0.78206, max toc = 0.12996
+check_membership -> par = 5, parfor toc = 4.7018, max toc = 4.453
+new min found (ID 141)
+5.48 seconds 
+----
+
+ELM Step 147 of 500
+----
+Finding local min
+1.69 seconds 
+----
+Checking minimum membership
+get_AD_order -> par = 141, parfor toc = 0.78564, max toc = 0.11208
+check_membership -> par = 5, parfor toc = 4.0333, max toc = 3.8137
+new min found (ID 142)
+4.82 seconds 
+----
+
+ELM Step 148 of 500
+----
+Finding local min
+2.27 seconds 
+----
+Checking minimum membership
+get_AD_order -> par = 142, parfor toc = 0.78735, max toc = 0.13275
+check_membership -> par = 5, parfor toc = 5.0132, max toc = 4.788
+new min found (ID 143)
+5.80 seconds 
+----
+
+ELM Step 149 of 500
+----
+Finding local min
+2.03 seconds 
+----
+Checking minimum membership
+get_AD_order -> par = 143, parfor toc = 0.79611, max toc = 0.10559
+check_membership -> par = 5, parfor toc = 4.1521, max toc = 3.9122
+new min found (ID 144)
+4.95 seconds 
+----
+
+ELM Step 150 of 500
+----
+Finding local min
+1.67 seconds 
+----
+Checking minimum membership
+get_AD_order -> par = 144, parfor toc = 0.8079, max toc = 0.10521
+check_membership -> par = 5, parfor toc = 2.8587, max toc = 2.6276
+new min found (ID 145)
+3.67 seconds 
+----
+
+ELM Step 151 of 500
+----
+Finding local min
+2.12 seconds 
+----
+Checking minimum membership
+get_AD_order -> par = 145, parfor toc = 0.79629, max toc = 0.099588
+check_membership -> par = 5, parfor toc = 5.7266, max toc = 5.4939
+new min found (ID 146)
+6.52 seconds 
+----
+
+ELM Step 152 of 500
+----
+Finding local min
+1.17 seconds 
+----
+Checking minimum membership
+get_AD_order -> par = 146, parfor toc = 0.814, max toc = 0.10213
+check_membership -> par = 5, parfor toc = 6.6311, max toc = 6.404
+new min found (ID 147)
+7.45 seconds 
+----
+
+ELM Step 153 of 500
+----
+Finding local min
+1.91 seconds 
+----
+Checking minimum membership
+get_AD_order -> par = 147, parfor toc = 0.80809, max toc = 0.10041
+check_membership -> par = 5, parfor toc = 4.1525, max toc = 3.9244
+new min found (ID 148)
+4.96 seconds 
+----
+
+ELM Step 154 of 500
+----
+Finding local min
+1.81 seconds 
+----
+Checking minimum membership
+get_AD_order -> par = 148, parfor toc = 0.80533, max toc = 0.10246
+check_membership -> par = 5, parfor toc = 2.2974, max toc = 2.0857
+new min found (ID 149)
+3.10 seconds 
+----
+
+ELM Step 155 of 500
+----
+Finding local min
+2.78 seconds 
+----
+Checking minimum membership
+get_AD_order -> par = 149, parfor toc = 0.81362, max toc = 0.10526
+check_membership -> par = 5, parfor toc = 6.5677, max toc = 6.3263
+new min found (ID 150)
+7.38 seconds 
+----
+
+ELM Step 156 of 500
+----
+Finding local min
+1.76 seconds 
+----
+Checking minimum membership
+get_AD_order -> par = 150, parfor toc = 0.83713, max toc = 0.13369
+check_membership -> par = 5, parfor toc = 6.8492, max toc = 6.6177
+new min found (ID 151)
+7.69 seconds 
+----
+
+ELM Step 157 of 500
+----
+Finding local min
+1.69 seconds 
+----
+Checking minimum membership
+get_AD_order -> par = 151, parfor toc = 0.81718, max toc = 0.13516
+check_membership -> par = 5, parfor toc = 5.2924, max toc = 5.0688
+new min found (ID 152)
+6.11 seconds 
+----
+
+ELM Step 158 of 500
+----
+Finding local min
+2.82 seconds 
+----
+Checking minimum membership
+get_AD_order -> par = 152, parfor toc = 0.82749, max toc = 0.15866
+check_membership -> par = 5, parfor toc = 3.1941, max toc = 2.9636
+new min found (ID 153)
+4.02 seconds 
+----
+
+ELM Step 159 of 500
+----
+Finding local min
+1.81 seconds 
+----
+Checking minimum membership
+get_AD_order -> par = 153, parfor toc = 0.84092, max toc = 0.10625
+check_membership -> par = 5, parfor toc = 3.7176, max toc = 3.4698
+new min found (ID 154)
+4.56 seconds 
+----
+
+ELM Step 160 of 500
+----
+Finding local min
+2.27 seconds 
+----
+Checking minimum membership
+get_AD_order -> par = 154, parfor toc = 0.86781, max toc = 0.10786
+check_membership -> par = 5, parfor toc = 6.0187, max toc = 5.7867
+new min found (ID 155)
+6.89 seconds 
+----
+
+ELM Step 161 of 500
+----
+Finding local min
+1.51 seconds 
+----
+Checking minimum membership
+get_AD_order -> par = 155, parfor toc = 0.83933, max toc = 0.11956
+check_membership -> par = 5, parfor toc = 3.9786, max toc = 3.7642
+new min found (ID 156)
+4.82 seconds 
+----
+
+ELM Step 162 of 500
+----
+Finding local min
+1.01 seconds 
+----
+Checking minimum membership
+get_AD_order -> par = 156, parfor toc = 0.85519, max toc = 0.10214
+check_membership -> par = 5, parfor toc = 2.7357, max toc = 2.4868
+new min found (ID 157)
+3.59 seconds 
+----
+
+ELM Step 163 of 500
+----
+Finding local min
+5.04 seconds 
+----
+Checking minimum membership
+get_AD_order -> par = 157, parfor toc = 0.86522, max toc = 0.10142
+check_membership -> par = 5, parfor toc = 3.5682, max toc = 3.3491
+new min found (ID 158)
+4.43 seconds 
+----
+
+ELM Step 164 of 500
+----
+Finding local min
+2.16 seconds 
+----
+Checking minimum membership
+get_AD_order -> par = 158, parfor toc = 0.84355, max toc = 0.12919
+check_membership -> par = 5, parfor toc = 5.0561, max toc = 4.8369
+new min found (ID 159)
+5.90 seconds 
+----
+
+ELM Step 165 of 500
+----
+Finding local min
+1.26 seconds 
+----
+Checking minimum membership
+get_AD_order -> par = 159, parfor toc = 0.86444, max toc = 0.13168
+check_membership -> par = 5, parfor toc = 3.5012, max toc = 3.254
+new min found (ID 160)
+4.37 seconds 
+----
+
+ELM Step 166 of 500
+----
+Finding local min
+1.93 seconds 
+----
+Checking minimum membership
+get_AD_order -> par = 160, parfor toc = 0.85045, max toc = 0.15399
+check_membership -> par = 5, parfor toc = 2.9544, max toc = 2.7102
+new min found (ID 161)
+3.81 seconds 
+----
+
+ELM Step 167 of 500
+----
+Finding local min
+3.00 seconds 
+----
+Checking minimum membership
+get_AD_order -> par = 161, parfor toc = 0.8462, max toc = 0.10943
+check_membership -> par = 5, parfor toc = 2.6646, max toc = 2.4422
+new min found (ID 162)
+3.51 seconds 
+----
+
+ELM Step 168 of 500
+----
+Finding local min
+1.21 seconds 
+----
+Checking minimum membership
+get_AD_order -> par = 162, parfor toc = 0.86519, max toc = 0.10722
+check_membership -> par = 5, parfor toc = 6.3091, max toc = 6.1059
+new min found (ID 163)
+7.18 seconds 
+----
+
+ELM Step 169 of 500
+----
+Finding local min
+2.76 seconds 
+----
+Checking minimum membership
+get_AD_order -> par = 163, parfor toc = 0.84402, max toc = 0.10331
+check_membership -> par = 5, parfor toc = 3.1556, max toc = 2.9305
+new min found (ID 164)
+4.00 seconds 
+----
+
+ELM Step 170 of 500
+----
+Finding local min
+2.21 seconds 
+----
+Checking minimum membership
+get_AD_order -> par = 164, parfor toc = 0.87509, max toc = 0.10455
+check_membership -> par = 5, parfor toc = 6.9061, max toc = 6.6725
+new min found (ID 165)
+7.78 seconds 
+----
+
+ELM Step 171 of 500
+----
+Finding local min
+1.33 seconds 
+----
+Checking minimum membership
+get_AD_order -> par = 165, parfor toc = 0.88372, max toc = 0.1117
+check_membership -> par = 5, parfor toc = 5.5443, max toc = 5.3072
+new min found (ID 166)
+6.43 seconds 
+----
+
+ELM Step 172 of 500
+----
+Finding local min
+1.61 seconds 
+----
+Checking minimum membership
+get_AD_order -> par = 166, parfor toc = 0.84747, max toc = 0.10426
+check_membership -> par = 5, parfor toc = 4.0551, max toc = 3.8068
+new min found (ID 167)
+4.90 seconds 
+----
+
+ELM Step 173 of 500
+----
+Finding local min
+3.70 seconds 
+----
+Checking minimum membership
+get_AD_order -> par = 167, parfor toc = 0.88099, max toc = 0.10951
+check_membership -> par = 5, parfor toc = 4.306, max toc = 4.0685
+new min found (ID 168)
+5.19 seconds 
+----
+
+ELM Step 174 of 500
+----
+Finding local min
+2.06 seconds 
+----
+Checking minimum membership
+get_AD_order -> par = 168, parfor toc = 0.89453, max toc = 0.1198
+check_membership -> par = 5, parfor toc = 6.6545, max toc = 6.4315
+new min found (ID 169)
+7.55 seconds 
+----
+
+ELM Step 175 of 500
+----
+Finding local min
+2.02 seconds 
+----
+Checking minimum membership
+get_AD_order -> par = 169, parfor toc = 0.87153, max toc = 0.10638
+check_membership -> par = 5, parfor toc = 3.5705, max toc = 3.3546
+new min found (ID 170)
+4.44 seconds 
+----
+
+ELM Step 176 of 500
+----
+Finding local min
+1.58 seconds 
+----
+Checking minimum membership
+get_AD_order -> par = 170, parfor toc = 0.89192, max toc = 0.10851
+check_membership -> par = 5, parfor toc = 6.4174, max toc = 6.167
+new min found (ID 171)
+7.31 seconds 
+----
+
+ELM Step 177 of 500
+----
+Finding local min
+0.98 seconds 
+----
+Checking minimum membership
+get_AD_order -> par = 171, parfor toc = 0.90244, max toc = 0.099686
+check_membership -> par = 5, parfor toc = 2.7711, max toc = 2.5177
+new min found (ID 172)
+3.67 seconds 
+----
+
+ELM Step 178 of 500
+----
+Finding local min
+1.26 seconds 
+----
+Checking minimum membership
+get_AD_order -> par = 172, parfor toc = 0.92581, max toc = 0.12842
+check_membership -> par = 5, parfor toc = 3.9787, max toc = 3.7502
+new min found (ID 173)
+4.91 seconds 
+----
+
+ELM Step 179 of 500
+----
+Finding local min
+2.57 seconds 
+----
+Checking minimum membership
+get_AD_order -> par = 173, parfor toc = 0.88724, max toc = 0.10232
+check_membership -> par = 5, parfor toc = 6.7253, max toc = 6.4939
+successful diffusion to: 158 
+min sorted to basin 158
+7.61 seconds 
+----
+
+ELM Step 180 of 500
+----
+Finding local min
+3.25 seconds 
+----
+Checking minimum membership
+get_AD_order -> par = 173, parfor toc = 0.90743, max toc = 0.10965
+check_membership -> par = 5, parfor toc = 2.0514, max toc = 1.8202
+new min found (ID 174)
+2.96 seconds 
+----
+
+ELM Step 181 of 500
+----
+Finding local min
+2.82 seconds 
+----
+Checking minimum membership
+get_AD_order -> par = 174, parfor toc = 0.90375, max toc = 0.10785
+check_membership -> par = 5, parfor toc = 4.3583, max toc = 4.1174
+new min found (ID 175)
+5.26 seconds 
+----
+
+ELM Step 182 of 500
+----
+Finding local min
+1.25 seconds 
+----
+Checking minimum membership
+get_AD_order -> par = 175, parfor toc = 0.90527, max toc = 0.10778
+check_membership -> par = 5, parfor toc = 2.9757, max toc = 2.7136
+new min found (ID 176)
+3.88 seconds 
+----
+
+ELM Step 183 of 500
+----
+Finding local min
+2.39 seconds 
+----
+Checking minimum membership
+get_AD_order -> par = 176, parfor toc = 0.90651, max toc = 0.14417
+check_membership -> par = 5, parfor toc = 5.0486, max toc = 4.7961
+new min found (ID 177)
+5.96 seconds 
+----
+
+ELM Step 184 of 500
+----
+Finding local min
+1.82 seconds 
+----
+Checking minimum membership
+get_AD_order -> par = 177, parfor toc = 0.90966, max toc = 0.12221
+check_membership -> par = 5, parfor toc = 2.8443, max toc = 2.5884
+new min found (ID 178)
+3.75 seconds 
+----
+
+ELM Step 185 of 500
+----
+Finding local min
+1.17 seconds 
+----
+Checking minimum membership
+get_AD_order -> par = 178, parfor toc = 0.92489, max toc = 0.0967
+check_membership -> par = 5, parfor toc = 5.4075, max toc = 5.1462
+new min found (ID 179)
+6.33 seconds 
+----
+
+ELM Step 186 of 500
+----
+Finding local min
+1.26 seconds 
+----
+Checking minimum membership
+get_AD_order -> par = 179, parfor toc = 0.93459, max toc = 0.10046
+check_membership -> par = 5, parfor toc = 3.0346, max toc = 2.7912
+new min found (ID 180)
+3.97 seconds 
+----
+
+ELM Step 187 of 500
+----
+Finding local min
+2.28 seconds 
+----
+Checking minimum membership
+get_AD_order -> par = 180, parfor toc = 0.92329, max toc = 0.13692
+check_membership -> par = 5, parfor toc = 6.7246, max toc = 6.4946
+new min found (ID 181)
+7.65 seconds 
+----
+
+ELM Step 188 of 500
+----
+Finding local min
+1.82 seconds 
+----
+Checking minimum membership
+get_AD_order -> par = 181, parfor toc = 0.92946, max toc = 0.14188
+check_membership -> par = 5, parfor toc = 5.8936, max toc = 5.65
+new min found (ID 182)
+6.82 seconds 
+----
+
+ELM Step 189 of 500
+----
+Finding local min
+1.33 seconds 
+----
+Checking minimum membership
+get_AD_order -> par = 182, parfor toc = 0.92587, max toc = 0.10082
+check_membership -> par = 5, parfor toc = 5.7823, max toc = 5.5118
+successful diffusion to: 142 
+min sorted to basin 142
+6.71 seconds 
+----
+
+ELM Step 190 of 500
+----
+Finding local min
+0.93 seconds 
+----
+Checking minimum membership
+get_AD_order -> par = 182, parfor toc = 0.93238, max toc = 0.107
+check_membership -> par = 5, parfor toc = 5.0334, max toc = 4.7704
+new min found (ID 183)
+5.97 seconds 
+----
+
+ELM Step 191 of 500
+----
+Finding local min
+1.73 seconds 
+----
+Checking minimum membership
+get_AD_order -> par = 183, parfor toc = 0.9419, max toc = 0.12067
+check_membership -> par = 5, parfor toc = 4.2212, max toc = 3.9944
+new min found (ID 184)
+5.16 seconds 
+----
+
+ELM Step 192 of 500
+----
+Finding local min
+0.88 seconds 
+----
+Checking minimum membership
+get_AD_order -> par = 184, parfor toc = 0.94375, max toc = 0.12819
+check_membership -> par = 5, parfor toc = 2.3903, max toc = 2.163
+new min found (ID 185)
+3.34 seconds 
+----
+
+ELM Step 193 of 500
+----
+Finding local min
+1.40 seconds 
+----
+Checking minimum membership
+get_AD_order -> par = 185, parfor toc = 0.95794, max toc = 0.13609
+check_membership -> par = 5, parfor toc = 3.8105, max toc = 3.5732
+new min found (ID 186)
+4.77 seconds 
+----
+
+ELM Step 194 of 500
+----
+Finding local min
+3.20 seconds 
+----
+Checking minimum membership
+get_AD_order -> par = 186, parfor toc = 0.9372, max toc = 0.096454
+check_membership -> par = 5, parfor toc = 4.9672, max toc = 4.7333
+new min found (ID 187)
+5.91 seconds 
+----
+
+ELM Step 195 of 500
+----
+Finding local min
+0.92 seconds 
+----
+Checking minimum membership
+get_AD_order -> par = 187, parfor toc = 0.94717, max toc = 0.12555
+check_membership -> par = 5, parfor toc = 3.5329, max toc = 3.2923
+new min found (ID 188)
+4.48 seconds 
+----
+
+ELM Step 196 of 500
+----
+Finding local min
+2.69 seconds 
+----
+Checking minimum membership
+get_AD_order -> par = 188, parfor toc = 0.961, max toc = 0.14336
+check_membership -> par = 5, parfor toc = 8.2904, max toc = 8.0523
+new min found (ID 189)
+9.25 seconds 
+----
+
+ELM Step 197 of 500
+----
+Finding local min
+1.77 seconds 
+----
+Checking minimum membership
