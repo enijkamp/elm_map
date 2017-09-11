@@ -11,7 +11,8 @@ function alpha_seq=run_ELM_experiment(config,num_exps,alpha_init)
     tic;
     [min_out,max_out] = find_AD_extrema(config,alpha_init);    
     toc;
-    alpha_seq = linspace(min_out.alpha,max_out.alpha,num_exps);
+    %alpha_seq = linspace(min_out.alpha,max_out.alpha,num_exps);
+    alpha_seq = exp(linspace(log(min_out.alpha),log(max_out.alpha),num_exps));
     for i = 1:num_exps
         disp(['### (1) exp ' num2str(i) ' -> burn-in ###']);
         tic;
