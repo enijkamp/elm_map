@@ -1,6 +1,6 @@
 #!/bin/bash
-#SBATCH --job-name="128_M_2"
-#SBATCH --output="ivy_128_ELM_2.%j.%N.out"
+#SBATCH --job-name="128_M_1"
+#SBATCH --output="ivy_128_ELM_1.%j.%N.out"
 #SBATCH --partition=compute
 #SBATCH --nodes=1
 #SBATCH --ntasks-per-node=24
