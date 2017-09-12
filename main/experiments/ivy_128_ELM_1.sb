@@ -1,6 +1,6 @@
 #!/bin/bash
-#SBATCH --job-name="512_M_2"
-#SBATCH --output="ivy_512_ELM_2.%j.%N.out"
+#SBATCH --job-name="128_M_2"
+#SBATCH --output="ivy_128_ELM_2.%j.%N.out"
 #SBATCH --partition=compute
 #SBATCH --nodes=1
 #SBATCH --ntasks-per-node=24
@@ -11,4 +11,4 @@
 #ibrun in verbose mode will give binding detail
 
 module load matlab
-matlab -nodisplay -nosplash -r "ivy_512_ELM_2()"
+matlab -nodisplay -nosplash -r "ivy_128_ELM_1()"
