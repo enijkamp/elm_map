@@ -39,9 +39,9 @@ alpha_init = [config.alpha,config.alpha];
 %run experiment
 no_workers = 24;
 
-pool = gcp('nocreate');
-delete(pool);
-pool = parpool(no_workers, 'IdleTimeout', Inf);
+%pool = gcp('nocreate');
+%delete(pool);
+pool = parpool('comet2', no_workers, 'IdleTimeout', Inf);
 
 parfor i = 1:no_workers
     vl_setupnn();
