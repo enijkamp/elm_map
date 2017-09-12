@@ -8202,3 +8202,51 @@ new min found (ID 121)
 ELM Step 123 of 500
 ----
 Finding local min
+3.58 seconds 
+----
+Checking minimum membership
+get_AD_order -> par = 121, parfor toc = 0.7107, max toc = 0.11277
+check_membership -> par = 5, parfor toc = 3.1596, max toc = 2.9276
+new min found (ID 122)
+3.87 seconds 
+----
+
+ELM Step 124 of 500
+----
+Finding local min
+2.48 seconds 
+----
+Checking minimum membership
+get_AD_order -> par = 122, parfor toc = 0.7294, max toc = 0.10087
+check_membership -> par = 5, parfor toc = 3.4324, max toc = 3.1974
+new min found (ID 123)
+4.16 seconds 
+----
+
+ELM Step 125 of 500
+----
+Finding local min
+3.97 seconds 
+----
+Checking minimum membership
+get_AD_order -> par = 123, parfor toc = 0.6986, max toc = 0.094408
+check_membership -> par = 5, parfor toc = 2.9809, max toc = 2.7651
+new min found (ID 124)
+3.68 seconds 
+----
+
+ELM Step 126 of 500
+----
+Finding local min
+4.30 seconds 
+----
+Checking minimum membership
+get_AD_order -> par = 124, parfor toc = 0.73584, max toc = 0.10801
+check_membership -> par = 5, parfor toc = 2.4171, max toc = 2.1861
+new min found (ID 125)
+3.15 seconds 
+----
+
+ELM Step 127 of 500
+----
+Finding local min
