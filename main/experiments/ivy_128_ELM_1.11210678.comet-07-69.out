@@ -501,3 +501,1415 @@ Total mapping time: 8.13 seconds
 
   919.2448
 
+
+ELM Step 1 of 1
+----
+Finding local min
+1.66 seconds 
+----
+Checking minimum membership
+get_AD_order -> par = 1, parfor toc = 0.18526, max toc = 0.057751
+check_membership -> par = 1, parfor toc = 4.3122, max toc = 4.1565
+new min found (ID 2)
+4.50 seconds 
+----
+
+Total mapping time: 8.09 seconds 
+8.09 seconds per ELM iteration 
+
+
+ELM Step 1 of 1
+----
+Finding local min
+2.33 seconds 
+----
+Checking minimum membership
+get_AD_order -> par = 2, parfor toc = 0.17985, max toc = 0.058549
+check_membership -> par = 2, parfor toc = 6.0014, max toc = 5.8345
+successful diffusion to: 1 
+min sorted to basin 1
+6.18 seconds 
+----
+
+Total mapping time: 9.03 seconds 
+9.03 seconds per ELM iteration 
+
+     2
+
+  851.1526
+
+
+ELM Step 1 of 1
+----
+Finding local min
+1.43 seconds 
+----
+Checking minimum membership
+get_AD_order -> par = 1, parfor toc = 0.18026, max toc = 0.057839
+check_membership -> par = 1, parfor toc = 3.8991, max toc = 3.7446
+new min found (ID 2)
+4.08 seconds 
+----
+
+Total mapping time: 8.05 seconds 
+8.05 seconds per ELM iteration 
+
+
+ELM Step 1 of 1
+----
+Finding local min
+1.54 seconds 
+----
+Checking minimum membership
+get_AD_order -> par = 2, parfor toc = 0.18015, max toc = 0.058079
+check_membership -> par = 2, parfor toc = 4.3779, max toc = 4.2127
+new min found (ID 3)
+4.56 seconds 
+----
+
+Total mapping time: 6.64 seconds 
+6.64 seconds per ELM iteration 
+
+
+ELM Step 1 of 1
+----
+Finding local min
+0.88 seconds 
+----
+Checking minimum membership
+get_AD_order -> par = 3, parfor toc = 0.18918, max toc = 0.058988
+check_membership -> par = 3, parfor toc = 5.0496, max toc = 4.8708
+successful diffusion to: 1 
+min sorted to basin 1
+5.24 seconds 
+----
+
+Total mapping time: 6.66 seconds 
+6.66 seconds per ELM iteration 
+
+     3
+
+  788.1043
+
+
+ELM Step 1 of 1
+----
+Finding local min
+1.64 seconds 
+----
+Checking minimum membership
+get_AD_order -> par = 1, parfor toc = 0.17776, max toc = 0.05643
+check_membership -> par = 1, parfor toc = 5.2667, max toc = 5.1085
+successful diffusion to: 1 
+min sorted to basin 1
+basin 1 rep updated 
+5.45 seconds 
+----
+
+Total mapping time: 9.29 seconds 
+9.29 seconds per ELM iteration 
+
+     1
+
+  729.7262
+
+
+ELM Step 1 of 1
+----
+Finding local min
+1.55 seconds 
+----
+Checking minimum membership
+get_AD_order -> par = 1, parfor toc = 0.21348, max toc = 0.056478
+check_membership -> par = 1, parfor toc = 4.0814, max toc = 3.9265
+new min found (ID 2)
+4.30 seconds 
+----
+
+Total mapping time: 7.27 seconds 
+7.27 seconds per ELM iteration 
+
+
+ELM Step 1 of 1
+----
+Finding local min
+2.02 seconds 
+----
+Checking minimum membership
+get_AD_order -> par = 2, parfor toc = 0.18099, max toc = 0.058174
+check_membership -> par = 2, parfor toc = 4.4293, max toc = 4.2702
+successful diffusion to: 2 
+min sorted to basin 2
+basin 2 rep updated 
+4.61 seconds 
+----
+
+Total mapping time: 7.15 seconds 
+7.15 seconds per ELM iteration 
+
+     2
+
+  675.6724
+
+
+ELM Step 1 of 1
+----
+Finding local min
+1.53 seconds 
+----
+Checking minimum membership
+get_AD_order -> par = 1, parfor toc = 0.1857, max toc = 0.057758
+check_membership -> par = 1, parfor toc = 3.6377, max toc = 3.4829
+new min found (ID 2)
+3.82 seconds 
+----
+
+Total mapping time: 7.51 seconds 
+7.51 seconds per ELM iteration 
+
+
+ELM Step 1 of 1
+----
+Finding local min
+2.50 seconds 
+----
+Checking minimum membership
+get_AD_order -> par = 2, parfor toc = 0.18007, max toc = 0.058128
+check_membership -> par = 2, parfor toc = 4.6239, max toc = 4.4605
+successful diffusion to: 1 
+min sorted to basin 1
+4.81 seconds 
+----
+
+Total mapping time: 7.83 seconds 
+7.83 seconds per ELM iteration 
+
+     2
+
+  625.6226
+
+
+ELM Step 1 of 1
+----
+Finding local min
+2.76 seconds 
+----
+Checking minimum membership
+get_AD_order -> par = 1, parfor toc = 0.18031, max toc = 0.057879
+check_membership -> par = 1, parfor toc = 4.9293, max toc = 4.7761
+successful diffusion to: 1 
+min sorted to basin 1
+basin 1 rep updated 
+5.11 seconds 
+----
+
+Total mapping time: 9.87 seconds 
+9.87 seconds per ELM iteration 
+
+     1
+
+  579.2802
+
+
+ELM Step 1 of 1
+----
+Finding local min
+1.36 seconds 
+----
+Checking minimum membership
+get_AD_order -> par = 1, parfor toc = 0.17528, max toc = 0.056423
+check_membership -> par = 1, parfor toc = 6.5179, max toc = 6.3616
+new min found (ID 2)
+6.69 seconds 
+----
+
+Total mapping time: 10.67 seconds 
+10.67 seconds per ELM iteration 
+
+
+ELM Step 1 of 1
+----
+Finding local min
+1.83 seconds 
+----
+Checking minimum membership
+get_AD_order -> par = 2, parfor toc = 0.18057, max toc = 0.058256
+check_membership -> par = 2, parfor toc = 6.2382, max toc = 6.0767
+successful diffusion to: 1 
+min sorted to basin 1
+basin 1 rep updated 
+6.42 seconds 
+----
+
+Total mapping time: 8.77 seconds 
+8.77 seconds per ELM iteration 
+
+     2
+
+  536.3705
+
+
+ELM Step 1 of 1
+----
+Finding local min
+1.29 seconds 
+----
+Checking minimum membership
+get_AD_order -> par = 1, parfor toc = 0.17672, max toc = 0.057685
+check_membership -> par = 1, parfor toc = 3.4875, max toc = 3.332
+new min found (ID 2)
+3.67 seconds 
+----
+
+Total mapping time: 6.12 seconds 
+6.12 seconds per ELM iteration 
+
+
+ELM Step 1 of 1
+----
+Finding local min
+1.80 seconds 
+----
+Checking minimum membership
+get_AD_order -> par = 2, parfor toc = 0.22621, max toc = 0.056256
+check_membership -> par = 2, parfor toc = 4.5656, max toc = 4.403
+new min found (ID 3)
+4.79 seconds 
+----
+
+Total mapping time: 7.11 seconds 
+7.11 seconds per ELM iteration 
+
+
+ELM Step 1 of 1
+----
+Finding local min
+2.16 seconds 
+----
+Checking minimum membership
+get_AD_order -> par = 3, parfor toc = 0.19097, max toc = 0.059065
+check_membership -> par = 3, parfor toc = 4.3947, max toc = 4.219
+successful diffusion to: 2 
+min sorted to basin 2
+4.59 seconds 
+----
+
+Total mapping time: 7.27 seconds 
+7.27 seconds per ELM iteration 
+
+     3
+
+  496.6394
+
+
+ELM Step 1 of 1
+----
+Finding local min
+1.45 seconds 
+----
+Checking minimum membership
+get_AD_order -> par = 1, parfor toc = 0.1849, max toc = 0.057814
+check_membership -> par = 1, parfor toc = 1.9669, max toc = 1.8124
+new min found (ID 2)
+2.15 seconds 
+----
+
+Total mapping time: 4.92 seconds 
+4.92 seconds per ELM iteration 
+
+
+ELM Step 1 of 1
+----
+Finding local min
+1.61 seconds 
+----
+Checking minimum membership
+get_AD_order -> par = 2, parfor toc = 0.1779, max toc = 0.057078
+check_membership -> par = 2, parfor toc = 3.3474, max toc = 3.1824
+new min found (ID 3)
+3.53 seconds 
+----
+
+Total mapping time: 5.65 seconds 
+5.65 seconds per ELM iteration 
+
+
+ELM Step 1 of 1
+----
+Finding local min
+0.66 seconds 
+----
+Checking minimum membership
+get_AD_order -> par = 3, parfor toc = 0.19181, max toc = 0.057874
+check_membership -> par = 3, parfor toc = 4.515, max toc = 4.338
+new min found (ID 4)
+4.71 seconds 
+----
+
+Total mapping time: 5.92 seconds 
+5.92 seconds per ELM iteration 
+
+
+ELM Step 1 of 1
+----
+Finding local min
+1.91 seconds 
+----
+Checking minimum membership
+get_AD_order -> par = 4, parfor toc = 0.49158, max toc = 0.30794
+check_membership -> par = 4, parfor toc = 6.384, max toc = 6.2042
+successful diffusion to: 3 
+min sorted to basin 3
+6.88 seconds 
+----
+
+Total mapping time: 9.34 seconds 
+9.34 seconds per ELM iteration 
+
+     4
+
+  459.8513
+
+
+ELM Step 1 of 1
+----
+Finding local min
+0.83 seconds 
+----
+Checking minimum membership
+get_AD_order -> par = 1, parfor toc = 0.17406, max toc = 0.05631
+check_membership -> par = 1, parfor toc = 3.8499, max toc = 3.6945
+new min found (ID 2)
+4.02 seconds 
+----
+
+Total mapping time: 6.68 seconds 
+6.68 seconds per ELM iteration 
+
+
+ELM Step 1 of 1
+----
+Finding local min
+1.69 seconds 
+----
+Checking minimum membership
+get_AD_order -> par = 2, parfor toc = 0.1782, max toc = 0.057934
+check_membership -> par = 2, parfor toc = 4.1873, max toc = 4.0225
+new min found (ID 3)
+4.37 seconds 
+----
+
+Total mapping time: 6.57 seconds 
+6.57 seconds per ELM iteration 
+
+
+ELM Step 1 of 1
+----
+Finding local min
+2.07 seconds 
+----
+Checking minimum membership
+get_AD_order -> par = 3, parfor toc = 0.19224, max toc = 0.058063
+check_membership -> par = 3, parfor toc = 5.5551, max toc = 5.3739
+new min found (ID 4)
+5.75 seconds 
+----
+
+Total mapping time: 8.35 seconds 
+8.35 seconds per ELM iteration 
+
+
+ELM Step 1 of 1
+----
+Finding local min
+2.11 seconds 
+----
+Checking minimum membership
+get_AD_order -> par = 4, parfor toc = 0.26445, max toc = 0.066786
+check_membership -> par = 4, parfor toc = 7.4846, max toc = 7.2897
+new min found (ID 5)
+7.75 seconds 
+----
+
+Total mapping time: 10.41 seconds 
+10.41 seconds per ELM iteration 
+
+
+ELM Step 1 of 1
+----
+Finding local min
+2.47 seconds 
+----
+Checking minimum membership
+get_AD_order -> par = 5, parfor toc = 0.50932, max toc = 0.30583
+check_membership -> par = 5, parfor toc = 8.4176, max toc = 8.2225
+successful diffusion to: 2 
+min sorted to basin 2
+8.93 seconds 
+----
+
+Total mapping time: 11.96 seconds 
+11.96 seconds per ELM iteration 
+
+     5
+
+  425.7882
+
+
+ELM Step 1 of 1
+----
+Finding local min
+0.63 seconds 
+----
+Checking minimum membership
+get_AD_order -> par = 1, parfor toc = 0.19054, max toc = 0.057894
+check_membership -> par = 1, parfor toc = 3.5526, max toc = 3.3981
+new min found (ID 2)
+3.74 seconds 
+----
+
+Total mapping time: 5.34 seconds 
+5.34 seconds per ELM iteration 
+
+
+ELM Step 1 of 1
+----
+Finding local min
+1.79 seconds 
+----
+Checking minimum membership
+get_AD_order -> par = 2, parfor toc = 0.177, max toc = 0.05723
+check_membership -> par = 2, parfor toc = 6.4955, max toc = 6.336
+new min found (ID 3)
+6.67 seconds 
+----
+
+Total mapping time: 8.98 seconds 
+8.98 seconds per ELM iteration 
+
+
+ELM Step 1 of 1
+----
+Finding local min
+1.80 seconds 
+----
+Checking minimum membership
+get_AD_order -> par = 3, parfor toc = 0.19065, max toc = 0.05803
+check_membership -> par = 3, parfor toc = 3.8658, max toc = 3.6811
+new min found (ID 4)
+4.06 seconds 
+----
+
+Total mapping time: 6.38 seconds 
+6.38 seconds per ELM iteration 
+
+
+ELM Step 1 of 1
+----
+Finding local min
+2.08 seconds 
+----
+Checking minimum membership
+get_AD_order -> par = 4, parfor toc = 0.20235, max toc = 0.059811
+check_membership -> par = 4, parfor toc = 4.5651, max toc = 4.373
+successful diffusion to: 4 
+min sorted to basin 4
+4.77 seconds 
+----
+
+Total mapping time: 7.39 seconds 
+7.39 seconds per ELM iteration 
+
+     4
+
+  394.2483
+
+
+ELM Step 1 of 1
+----
+Finding local min
+1.27 seconds 
+----
+Checking minimum membership
+get_AD_order -> par = 1, parfor toc = 0.17724, max toc = 0.05782
+check_membership -> par = 1, parfor toc = 2.2223, max toc = 2.0647
+new min found (ID 2)
+2.40 seconds 
+----
+
+Total mapping time: 5.96 seconds 
+5.96 seconds per ELM iteration 
+
+
+ELM Step 1 of 1
+----
+Finding local min
+1.63 seconds 
+----
+Checking minimum membership
+get_AD_order -> par = 2, parfor toc = 0.17888, max toc = 0.058446
+check_membership -> par = 2, parfor toc = 4.2978, max toc = 4.1319
+new min found (ID 3)
+4.48 seconds 
+----
+
+Total mapping time: 6.64 seconds 
+6.64 seconds per ELM iteration 
+
+
+ELM Step 1 of 1
+----
+Finding local min
+3.40 seconds 
+----
+Checking minimum membership
+get_AD_order -> par = 3, parfor toc = 0.23484, max toc = 0.058098
+check_membership -> par = 3, parfor toc = 3.0257, max toc = 2.8511
+new min found (ID 4)
+3.26 seconds 
+----
+
+Total mapping time: 7.20 seconds 
+7.20 seconds per ELM iteration 
+
+
+ELM Step 1 of 1
+----
+Finding local min
+1.18 seconds 
+----
+Checking minimum membership
+get_AD_order -> par = 4, parfor toc = 0.20051, max toc = 0.059779
+check_membership -> par = 4, parfor toc = 4.4907, max toc = 4.3037
+new min found (ID 5)
+4.69 seconds 
+----
+
+Total mapping time: 6.42 seconds 
+6.42 seconds per ELM iteration 
+
+
+ELM Step 1 of 1
+----
+Finding local min
+0.55 seconds 
+----
+Checking minimum membership
+get_AD_order -> par = 5, parfor toc = 0.22254, max toc = 0.063623
+check_membership -> par = 5, parfor toc = 4.0671, max toc = 3.8668
+new min found (ID 6)
+4.29 seconds 
+----
+
+Total mapping time: 5.39 seconds 
+5.39 seconds per ELM iteration 
+
+
+ELM Step 1 of 1
+----
+Finding local min
+1.87 seconds 
+----
+Checking minimum membership
+get_AD_order -> par = 6, parfor toc = 0.51761, max toc = 0.30629
+check_membership -> par = 5, parfor toc = 5.437, max toc = 5.2398
+new min found (ID 7)
+5.96 seconds 
+----
+
+Total mapping time: 8.39 seconds 
+8.39 seconds per ELM iteration 
+
+
+ELM Step 1 of 1
+----
+Finding local min
+1.15 seconds 
+----
+Checking minimum membership
+get_AD_order -> par = 7, parfor toc = 0.52987, max toc = 0.30619
+check_membership -> par = 5, parfor toc = 5.2548, max toc = 5.0624
+new min found (ID 8)
+5.79 seconds 
+----
+
+Total mapping time: 7.50 seconds 
+7.50 seconds per ELM iteration 
+
+
+ELM Step 1 of 1
+----
+Finding local min
+1.98 seconds 
+----
+Checking minimum membership
+get_AD_order -> par = 8, parfor toc = 0.54474, max toc = 0.31284
+check_membership -> par = 5, parfor toc = 6.9082, max toc = 6.7301
+successful diffusion to: 5 3 
+min sorted to basin 5
+7.46 seconds 
+----
+
+Total mapping time: 10.01 seconds 
+10.01 seconds per ELM iteration 
+
+     8
+
+  365.0448
+
+
+ELM Step 1 of 1
+----
+Finding local min
+1.99 seconds 
+----
+Checking minimum membership
+get_AD_order -> par = 1, parfor toc = 0.17292, max toc = 0.056475
+check_membership -> par = 1, parfor toc = 5.5039, max toc = 5.3492
+successful diffusion to: 1 
+min sorted to basin 1
+basin 1 rep updated 
+5.68 seconds 
+----
+
+Total mapping time: 11.61 seconds 
+11.61 seconds per ELM iteration 
+
+     1
+
+  338.0044
+
+
+ELM Step 1 of 1
+----
+Finding local min
+1.62 seconds 
+----
+Checking minimum membership
+get_AD_order -> par = 1, parfor toc = 0.17657, max toc = 0.056467
+check_membership -> par = 1, parfor toc = 2.4892, max toc = 2.3331
+new min found (ID 2)
+2.67 seconds 
+----
+
+Total mapping time: 6.11 seconds 
+6.11 seconds per ELM iteration 
+
+
+ELM Step 1 of 1
+----
+Finding local min
+0.97 seconds 
+----
+Checking minimum membership
+get_AD_order -> par = 2, parfor toc = 0.22663, max toc = 0.058488
+check_membership -> par = 2, parfor toc = 4.1954, max toc = 4.0345
+new min found (ID 3)
+4.42 seconds 
+----
+
+Total mapping time: 5.90 seconds 
+5.90 seconds per ELM iteration 
+
+
+ELM Step 1 of 1
+----
+Finding local min
+1.15 seconds 
+----
+Checking minimum membership
+get_AD_order -> par = 3, parfor toc = 0.19028, max toc = 0.059275
+check_membership -> par = 3, parfor toc = 6.2335, max toc = 6.0642
+new min found (ID 4)
+6.42 seconds 
+----
+
+Total mapping time: 8.10 seconds 
+8.10 seconds per ELM iteration 
+
+
+ELM Step 1 of 1
+----
+Finding local min
+1.57 seconds 
+----
+Checking minimum membership
+get_AD_order -> par = 4, parfor toc = 0.19823, max toc = 0.059152
+check_membership -> par = 4, parfor toc = 4.2299, max toc = 4.0315
+new min found (ID 5)
+4.43 seconds 
+----
+
+Total mapping time: 6.53 seconds 
+6.53 seconds per ELM iteration 
+
+
+ELM Step 1 of 1
+----
+Finding local min
+1.29 seconds 
+----
+Checking minimum membership
+get_AD_order -> par = 5, parfor toc = 0.21438, max toc = 0.064091
+check_membership -> par = 5, parfor toc = 4.7471, max toc = 4.5408
+new min found (ID 6)
+4.96 seconds 
+----
+
+Total mapping time: 6.80 seconds 
+6.80 seconds per ELM iteration 
+
+
+ELM Step 1 of 1
+----
+Finding local min
+1.32 seconds 
+----
+Checking minimum membership
+get_AD_order -> par = 6, parfor toc = 0.2508, max toc = 0.067867
+check_membership -> par = 5, parfor toc = 8.0165, max toc = 7.8145
+successful diffusion to: 2 4 
+min sorted to basin 4
+8.27 seconds 
+----
+
+Total mapping time: 10.14 seconds 
+10.14 seconds per ELM iteration 
+
+     6
+
+  312.9670
+
+
+ELM Step 1 of 1
+----
+Finding local min
+2.65 seconds 
+----
+Checking minimum membership
+get_AD_order -> par = 1, parfor toc = 0.18147, max toc = 0.057949
+check_membership -> par = 1, parfor toc = 5.801, max toc = 5.646
+new min found (ID 2)
+5.98 seconds 
+----
+
+Total mapping time: 11.84 seconds 
+11.84 seconds per ELM iteration 
+
+
+ELM Step 1 of 1
+----
+Finding local min
+1.97 seconds 
+----
+Checking minimum membership
+get_AD_order -> par = 2, parfor toc = 0.17931, max toc = 0.058328
+check_membership -> par = 2, parfor toc = 7.4478, max toc = 7.2817
+successful diffusion to: 1 
+min sorted to basin 1
+basin 1 rep updated 
+7.63 seconds 
+----
+
+Total mapping time: 10.11 seconds 
+10.11 seconds per ELM iteration 
+
+     2
+
+  289.7843
+
+
+ELM Step 1 of 1
+----
+Finding local min
+1.86 seconds 
+----
+Checking minimum membership
+get_AD_order -> par = 1, parfor toc = 0.21462, max toc = 0.057865
+check_membership -> par = 1, parfor toc = 3.0319, max toc = 2.8748
+new min found (ID 2)
+3.25 seconds 
+----
+
+Total mapping time: 7.95 seconds 
+7.95 seconds per ELM iteration 
+
+
+ELM Step 1 of 1
+----
+Finding local min
+1.70 seconds 
+----
+Checking minimum membership
+get_AD_order -> par = 2, parfor toc = 0.17859, max toc = 0.058315
+check_membership -> par = 2, parfor toc = 1.65, max toc = 1.485
+new min found (ID 3)
+1.83 seconds 
+----
+
+Total mapping time: 4.04 seconds 
+4.04 seconds per ELM iteration 
+
+
+ELM Step 1 of 1
+----
+Finding local min
+1.96 seconds 
+----
+Checking minimum membership
+get_AD_order -> par = 3, parfor toc = 0.18954, max toc = 0.057502
+check_membership -> par = 3, parfor toc = 4.5672, max toc = 4.3927
+new min found (ID 4)
+4.76 seconds 
+----
+
+Total mapping time: 7.30 seconds 
+7.30 seconds per ELM iteration 
+
+
+ELM Step 1 of 1
+----
+Finding local min
+2.21 seconds 
+----
+Checking minimum membership
+get_AD_order -> par = 4, parfor toc = 0.19813, max toc = 0.058462
+check_membership -> par = 4, parfor toc = 2.5384, max toc = 2.3442
+new min found (ID 5)
+2.74 seconds 
+----
+
+Total mapping time: 5.48 seconds 
+5.48 seconds per ELM iteration 
+
+
+ELM Step 1 of 1
+----
+Finding local min
+1.70 seconds 
+----
+Checking minimum membership
+get_AD_order -> par = 5, parfor toc = 0.2234, max toc = 0.070297
+check_membership -> par = 5, parfor toc = 2.8499, max toc = 2.6413
+new min found (ID 6)
+3.07 seconds 
+----
+
+Total mapping time: 5.33 seconds 
+5.33 seconds per ELM iteration 
+
+
+ELM Step 1 of 1
+----
+Finding local min
+1.42 seconds 
+----
+Checking minimum membership
+get_AD_order -> par = 6, parfor toc = 0.23457, max toc = 0.065632
+check_membership -> par = 5, parfor toc = 5.6066, max toc = 5.3927
+new min found (ID 7)
+5.84 seconds 
+----
+
+Total mapping time: 7.82 seconds 
+7.82 seconds per ELM iteration 
+
+
+ELM Step 1 of 1
+----
+Finding local min
+1.35 seconds 
+----
+Checking minimum membership
+get_AD_order -> par = 7, parfor toc = 0.245, max toc = 0.067667
+check_membership -> par = 5, parfor toc = 5.9948, max toc = 5.7889
+successful diffusion to: 4 
+min sorted to basin 4
+basin 4 rep updated 
+6.24 seconds 
+----
+
+Total mapping time: 8.17 seconds 
+8.17 seconds per ELM iteration 
+
+     7
+
+  268.3188
+
+
+ELM Step 1 of 1
+----
+Finding local min
+1.72 seconds 
+----
+Checking minimum membership
+get_AD_order -> par = 1, parfor toc = 0.17971, max toc = 0.056493
+check_membership -> par = 1, parfor toc = 1.6628, max toc = 1.5091
+new min found (ID 2)
+1.84 seconds 
+----
+
+Total mapping time: 6.40 seconds 
+6.40 seconds per ELM iteration 
+
+
+ELM Step 1 of 1
+----
+Finding local min
+0.65 seconds 
+----
+Checking minimum membership
+get_AD_order -> par = 2, parfor toc = 0.17971, max toc = 0.058149
+check_membership -> par = 2, parfor toc = 5.5991, max toc = 5.4338
+new min found (ID 3)
+5.78 seconds 
+----
+
+Total mapping time: 6.95 seconds 
+6.95 seconds per ELM iteration 
+
+
+ELM Step 1 of 1
+----
+Finding local min
+1.03 seconds 
+----
+Checking minimum membership
+get_AD_order -> par = 3, parfor toc = 0.18778, max toc = 0.057815
+check_membership -> par = 3, parfor toc = 3.2497, max toc = 3.0671
+new min found (ID 4)
+3.44 seconds 
+----
+
+Total mapping time: 5.00 seconds 
+5.00 seconds per ELM iteration 
+
+
+ELM Step 1 of 1
+----
+Finding local min
+1.21 seconds 
+----
+Checking minimum membership
+get_AD_order -> par = 4, parfor toc = 0.26068, max toc = 0.069309
+check_membership -> par = 4, parfor toc = 6.6768, max toc = 6.4887
+new min found (ID 5)
+6.94 seconds 
+----
+
+Total mapping time: 8.69 seconds 
+8.69 seconds per ELM iteration 
+
+
+ELM Step 1 of 1
+----
+Finding local min
+1.44 seconds 
+----
+Checking minimum membership
+get_AD_order -> par = 5, parfor toc = 0.2163, max toc = 0.062019
+check_membership -> par = 5, parfor toc = 4.1619, max toc = 3.9444
+new min found (ID 6)
+4.38 seconds 
+----
+
+Total mapping time: 6.35 seconds 
+6.35 seconds per ELM iteration 
+
+
+ELM Step 1 of 1
+----
+Finding local min
+2.19 seconds 
+----
+Checking minimum membership
+get_AD_order -> par = 6, parfor toc = 0.23361, max toc = 0.065296
+check_membership -> par = 5, parfor toc = 3.6269, max toc = 3.4256
+new min found (ID 7)
+3.86 seconds 
+----
+
+Total mapping time: 6.59 seconds 
+6.59 seconds per ELM iteration 
+
+
+ELM Step 1 of 1
+----
+Finding local min
+1.67 seconds 
+----
+Checking minimum membership
+get_AD_order -> par = 7, parfor toc = 0.25205, max toc = 0.070796
+check_membership -> par = 5, parfor toc = 6.347, max toc = 6.1442
+new min found (ID 8)
+6.60 seconds 
+----
+
+Total mapping time: 8.91 seconds 
+8.91 seconds per ELM iteration 
+
+
+ELM Step 1 of 1
+----
+Finding local min
+1.39 seconds 
+----
+Checking minimum membership
+get_AD_order -> par = 8, parfor toc = 0.27593, max toc = 0.071458
+check_membership -> par = 5, parfor toc = 4.9536, max toc = 4.7466
+new min found (ID 9)
+5.23 seconds 
+----
+
+Total mapping time: 7.21 seconds 
+7.21 seconds per ELM iteration 
+
+
+ELM Step 1 of 1
+----
+Finding local min
+1.70 seconds 
+----
+Checking minimum membership
+get_AD_order -> par = 9, parfor toc = 0.54521, max toc = 0.31279
+check_membership -> par = 5, parfor toc = 4.0541, max toc = 3.834
+new min found (ID 10)
+4.60 seconds 
+----
+
+Total mapping time: 6.89 seconds 
+6.89 seconds per ELM iteration 
+
+
+ELM Step 1 of 1
+----
+Finding local min
+1.95 seconds 
+----
+Checking minimum membership
+get_AD_order -> par = 10, parfor toc = 0.56993, max toc = 0.31366
+check_membership -> par = 5, parfor toc = 3.4516, max toc = 3.2355
+new min found (ID 11)
+4.02 seconds 
+----
+
+Total mapping time: 6.58 seconds 
+6.58 seconds per ELM iteration 
+
+
+ELM Step 1 of 1
+----
+Finding local min
+1.26 seconds 
+----
+Checking minimum membership
+get_AD_order -> par = 11, parfor toc = 0.57111, max toc = 0.30708
+check_membership -> par = 5, parfor toc = 7.5482, max toc = 7.3296
+new min found (ID 12)
+8.12 seconds 
+----
+
+Total mapping time: 10.07 seconds 
+10.07 seconds per ELM iteration 
+
+
+ELM Step 1 of 1
+----
+Finding local min
+2.23 seconds 
+----
+Checking minimum membership
+get_AD_order -> par = 12, parfor toc = 0.59218, max toc = 0.3172
+check_membership -> par = 5, parfor toc = 7.1512, max toc = 6.9668
+new min found (ID 13)
+7.74 seconds 
+----
+
+Total mapping time: 10.61 seconds 
+10.61 seconds per ELM iteration 
+
+
+ELM Step 1 of 1
+----
+Finding local min
+1.59 seconds 
+----
+Checking minimum membership
+get_AD_order -> par = 13, parfor toc = 0.60649, max toc = 0.31699
+check_membership -> par = 5, parfor toc = 3.1639, max toc = 2.9813
+new min found (ID 14)
+3.77 seconds 
+----
+
+Total mapping time: 6.00 seconds 
+6.00 seconds per ELM iteration 
+
+
+ELM Step 1 of 1
+----
+Finding local min
+1.33 seconds 
+----
+Checking minimum membership
+get_AD_order -> par = 14, parfor toc = 0.6162, max toc = 0.31346
+check_membership -> par = 5, parfor toc = 7.1672, max toc = 6.9491
+new min found (ID 15)
+7.78 seconds 
+----
+
+Total mapping time: 9.76 seconds 
+9.76 seconds per ELM iteration 
+
+
+ELM Step 1 of 1
+----
+Finding local min
+2.39 seconds 
+----
+Checking minimum membership
+get_AD_order -> par = 15, parfor toc = 0.6272, max toc = 0.31442
+check_membership -> par = 5, parfor toc = 5.3937, max toc = 5.1752
+new min found (ID 16)
+6.02 seconds 
+----
+
+Total mapping time: 9.07 seconds 
+9.07 seconds per ELM iteration 
+
+
+ELM Step 1 of 1
+----
+Finding local min
+1.43 seconds 
+----
+Checking minimum membership
+get_AD_order -> par = 16, parfor toc = 0.63589, max toc = 0.31247
+check_membership -> par = 5, parfor toc = 4.6488, max toc = 4.4448
+new min found (ID 17)
+5.29 seconds 
+----
+
+Total mapping time: 7.39 seconds 
+7.39 seconds per ELM iteration 
+
+
+ELM Step 1 of 1
+----
+Finding local min
+2.61 seconds 
+----
+Checking minimum membership
+get_AD_order -> par = 17, parfor toc = 0.64149, max toc = 0.30675
+check_membership -> par = 5, parfor toc = 6.8545, max toc = 6.6381
+new min found (ID 18)
+7.50 seconds 
+----
+
+Total mapping time: 10.79 seconds 
+10.79 seconds per ELM iteration 
+
+
+ELM Step 1 of 1
+----
+Finding local min
+1.75 seconds 
+----
+Checking minimum membership
+get_AD_order -> par = 18, parfor toc = 0.65789, max toc = 0.31046
+check_membership -> par = 5, parfor toc = 8.3692, max toc = 8.1618
+new min found (ID 19)
+9.03 seconds 
+----
+
+Total mapping time: 11.46 seconds 
+11.46 seconds per ELM iteration 
+
+
+ELM Step 1 of 1
+----
+Finding local min
+1.29 seconds 
+----
+Checking minimum membership
+get_AD_order -> par = 19, parfor toc = 0.67731, max toc = 0.31169
+check_membership -> par = 5, parfor toc = 5.9219, max toc = 5.7212
+successful diffusion to: 10 8 
+min sorted to basin 10
+6.60 seconds 
+----
+
+Total mapping time: 8.66 seconds 
+8.66 seconds per ELM iteration 
+
+    19
+
+  248.4433
+
+
+ELM Step 1 of 1
+----
+Finding local min
+1.13 seconds 
+----
+Checking minimum membership
+get_AD_order -> par = 1, parfor toc = 0.17594, max toc = 0.057764
+check_membership -> par = 1, parfor toc = 1.8561, max toc = 1.7032
+new min found (ID 2)
+2.03 seconds 
+----
+
+Total mapping time: 4.55 seconds 
+4.55 seconds per ELM iteration 
+
+
+ELM Step 1 of 1
+----
+Finding local min
+1.86 seconds 
+----
+Checking minimum membership
+get_AD_order -> par = 2, parfor toc = 0.18995, max toc = 0.057529
+check_membership -> par = 2, parfor toc = 2.656, max toc = 2.4901
+new min found (ID 3)
+2.85 seconds 
+----
+
+Total mapping time: 5.24 seconds 
+5.24 seconds per ELM iteration 
+
+
+ELM Step 1 of 1
+----
+Finding local min
+1.42 seconds 
+----
+Checking minimum membership
+get_AD_order -> par = 3, parfor toc = 0.18904, max toc = 0.058829
+check_membership -> par = 3, parfor toc = 4.0006, max toc = 3.8287
+new min found (ID 4)
+4.19 seconds 
+----
+
+Total mapping time: 6.14 seconds 
+6.14 seconds per ELM iteration 
+
+
+ELM Step 1 of 1
+----
+Finding local min
+0.78 seconds 
+----
+Checking minimum membership
+get_AD_order -> par = 4, parfor toc = 0.21184, max toc = 0.064775
+check_membership -> par = 4, parfor toc = 3.3051, max toc = 3.1056
+new min found (ID 5)
+3.52 seconds 
+----
+
+Total mapping time: 4.83 seconds 
+4.83 seconds per ELM iteration 
+
+
+ELM Step 1 of 1
+----
+Finding local min
+1.46 seconds 
+----
+Checking minimum membership
+get_AD_order -> par = 5, parfor toc = 0.21622, max toc = 0.062048
+check_membership -> par = 5, parfor toc = 3.1784, max toc = 2.9623
+new min found (ID 6)
+3.40 seconds 
+----
+
+Total mapping time: 5.48 seconds 
+5.48 seconds per ELM iteration 
+
+
+ELM Step 1 of 1
+----
+Finding local min
+3.34 seconds 
+----
+Checking minimum membership
+get_AD_order -> par = 6, parfor toc = 0.22687, max toc = 0.066246
+check_membership -> par = 5, parfor toc = 8.0634, max toc = 7.8479
+new min found (ID 7)
+8.29 seconds 
+----
+
+Total mapping time: 12.21 seconds 
+12.21 seconds per ELM iteration 
+
+
+ELM Step 1 of 1
+----
+Finding local min
+0.80 seconds 
+----
+Checking minimum membership
+get_AD_order -> par = 7, parfor toc = 0.24077, max toc = 0.067566
+check_membership -> par = 5, parfor toc = 4.2208, max toc = 4.0111
+new min found (ID 8)
+4.46 seconds 
+----
+
+Total mapping time: 5.85 seconds 
+5.85 seconds per ELM iteration 
+
+
+ELM Step 1 of 1
+----
+Finding local min
+2.09 seconds 
+----
+Checking minimum membership
+get_AD_order -> par = 8, parfor toc = 0.25547, max toc = 0.068189
+check_membership -> par = 5, parfor toc = 7.6307, max toc = 7.4299
+new min found (ID 9)
+7.89 seconds 
+----
+
+Total mapping time: 10.58 seconds 
+10.58 seconds per ELM iteration 
+
+
+ELM Step 1 of 1
+----
+Finding local min
+2.12 seconds 
+----
+Checking minimum membership
+get_AD_order -> par = 9, parfor toc = 0.31872, max toc = 0.078019
+check_membership -> par = 5, parfor toc = 4.9883, max toc = 4.7775
+new min found (ID 10)
+5.31 seconds 
+----
+
+Total mapping time: 8.03 seconds 
+8.03 seconds per ELM iteration 
+
+
+ELM Step 1 of 1
+----
+Finding local min
+0.77 seconds 
+----
+Checking minimum membership
+get_AD_order -> par = 10, parfor toc = 0.2771, max toc = 0.073282
+check_membership -> par = 5, parfor toc = 3.3189, max toc = 3.1115
+new min found (ID 11)
+3.60 seconds 
+----
+
+Total mapping time: 4.97 seconds 
+4.97 seconds per ELM iteration 
+
+
+ELM Step 1 of 1
+----
+Finding local min
+1.91 seconds 
+----
+Checking minimum membership
+get_AD_order -> par = 11, parfor toc = 0.28323, max toc = 0.073448
