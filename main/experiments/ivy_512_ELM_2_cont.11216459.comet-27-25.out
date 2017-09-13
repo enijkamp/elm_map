@@ -1,0 +1,780 @@
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2016 The MathWorks, Inc.
+                   R2016b (9.1.0.441655) 64-bit (glnxa64)
+                             September 7, 2016
+
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+Building with 'g++'.
+MEX completed successfully.
+Building with 'g++'.
+MEX completed successfully.
+Building with 'g++'.
+MEX completed successfully.
+Building with 'g++'.
+MEX completed successfully.
+Building with 'g++'.
+MEX completed successfully.
+Building with 'g++'.
+MEX completed successfully.
+Building with 'g++'.
+MEX completed successfully.
+Building with 'g++'.
+MEX completed successfully.
+Building with 'g++'.
+MEX completed successfully.
+Building with 'g++'.
+MEX completed successfully.
+Building with 'g++'.
+MEX completed successfully.
+Building with 'g++'.
+MEX completed successfully.
+Building with 'g++'.
+MEX completed successfully.
+Building with 'g++'.
+MEX completed successfully.
+Building with 'g++'.
+MEX completed successfully.
+Building with 'g++'.
+MEX completed successfully.
+Building with 'g++'.
+In file included from /home/enijkamp/elm_map_512/matconvnet-1.0-beta16/matlab/src/bits/impl/imread_libjpeg.cpp:14:0:
+/home/enijkamp/elm_map_512/matconvnet-1.0-beta16/matlab/src/bits/impl/imread_helpers.hpp:35:2: warning: #warning "SSSE3 instruction set not enabled. Using slower image conversion routines." [-Wcpp]
+ #warning "SSSE3 instruction set not enabled. Using slower image conversion routines."
+  ^
+
+MEX completed successfully.
+Building with 'g++'.
+MEX completed successfully.
+Building with 'g++'.
+MEX completed successfully.
+Building with 'g++'.
+MEX completed successfully.
+Building with 'g++'.
+MEX completed successfully.
+Building with 'g++'.
+MEX completed successfully.
+Building with 'g++'.
+MEX completed successfully.
+Building with 'gcc'.
+MEX completed successfully.
+Building with 'gcc'.
+MEX completed successfully.
+Building with 'gcc'.
+MEX completed successfully.
+Building with 'gcc'.
+MEX completed successfully.
+Building with 'gcc'.
+MEX completed successfully.
+Building with 'gcc'.
+MEX completed successfully.
+Starting parallel pool (parpool) using the 'comet3' profile ... [Warning: The system time zone setting, 'US/Pacific-New', does not specify a
+single time zone unambiguously. It will be treated as 'America/Los_Angeles'.
+See the <a href="matlab:doc('datetime.TimeZone')">datetime.TimeZone
+property</a> for details about specifying time zones.] 
+[> In verifyTimeZone (line 23)
+  In datetime (line 503)
+  In parallel.internal.cluster.DefaultProperties.getNewJobPropStruct (line 16)
+  In parallel.internal.cluster.CJSSupport/buildJob (line 151)
+  In parallel.cluster.CJSCluster/buildCommunicatingJob (line 452)
+  In parallel.Cluster/createCommunicatingJob (line 89)
+  In parallel.internal.pool.InteractiveClient>iCreateCommunicatingJob (line 714)
+  In parallel.internal.pool.InteractiveClient/start (line 325)
+  In parallel.Pool>iStartClient (line 567)
+  In parallel.Pool.hBuildPool (line 446)
+  In parallel.internal.pool.doParpool (line 15)
+  In parpool (line 89)
+  In ivy_512_ELM_2_cont (line 44)] 
+connected to 24 workers.
+
+ELM Step 1 of 500
+----
+Finding local min
+1.44 seconds 
+----
+Checking minimum membership
+get_AD_order -> par = 1, parfor toc = 0.47896, max toc = 0.30149
+check_membership -> par = 1, parfor toc = 4.3661, max toc = 4.1739
+new min found (ID 2)
+4.86 seconds 
+----
+
+ELM Step 2 of 500
+----
+Finding local min
+3.30 seconds 
+----
+Checking minimum membership
+get_AD_order -> par = 2, parfor toc = 0.53505, max toc = 0.31166
+check_membership -> par = 2, parfor toc = 5.9761, max toc = 5.7713
+successful diffusion to: 1 
+min sorted to basin 1
+basin 1 rep updated 
+6.52 seconds 
+----
+
+ELM Step 3 of 500
+----
+Finding local min
+1.39 seconds 
+----
+Checking minimum membership
+get_AD_order -> par = 2, parfor toc = 0.19066, max toc = 0.059242
+check_membership -> par = 2, parfor toc = 5.5182, max toc = 5.3377
+successful diffusion to: 2 
+min sorted to basin 2
+basin 2 rep updated 
+5.72 seconds 
+----
+
+ELM Step 4 of 500
+----
+Finding local min
+2.11 seconds 
+----
+Checking minimum membership
+get_AD_order -> par = 2, parfor toc = 0.18236, max toc = 0.059032
+check_membership -> par = 2, parfor toc = 4.0478, max toc = 3.8826
+new min found (ID 3)
+4.23 seconds 
+----
+
+ELM Step 5 of 500
+----
+Finding local min
+1.83 seconds 
+----
+Checking minimum membership
+get_AD_order -> par = 3, parfor toc = 0.48411, max toc = 0.30295
+check_membership -> par = 3, parfor toc = 4.5802, max toc = 4.3844
+successful diffusion to: 1 2 
+min sorted to basin 1
+5.07 seconds 
+----
+
+ELM Step 6 of 500
+----
+Finding local min
+1.85 seconds 
+----
+Checking minimum membership
+get_AD_order -> par = 3, parfor toc = 0.19791, max toc = 0.060114
+check_membership -> par = 3, parfor toc = 3.7385, max toc = 3.5535
+successful diffusion to: 2 
+min sorted to basin 2
+3.94 seconds 
+----
+
+ELM Step 7 of 500
+----
+Finding local min
+1.14 seconds 
+----
+Checking minimum membership
+get_AD_order -> par = 3, parfor toc = 0.19536, max toc = 0.05796
+check_membership -> par = 3, parfor toc = 4.827, max toc = 4.6507
+successful diffusion to: 1 
+min sorted to basin 1
+5.02 seconds 
+----
+
+ELM Step 8 of 500
+----
+Finding local min
+0.78 seconds 
+----
+Checking minimum membership
+get_AD_order -> par = 3, parfor toc = 0.19381, max toc = 0.058439
+check_membership -> par = 3, parfor toc = 5.0661, max toc = 4.8885
+successful diffusion to: 1 
+min sorted to basin 1
+5.26 seconds 
+----
+
+ELM Step 9 of 500
+----
+Finding local min
+1.30 seconds 
+----
+Checking minimum membership
+get_AD_order -> par = 3, parfor toc = 0.19706, max toc = 0.057381
+check_membership -> par = 3, parfor toc = 4.572, max toc = 4.3948
+successful diffusion to: 2 
+min sorted to basin 2
+4.77 seconds 
+----
+
+ELM Step 10 of 500
+----
+Finding local min
+1.00 seconds 
+----
+Checking minimum membership
+get_AD_order -> par = 3, parfor toc = 0.19597, max toc = 0.061238
+check_membership -> par = 3, parfor toc = 5.8375, max toc = 5.6534
+successful diffusion to: 1 
+min sorted to basin 1
+6.03 seconds 
+----
+
+ELM Step 11 of 500
+----
+Finding local min
+2.16 seconds 
+----
+Checking minimum membership
+get_AD_order -> par = 3, parfor toc = 0.25324, max toc = 0.065006
+check_membership -> par = 3, parfor toc = 5.1553, max toc = 4.9763
+successful diffusion to: 2 
+min sorted to basin 2
+5.41 seconds 
+----
+
+ELM Step 12 of 500
+----
+Finding local min
+1.29 seconds 
+----
+Checking minimum membership
+get_AD_order -> par = 3, parfor toc = 0.19787, max toc = 0.058381
+check_membership -> par = 3, parfor toc = 4.5525, max toc = 4.3791
+successful diffusion to: 3 
+min sorted to basin 3
+basin 3 rep updated 
+4.75 seconds 
+----
+
+ELM Step 13 of 500
+----
+Finding local min
+1.32 seconds 
+----
+Checking minimum membership
+get_AD_order -> par = 3, parfor toc = 0.19329, max toc = 0.057883
+check_membership -> par = 3, parfor toc = 6.1134, max toc = 5.9364
+successful diffusion to: 1 
+min sorted to basin 1
+basin 1 rep updated 
+6.31 seconds 
+----
+
+ELM Step 14 of 500
+----
+Finding local min
+2.74 seconds 
+----
+Checking minimum membership
+get_AD_order -> par = 3, parfor toc = 0.18918, max toc = 0.057859
+check_membership -> par = 3, parfor toc = 4.1579, max toc = 3.981
+successful diffusion to: 3 
+min sorted to basin 3
+basin 3 rep updated 
+4.35 seconds 
+----
+
+ELM Step 15 of 500
+----
+Finding local min
+2.51 seconds 
+----
+Checking minimum membership
+get_AD_order -> par = 3, parfor toc = 0.21045, max toc = 0.065205
+check_membership -> par = 3, parfor toc = 5.4911, max toc = 5.3163
+successful diffusion to: 2 
+min sorted to basin 2
+5.70 seconds 
+----
+
+ELM Step 16 of 500
+----
+Finding local min
+2.79 seconds 
+----
+Checking minimum membership
+get_AD_order -> par = 3, parfor toc = 0.19162, max toc = 0.057108
+check_membership -> par = 3, parfor toc = 6.4394, max toc = 6.2551
+successful diffusion to: 2 1 
+min sorted to basin 2
+basin 2 rep updated 
+6.63 seconds 
+----
+
+ELM Step 17 of 500
+----
+Finding local min
+1.73 seconds 
+----
+Checking minimum membership
+get_AD_order -> par = 3, parfor toc = 0.20746, max toc = 0.065361
+check_membership -> par = 3, parfor toc = 4.9963, max toc = 4.8099
+successful diffusion to: 1 
+min sorted to basin 1
+5.20 seconds 
+----
+
+ELM Step 18 of 500
+----
+Finding local min
+2.50 seconds 
+----
+Checking minimum membership
+get_AD_order -> par = 3, parfor toc = 0.19273, max toc = 0.061146
+check_membership -> par = 3, parfor toc = 5.9036, max toc = 5.722
+successful diffusion to: 3 
+min sorted to basin 3
+6.10 seconds 
+----
+
+ELM Step 19 of 500
+----
+Finding local min
+1.51 seconds 
+----
+Checking minimum membership
+get_AD_order -> par = 3, parfor toc = 0.25407, max toc = 0.061919
+check_membership -> par = 3, parfor toc = 4.3103, max toc = 4.1317
+successful diffusion to: 1 
+min sorted to basin 1
+4.57 seconds 
+----
+
+ELM Step 20 of 500
+----
+Finding local min
+3.04 seconds 
+----
+Checking minimum membership
+get_AD_order -> par = 3, parfor toc = 0.19949, max toc = 0.059335
+check_membership -> par = 3, parfor toc = 5.3296, max toc = 5.1478
+successful diffusion to: 3 
+min sorted to basin 3
+5.53 seconds 
+----
+
+ELM Step 21 of 500
+----
+Finding local min
+1.86 seconds 
+----
+Checking minimum membership
+get_AD_order -> par = 3, parfor toc = 0.19416, max toc = 0.061484
+check_membership -> par = 3, parfor toc = 5.0534, max toc = 4.8751
+successful diffusion to: 1 
+min sorted to basin 1
+5.25 seconds 
+----
+
+ELM Step 22 of 500
+----
+Finding local min
+1.02 seconds 
+----
+Checking minimum membership
+get_AD_order -> par = 3, parfor toc = 0.1914, max toc = 0.058008
+check_membership -> par = 3, parfor toc = 6.0522, max toc = 5.8758
+successful diffusion to: 2 
+min sorted to basin 2
+6.24 seconds 
+----
+
+ELM Step 23 of 500
+----
+Finding local min
+3.28 seconds 
+----
+Checking minimum membership
+get_AD_order -> par = 3, parfor toc = 0.20522, max toc = 0.058008
+check_membership -> par = 3, parfor toc = 4.8777, max toc = 4.6935
+new min found (ID 4)
+5.08 seconds 
+----
+
+ELM Step 24 of 500
+----
+Finding local min
+2.07 seconds 
+----
+Checking minimum membership
+get_AD_order -> par = 4, parfor toc = 0.49779, max toc = 0.30562
+check_membership -> par = 4, parfor toc = 6.0276, max toc = 5.8346
+successful diffusion to: 4 
+min sorted to basin 4
+6.53 seconds 
+----
+
+ELM Step 25 of 500
+----
+Finding local min
+2.12 seconds 
+----
+Checking minimum membership
+get_AD_order -> par = 4, parfor toc = 0.21474, max toc = 0.06486
+check_membership -> par = 4, parfor toc = 4.9676, max toc = 4.7705
+successful diffusion to: 4 
+min sorted to basin 4
+5.18 seconds 
+----
+
+ELM Step 26 of 500
+----
+Finding local min
+1.27 seconds 
+----
+Checking minimum membership
+get_AD_order -> par = 4, parfor toc = 0.20666, max toc = 0.061489
+check_membership -> par = 4, parfor toc = 5.2785, max toc = 5.0803
+successful diffusion to: 2 
+min sorted to basin 2
+5.49 seconds 
+----
+
+ELM Step 27 of 500
+----
+Finding local min
+2.82 seconds 
+----
+Checking minimum membership
+get_AD_order -> par = 4, parfor toc = 0.26084, max toc = 0.068982
+check_membership -> par = 4, parfor toc = 6.1955, max toc = 5.9959
+successful diffusion to: 1 2 
+min sorted to basin 1
+6.46 seconds 
+----
+
+ELM Step 28 of 500
+----
+Finding local min
+1.26 seconds 
+----
+Checking minimum membership
+get_AD_order -> par = 4, parfor toc = 0.2058, max toc = 0.057761
+check_membership -> par = 4, parfor toc = 5.6893, max toc = 5.493
+new min found (ID 5)
+5.90 seconds 
+----
+
+ELM Step 29 of 500
+----
+Finding local min
+3.28 seconds 
+----
+Checking minimum membership
+get_AD_order -> par = 5, parfor toc = 0.51717, max toc = 0.31881
+check_membership -> par = 5, parfor toc = 4.9771, max toc = 4.7788
+successful diffusion to: 1 
+min sorted to basin 1
+5.49 seconds 
+----
+
+ELM Step 30 of 500
+----
+Finding local min
+1.75 seconds 
+----
+Checking minimum membership
+get_AD_order -> par = 5, parfor toc = 0.21974, max toc = 0.065923
+check_membership -> par = 5, parfor toc = 5.596, max toc = 5.396
+successful diffusion to: 1 4 3 
+min sorted to basin 1
+basin 1 rep updated 
+5.82 seconds 
+----
+
+ELM Step 31 of 500
+----
+Finding local min
+1.09 seconds 
+----
+Checking minimum membership
+get_AD_order -> par = 5, parfor toc = 0.23942, max toc = 0.06791
+check_membership -> par = 5, parfor toc = 5.504, max toc = 5.2876
+successful diffusion to: 2 
+min sorted to basin 2
+5.74 seconds 
+----
+
+ELM Step 32 of 500
+----
+Finding local min
+1.13 seconds 
+----
+Checking minimum membership
+get_AD_order -> par = 5, parfor toc = 0.22662, max toc = 0.062274
+check_membership -> par = 5, parfor toc = 5.5953, max toc = 5.3776
+successful diffusion to: 2 3 5 1 
+min sorted to basin 5
+5.82 seconds 
+----
+
+ELM Step 33 of 500
+----
+Finding local min
+1.99 seconds 
+----
+Checking minimum membership
+get_AD_order -> par = 5, parfor toc = 0.21685, max toc = 0.061637
+check_membership -> par = 5, parfor toc = 6.2711, max toc = 6.0517
+successful diffusion to: 1 2 
+min sorted to basin 1
+6.49 seconds 
+----
+
+ELM Step 34 of 500
+----
+Finding local min
+2.57 seconds 
+----
+Checking minimum membership
+get_AD_order -> par = 5, parfor toc = 0.21717, max toc = 0.062246
+check_membership -> par = 5, parfor toc = 5.5549, max toc = 5.3547
+successful diffusion to: 1 
+min sorted to basin 1
+5.77 seconds 
+----
+
+ELM Step 35 of 500
+----
+Finding local min
+2.87 seconds 
+----
+Checking minimum membership
+get_AD_order -> par = 5, parfor toc = 0.24592, max toc = 0.0661
+check_membership -> par = 5, parfor toc = 6.3206, max toc = 6.1136
+successful diffusion to: 1 
+min sorted to basin 1
+6.57 seconds 
+----
+
+ELM Step 36 of 500
+----
+Finding local min
+2.41 seconds 
+----
+Checking minimum membership
+get_AD_order -> par = 5, parfor toc = 0.21487, max toc = 0.067801
+check_membership -> par = 5, parfor toc = 6.1245, max toc = 5.9225
+successful diffusion to: 4 
+min sorted to basin 4
+6.34 seconds 
+----
+
+ELM Step 37 of 500
+----
+Finding local min
+3.10 seconds 
+----
+Checking minimum membership
+get_AD_order -> par = 5, parfor toc = 0.21504, max toc = 0.068314
+check_membership -> par = 5, parfor toc = 5.1002, max toc = 4.8792
+successful diffusion to: 1 
+min sorted to basin 1
+5.32 seconds 
+----
+
+ELM Step 38 of 500
+----
+Finding local min
+1.51 seconds 
+----
+Checking minimum membership
+get_AD_order -> par = 5, parfor toc = 0.22027, max toc = 0.068353
+check_membership -> par = 5, parfor toc = 4.7343, max toc = 4.5353
+successful diffusion to: 2 
+min sorted to basin 2
+4.96 seconds 
+----
+
+ELM Step 39 of 500
+----
+Finding local min
+1.60 seconds 
+----
+Checking minimum membership
+get_AD_order -> par = 5, parfor toc = 0.21337, max toc = 0.068609
+check_membership -> par = 5, parfor toc = 5.5673, max toc = 5.3496
+successful diffusion to: 1 4 
+min sorted to basin 1
+5.78 seconds 
+----
+
+ELM Step 40 of 500
+----
+Finding local min
+1.83 seconds 
+----
+Checking minimum membership
+get_AD_order -> par = 5, parfor toc = 0.21211, max toc = 0.067586
+check_membership -> par = 5, parfor toc = 6.9458, max toc = 6.757
+successful diffusion to: 5 2 
+min sorted to basin 2
+7.16 seconds 
+----
+
+ELM Step 41 of 500
+----
+Finding local min
+1.97 seconds 
+----
+Checking minimum membership
+get_AD_order -> par = 5, parfor toc = 0.21066, max toc = 0.062216
+check_membership -> par = 5, parfor toc = 5.7467, max toc = 5.533
+successful diffusion to: 2 
+min sorted to basin 2
+5.96 seconds 
+----
+
+ELM Step 42 of 500
+----
+Finding local min
+1.32 seconds 
+----
+Checking minimum membership
+get_AD_order -> par = 5, parfor toc = 0.20972, max toc = 0.062378
+check_membership -> par = 5, parfor toc = 6.6451, max toc = 6.4476
+successful diffusion to: 1 
+min sorted to basin 1
+6.86 seconds 
+----
+
+ELM Step 43 of 500
+----
+Finding local min
+1.91 seconds 
+----
+Checking minimum membership
+get_AD_order -> par = 5, parfor toc = 0.28209, max toc = 0.073284
+check_membership -> par = 5, parfor toc = 4.6852, max toc = 4.4691
+successful diffusion to: 1 
+min sorted to basin 1
+4.97 seconds 
+----
+
+ELM Step 44 of 500
+----
+Finding local min
+2.55 seconds 
+----
+Checking minimum membership
+get_AD_order -> par = 5, parfor toc = 0.19971, max toc = 0.063647
+check_membership -> par = 5, parfor toc = 5.3054, max toc = 5.0901
+successful diffusion to: 1 
+min sorted to basin 1
+5.51 seconds 
+----
+
+ELM Step 45 of 500
+----
+Finding local min
+2.03 seconds 
+----
+Checking minimum membership
+get_AD_order -> par = 5, parfor toc = 0.20973, max toc = 0.065836
+check_membership -> par = 5, parfor toc = 5.5455, max toc = 5.3455
+successful diffusion to: 2 
+min sorted to basin 2
+basin 2 rep updated 
+5.76 seconds 
+----
+
+ELM Step 46 of 500
+----
+Finding local min
+1.33 seconds 
+----
+Checking minimum membership
+get_AD_order -> par = 5, parfor toc = 0.20955, max toc = 0.065469
+check_membership -> par = 5, parfor toc = 6.6065, max toc = 6.3975
+successful diffusion to: 2 
+min sorted to basin 2
+6.82 seconds 
+----
+
+ELM Step 47 of 500
+----
+Finding local min
+1.52 seconds 
+----
+Checking minimum membership
+get_AD_order -> par = 5, parfor toc = 0.21447, max toc = 0.062383
+check_membership -> par = 5, parfor toc = 5.791, max toc = 5.5848
+successful diffusion to: 5 
+min sorted to basin 5
+6.01 seconds 
+----
+
+ELM Step 48 of 500
+----
+Finding local min
+2.00 seconds 
+----
+Checking minimum membership
+get_AD_order -> par = 5, parfor toc = 0.20575, max toc = 0.065369
+check_membership -> par = 5, parfor toc = 6.2975, max toc = 6.0892
+successful diffusion to: 2 
+min sorted to basin 2
+basin 2 rep updated 
+6.50 seconds 
+----
+
+ELM Step 49 of 500
+----
+Finding local min
+1.17 seconds 
+----
+Checking minimum membership
+get_AD_order -> par = 5, parfor toc = 0.21072, max toc = 0.062172
+check_membership -> par = 5, parfor toc = 5.8107, max toc = 5.5969
+successful diffusion to: 2 
+min sorted to basin 2
+6.02 seconds 
+----
+
+ELM Step 50 of 500
+----
+Finding local min
+0.89 seconds 
+----
+Checking minimum membership
+get_AD_order -> par = 5, parfor toc = 0.20114, max toc = 0.062269
+check_membership -> par = 5, parfor toc = 4.9625, max toc = 4.7573
+successful diffusion to: 4 
+min sorted to basin 4
+5.16 seconds 
+----
+
+ELM Step 51 of 500
+----
+Finding local min
+2.20 seconds 
+----
+Checking minimum membership
+get_AD_order -> par = 5, parfor toc = 0.27262, max toc = 0.069999
+check_membership -> par = 5, parfor toc = 6.0906, max toc = 5.8845
+successful diffusion to: 2 
+min sorted to basin 2
+6.36 seconds 
+----
+
+ELM Step 52 of 500
+----
+Finding local min
+2.08 seconds 
+----
+Checking minimum membership
+get_AD_order -> par = 5, parfor toc = 0.20312, max toc = 0.063756
+check_membership -> par = 5, parfor toc = 5.1029, max toc = 4.8888
+successful diffusion to: 2 
+min sorted to basin 2
+5.31 seconds 
+----
+
+ELM Step 53 of 500
+----
+Finding local min
+0.95 seconds 
+----
+Checking minimum membership
+get_AD_order -> par = 5, parfor toc = 0.22551, max toc = 0.064728
