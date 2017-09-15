@@ -1,4 +1,6 @@
-function [] = ivy_512_barmat()
+function [] = ivy_512_barmat_1()
+
+exp_time = tic;
 
 % matconvnet
 addpath(genpath('../../matconvnet-1.0-beta16/'));
@@ -37,5 +39,10 @@ end
 
 % parpool end
 delete(pool);
+
+exp_time = toc(exp_time);
+fprintf('Total Experiment Time: %4d hours %4.2f minutes \n',...
+                     floor(exp_time/3600), mod(exp_time/60,60));
+        
 
 end
