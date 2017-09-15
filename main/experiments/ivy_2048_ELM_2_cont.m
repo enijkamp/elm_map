@@ -60,7 +60,7 @@ end
  AD_quota = config.AD_quota;
  AD_reps = config.AD_reps;
  %%%%%%%%%%%%%
- num_restart = 8;
+ num_restart = 7;
  %%%%%%%%%%%%%
  
  for i = num_restart:10
