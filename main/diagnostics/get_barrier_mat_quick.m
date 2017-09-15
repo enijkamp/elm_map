@@ -60,7 +60,7 @@ function barrier_mat = get_barrier_mat_quick(ELM)
         z_i = single(min_z(:,:,:,ij(1)));
         z_j = single(min_z(:,:,:,ij(2)));            
         disp([num2str(rep) ' ****']);
-        disp([num2str(rep) ' ',ij,rep,size(pair_ij,1)]);
+        disp([num2str(rep) ' ',num2str(ij(1)),num2str(ij(2)),num2str(size(pair_ij,1))]);
 
         [AD_out1,AD_out2] = gen_AD(config,des_net,gen_net,z_i,z_j);            
         bar1 = flintmax;
@@ -71,13 +71,13 @@ function barrier_mat = get_barrier_mat_quick(ELM)
         disp([num2str(rep) ' min_bar=' min_bar]);
         if AD_out1.mem==1 || AD_out2.mem ==1
             for k = 1:(config.bar_AD_reps-1)
-                disp([num2str(rep) ' k+1=' k+1]);
+                disp([num2str(rep) ' k+1=' num2str(k+1)]);
                 [AD_out1,AD_out2] = gen_AD(config,des_net,gen_net,z_i,z_j);            
                 if AD_out1.mem == 1, bar1 = max(AD_out1.ens); end
                 bar2 = flintmax;
                 if AD_out2.mem == 1, bar2 = max(AD_out2.ens); end
                 min_bar = min([min_bar,bar1,bar2]);
-                disp([num2str(rep) ' min_bar=' min_bar]);
+                disp([num2str(rep) ' min_bar=' num2str(min_bar)]);
             end
         end
         % requires sequential access for parfor
