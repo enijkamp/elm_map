@@ -47,7 +47,13 @@ parfor i = 1:no_workers
 end
 
  %%%%%%%%%%%%%%%%%%%%%%%%%%
- alpha_seq = 675.6724 * 1.4078.^(0:9);
+ % alpha_seq = 675.6724 * 1.4078.^(0:9); % 512
+ 
+ % 2048
+ % (1) 788.1043
+ % (2) 1.1481e+03
+ alpha_seq = 675.6724 * 1.4568.^(0:9);
+ 
  config = gen_ADELM_config(file_str);
  nsteps = config.nsteps;
  max_AD_checks = config.max_AD_checks;
