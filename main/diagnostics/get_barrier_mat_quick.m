@@ -49,8 +49,13 @@ function barrier_mat = get_barrier_mat_quick(ELM)
 %     %%%%%%%%%%%%%%%%%%%%%%%%
 
     %%%%% Parallel %%%%%%%%%%%%
+    tocs = zeros(size(pair_ij,1), 1);
+    tstart_parfor = tic;
+    
     barrier_mat_seq = ones(size(pair_ij,1), 3);
     parfor rep = 1:size(pair_ij,1)
+        tstart = tic;
+        
         ij = pair_ij(rep,:);
         z_i = single(min_z(:,:,:,ij(1)));
         z_j = single(min_z(:,:,:,ij(2)));            
@@ -79,8 +84,13 @@ function barrier_mat = get_barrier_mat_quick(ELM)
         %barrier_mat(ij(1),ij(2)) = min_bar;
         %barrier_mat(ij(2),ij(1)) = barrier_mat(ij(1),ij(2));
         barrier_mat_seq(rep, :) = [ij(1), ij(2), min_bar];
+        
+        tocs(rep) = toc(tstart);
     end
     
+    toc_parfor = toc(tstart_parfor);
+    disp(['get_barrier_mat_quick -> par = ' num2str(size(pair_ij,1)) ', parfor toc = ' num2str(toc_parfor) ', max toc = ' num2str(max(tocs))]);
+
     for rep = 1:size(pair_ij,1)
         ij = barrier_mat_seq(rep, 1:2);
         min_bar = barrier_mat_seq(rep, 3);
