@@ -1,0 +1,129 @@
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2016 The MathWorks, Inc.
+                   R2016b (9.1.0.441655) 64-bit (glnxa64)
+                             September 7, 2016
+
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+Building with 'g++'.
+MEX completed successfully.
+Building with 'g++'.
+MEX completed successfully.
+Building with 'g++'.
+MEX completed successfully.
+Building with 'g++'.
+MEX completed successfully.
+Building with 'g++'.
+MEX completed successfully.
+Building with 'g++'.
+MEX completed successfully.
+Building with 'g++'.
+MEX completed successfully.
+Building with 'g++'.
+MEX completed successfully.
+Building with 'g++'.
+MEX completed successfully.
+Building with 'g++'.
+MEX completed successfully.
+Building with 'g++'.
+MEX completed successfully.
+Building with 'g++'.
+MEX completed successfully.
+Building with 'g++'.
+MEX completed successfully.
+Building with 'g++'.
+MEX completed successfully.
+Building with 'g++'.
+MEX completed successfully.
+Building with 'g++'.
+MEX completed successfully.
+Building with 'g++'.
+In file included from /home/enijkamp/elm_map_trees/matconvnet-1.0-beta16/matlab/src/bits/impl/imread_libjpeg.cpp:14:0:
+/home/enijkamp/elm_map_trees/matconvnet-1.0-beta16/matlab/src/bits/impl/imread_helpers.hpp:35:2: warning: #warning "SSSE3 instruction set not enabled. Using slower image conversion routines." [-Wcpp]
+ #warning "SSSE3 instruction set not enabled. Using slower image conversion routines."
+  ^
+
+MEX completed successfully.
+Building with 'g++'.
+MEX completed successfully.
+Building with 'g++'.
+MEX completed successfully.
+Building with 'g++'.
+MEX completed successfully.
+Building with 'g++'.
+MEX completed successfully.
+Building with 'g++'.
+MEX completed successfully.
+Building with 'g++'.
+MEX completed successfully.
+Building with 'gcc'.
+MEX completed successfully.
+Building with 'gcc'.
+MEX completed successfully.
+Building with 'gcc'.
+MEX completed successfully.
+Building with 'gcc'.
+MEX completed successfully.
+Building with 'gcc'.
+MEX completed successfully.
+Building with 'gcc'.
+MEX completed successfully.
+Starting parallel pool (parpool) using the 'comet4' profile ... [Warning: The system time zone setting, 'US/Pacific-New', does not specify a
+single time zone unambiguously. It will be treated as 'America/Los_Angeles'.
+See the <a href="matlab:doc('datetime.TimeZone')">datetime.TimeZone
+property</a> for details about specifying time zones.] 
+[> In verifyTimeZone (line 23)
+  In datetime (line 503)
+  In parallel.internal.cluster.FileSerializer>iLoadDate (line 345)
+  In parallel.internal.cluster.FileSerializer/getFields (line 100)
+  In parallel.internal.cluster.CJSSupport/getProperties (line 252)
+  In parallel.internal.cluster.CJSSupport/getJobProperties (line 463)
+  In parallel.internal.cluster.CJSJobMixin/hGetProperty (line 70)
+  In parallel.internal.cluster.CJSJobMixin/hSetTerminalStateFromCluster (line 98)
+  In parallel.cluster.CJSCluster/hGetJobState (line 361)
+  In parallel.internal.cluster.CJSJobMixin/getStateEnum (line 136)
+  In parallel.Job/get.StateEnum (line 214)
+  In parallel.Job/get.State (line 206)
+  In parallel.internal.customattr.CustomGetSet>iVectorisedGetHelper (line 107)
+  In parallel.internal.customattr.CustomGetSet>@(a,b,c)iVectorisedGetHelper(obj,a,b,c) (line 89)
+  In parallel.internal.customattr.CustomGetSet/doVectorisedGet (line 90)
+  In parallel.internal.customattr.CustomGetSet/hVectorisedGet (line 64)
+  In parallel.internal.customattr.GetSetImpl>iAccessProperties (line 289)
+  In parallel.internal.customattr.GetSetImpl>iGetAllProperties (line 250)
+  In parallel.internal.customattr.GetSetImpl.getImpl (line 124)
+  In parallel.internal.customattr.CustomGetSet/get (line 30)
+  In parallel.internal.pool.InteractiveClient/pRemoveOldJobs (line 464)
+  In parallel.internal.pool.InteractiveClient/start (line 311)
+  In parallel.Pool>iStartClient (line 567)
+  In parallel.Pool.hBuildPool (line 446)
+  In parallel.internal.pool.doParpool (line 15)
+  In parpool (line 89)
+  In ivy_512_barmat_1 (line 13)] 
+connected to 24 workers.
+exp 1
+get_AD_order -> par = 1000, parfor toc = 4.6938, max toc = 0.47696
+get_AD_order -> par = 1000, parfor toc = 4.1088, max toc = 0.18248
+get_AD_order -> par = 1000, parfor toc = 4.1778, max toc = 0.17002
+get_AD_order -> par = 1000, parfor toc = 3.9254, max toc = 0.20599
+get_AD_order -> par = 1000, parfor toc = 3.8388, max toc = 0.17349
+get_AD_order -> par = 1000, parfor toc = 3.7919, max toc = 0.14728
+get_AD_order -> par = 1000, parfor toc = 3.8445, max toc = 0.16684
+get_AD_order -> par = 1000, parfor toc = 3.8036, max toc = 0.12594
+get_AD_order -> par = 1000, parfor toc = 3.8497, max toc = 0.17756
+get_AD_order -> par = 1000, parfor toc = 3.8145, max toc = 0.10257
+get_AD_order -> par = 1000, parfor toc = 3.7919, max toc = 0.17361
+get_AD_order -> par = 1000, parfor toc = 3.8432, max toc = 0.11682
+get_AD_order -> par = 1000, parfor toc = 3.8338, max toc = 0.10029
+get_AD_order -> par = 1000, parfor toc = 3.815, max toc = 0.17125
+get_AD_order -> par = 1000, parfor toc = 3.7824, max toc = 0.10341
+get_AD_order -> par = 1000, parfor toc = 3.8236, max toc = 0.17482
+get_AD_order -> par = 1000, parfor toc = 3.8021, max toc = 0.10799
+get_AD_order -> par = 1000, parfor toc = 3.8043, max toc = 0.12428
+get_AD_order -> par = 1000, parfor toc = 3.8081, max toc = 0.1527
+get_AD_order -> par = 1000, parfor toc = 3.7552, max toc = 0.15503
+get_AD_order -> par = 1000, parfor toc = 3.7729, max toc = 0.11091
+get_AD_order -> par = 1000, parfor toc = 3.7916, max toc = 0.104
+get_AD_order -> par = 1000, parfor toc = 3.7932, max toc = 0.15346
