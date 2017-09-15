@@ -34,6 +34,7 @@ for i = 1:10
     bar_mat = get_barrier_mat_quick(ELM);
     
     %save results
+    if ~exist([ELM.config.tree_folder,file_str],'dir') mkdir([ELM.config.tree_folder,file_str]); end
     save([ELM.config.tree_folder,file_str,'/bar_mat',num2str(i),'.mat'],'bar_mat');
 end
 
