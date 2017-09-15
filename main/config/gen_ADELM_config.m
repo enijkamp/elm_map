@@ -1,7 +1,7 @@
 function config = gen_ADELM_config(ELM_str,net_file)
     % location of Coop nets
     if nargin<1 || isempty(ELM_str)
-        config.ELM_str = 'ivy/512/'; 
+        config.ELM_str = 'ivy/128/'; 
     else
         config.ELM_str = ELM_str;
     end
@@ -34,7 +34,7 @@ function config = gen_ADELM_config(ELM_str,net_file)
 
     %attraction diffusion
     config.AD_temp = 20; % AD temperature parameter
-    config.alpha = 2500; % AD magnetization strength
+    config.alpha = 1280; % AD magnetization strength
     %4700
     config.max_AD_iter = 5000;  % max iters for AD trial
     config.AD_no_improve = 40; % consecutive iters to stop search
@@ -56,32 +56,33 @@ function config = gen_ADELM_config(ELM_str,net_file)
     
     % parameters for barrier estimation
     config.bar_temp = 20;
-    config.bar_alpha = 1.4; 
+    config.bar_alpha = 8000; 
     config.bar_factor = 1.05; %grid search factor, greater than 1
-    config.bar_checks = 3; % number of AD trials during bar search
+    config.bar_AD_reps = 4; % number of AD trials during bar search
+    config.max_bar_checks = 15; % number of checks in barrier search
         
     % data location
-    config.data_path = '../../data/';
+    config.data_path = '/Users/mitch/Dropbox/coop ADELM/data/';
     % location of Co-op Nets
-    config.net_path = '../../nets/';
+    config.net_path = '/Users/mitch/Dropbox/coop ADELM/nets/';
     % folder for ELM results
-    config.ELM_folder = '../../maps/';
+    config.ELM_folder = '/Users/mitch/Dropbox/coop ADELM/maps/';
     % folder for images in generator space
-    config.im_folder = '../../ims/';
+    config.im_folder = '/Users/mitch/Dropbox/coop ADELM/ims/';
     % folder for ELM Trees
-    config.tree_folder = '../../trees/';
+    config.tree_folder = '/Users/mitch/Dropbox/coop ADELM/trees/';
 
     % create results directory
-    if ~exist('../../maps/', 'dir')
-        mkdir('../../maps/')
+    if ~exist('/Users/mitch/Dropbox/coop ADELM/maps/', 'dir')
+        mkdir('/Users/mitch/Dropbox/coop ADELM/maps/')
     end
 
-    if ~exist('../../ims/', 'dir')
-        mkdir('../../ims/')
+    if ~exist('/Users/mitch/Dropbox/coop ADELM/ims/', 'dir')
+        mkdir('/Users/mitch/Dropbox/coop ADELM/ims/')
     end
     
-    if ~exist('../../trees/', 'dir')
-        mkdir('../../trees/')
+    if ~exist('/Users/mitch/Dropbox/coop ADELM/trees/', 'dir')
+        mkdir('/Users/mitch/Dropbox/coop ADELM/trees/')
     end
     
     %%%read in networks%%%
