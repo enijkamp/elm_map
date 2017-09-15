@@ -52,7 +52,7 @@ end
  % 2048
  % (1) 788.1043
  % (2) 1.1481e+03
- alpha_seq = 675.6724 * 1.4568.^(0:9);
+ alpha_seq = 788.1043 * 1.4568.^(0:9);
  
  config = gen_ADELM_config(file_str);
  nsteps = config.nsteps;
