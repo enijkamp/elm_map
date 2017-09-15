@@ -19,7 +19,8 @@ function [barrier_mat,alpha_mat,sym_mat] = get_barrier_mat(config,des_net,...
     for i = 1:(num_mins-1)
         z_i = single(min_z(:,:,:,i));
         for j = (i+1):num_mins
-            %disp('****');
+            disp('****');
+            disp([i,j]);
             z_j = single(min_z(:,:,:,j));
             [alpha1,alpha2,bars1,bars2] = get_metastable_region(config,...
                 des_net,gen_net,z_i,z_j,config.bar_temp,config.bar_alpha);

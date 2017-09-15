@@ -7,7 +7,7 @@ function [barrier,a_bar,a_border] = find_metastable_border(config,des_net,gen_ne
     count = 0;
     barrier = flintmax;
     a_bar = config.alpha;
-    while mem == 0 && count < config.bar_checks
+    while mem == 0 && count < config.bar_AD_reps
         AD_out = gen_AD(config,des_net,gen_net,z,z_target,1);
         bar_est = flintmax;
         if AD_out.mem == 1, bar_est = max(AD_out.ens); end
@@ -27,7 +27,7 @@ function [barrier,a_bar,a_border] = find_metastable_border(config,des_net,gen_ne
         
         mem = 0;
         count = 0;
-        while mem == 0 && count < config.bar_checks
+        while mem == 0 && count < config.bar_AD_reps
             AD_out = gen_AD(config,des_net,gen_net,z,z_target,1);
             bar_est = flintmax;
             if AD_out.mem == 1, bar_est = max(AD_out.ens); end
