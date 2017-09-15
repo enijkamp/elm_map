@@ -68,7 +68,7 @@ function barrier_mat = get_barrier_mat_quick(ELM)
         bar2 = flintmax;
         if AD_out2.mem == 1, bar2 = max(AD_out2.ens); end
         min_bar = min(bar1,bar2);
-        disp([num2str(rep) ' min_bar=' min_bar]);
+        disp([num2str(rep) ' min_bar=' num2str(min_bar)]);
         if AD_out1.mem==1 || AD_out2.mem ==1
             for k = 1:(config.bar_AD_reps-1)
                 disp([num2str(rep) ' k+1=' num2str(k+1)]);
